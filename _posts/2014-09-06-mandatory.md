@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No Longer Mandatory
-preview: No one likes to be told what to do. Here's what I've learned about side projects. 
+preview: No one likes to be told what to do. A case for side projects. 
 ---
 
 Home run. 
@@ -33,7 +33,7 @@ One of our tasks was transcribing quotes of coaches and athletes. This way we di
 
 I grew to hate it. Because it was a mandatory part of my job.
 
-Six months ago, I found myself watching a long interview with [Jason Fried](https://twitter.com/jasonfried). The Chicago Founders' Stories series, hosted by [Pat Ryan](https://twitter.com/PatRyanChicago), [asked Jason questions](http://vimeo.com/88749951) about Basecamp, his company. It was a fascinating interview. 
+Six months ago, I found myself watching a long interview with [Jason Fried](https://twitter.com/jasonfried). The Chicago Founders' Stories series, hosted by [Pat Ryan](https://twitter.com/PatRyanChicago), asked Jason [questions](http://vimeo.com/88749951) about Basecamp, his company. It was a fascinating interview. 
 
 So much that I found myself playing a few parts back. One specific part where Jason discusses the advice they received from Jeff Bezos. 
 
