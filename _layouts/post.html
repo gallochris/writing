@@ -18,17 +18,16 @@ layout: default
         </div>
         <hr>
 <div class="quinshad">
-<h3>Read These Next</h3>
-    {% for post in site.related_posts limit: 1 %}
+<h3>Catch Up on the Latest Posts</h3>
+    {% for post in site.related_posts limit: 3 %}
         <h2>
           <a href="{{ post.url }}">
             {{ post.title }}
           </a>
         </h2>
-        <h3 style="color: #333;">{{ post.preview }}</h3>
     {% endfor %}
     <h3><a href="http://blog.hotdogsandeggs.com/best">Most Popular Posts</a></h3>
-    <h3><a href="http://blog.hotdogsandeggs.com/list">View the Archives</a></h3>
+    <h3><a href="http://blog.hotdogsandeggs.com/list">The Archives</a></h3>
 
 
 </div>
