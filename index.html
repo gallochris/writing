@@ -10,11 +10,7 @@ title: Blog | Chris Gallo
         <h2 style="color: #fff">A story about learning by <br/><a href ="#sayhello" style="color: #fff">Chris Gallo</a>.</h2>
         </div>
   </div>
-      <div class="rasheedwallace" style="padding: 1em">
-  <h2><a href="http://blog.hotdogsandeggs.com/best">Most Popular Posts</a></h2>
-  <br/>
-  <h3>Latest Post</a></h3>
-  </div>
+     
        {% for post in paginator.posts %}
     <div class="rasheedwallace">
        <h4>{{ post.date | date: '%B %d, %Y' }}</h4>
