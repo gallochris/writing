@@ -10,7 +10,7 @@ There is someone in front you and someone behind you. You're stuck.
 
 I remember standing in line at Time Warner Cable one Saturday morning to return equipment. I was there for an hour and a half with other brave souls. 
 
-92. Time Warner Cable literally passed out numbers. That's a terrible way to make people feel. 
+Ninety-two. Time Warner Cable literally passed out numbers. That's a terrible way to make people feel. 
 
 * * * 
 
