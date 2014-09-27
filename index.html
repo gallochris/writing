@@ -21,6 +21,7 @@ title: Blog | Chris Gallo
     </div>
     </div>
        {% for post in paginator.posts %}
+       {% unless post.draft %}
     <div class="rasheedwallace">
        <h4>{{ post.date | date: '%B %d, %Y' }}</h4>
      <a href ="{{ post.url }}" class="titles">{{ post.title }}</a>
