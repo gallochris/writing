@@ -4,13 +4,22 @@ title: Blog | Chris Gallo
 ---
 
 <body class="shaq">
-<div style="background-color: #000;">
+<div style="background-color: #fff;">
     <div class="rasheedwallace">
-       <a href="{{ site.url }}"><h1 style="color: #fff;">{{ site.name }}</h1></a>
-        <h2 style="color: #fff">A story about learning by <br/><a href ="#sayhello" style="color: #fff">Chris Gallo</a>.</h2>
+       <a href="{{ site.url }}"><h1 style="color: #000;">{{ site.name }}</h1></a>
+        <h2 style="color: #000">A story about learning by <br/><a href ="#sayhello" style="color: #000">Chris Gallo</a>.</h2>
         </div>
   </div>
-     <h3>Latest Post</h3>
+  <div class="unc">
+    <div class="rasheedwallace">
+      <h4>Featured Post</h4>
+      <h1>Other People's Shoes/h1>
+      <h2 style="color: #333;">There is a difference between empathy and sympathy. What is it?</h2>
+          
+          <a style="text-align: center; text-transform: uppercase;" href="http://blog.hotdogsandeggs.com/featured/2014-09-26-shoes.html" class="bellybutton" >Start Reading</a>
+
+    </div>
+    </div>
        {% for post in paginator.posts %}
     <div class="rasheedwallace">
        <h4>{{ post.date | date: '%B %d, %Y' }}</h4>
