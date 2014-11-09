@@ -20,32 +20,23 @@ title: Blog | Chris Gallo
 
     </div>
     </div>
-       {% for post in paginator.posts %}
-       {% unless post.draft %}
+<body class="shaq">
+<div style="background-color: #000;">
     <div class="rasheedwallace">
-       <h4>{{ post.date | date: '%B %d, %Y' }}</h4>
-     <a href ="{{ post.url }}" class="titles">{{ post.title }}</a>
-                    <h2 style="color: #333;">{{ post.preview }}</h2>
-                              </div>
-      <hr>
-    {% endunless %}
-    {% endfor %}
+       <a href="{{ site.url }}"><h1 style="color: #fff;">{{ site.name }}</h1></a>
+        <h2 style="color: #fff">A story about learning by <br/><a href ="#sayhello" style="color: #fff">Chris Gallo</a>.</h2>
+        </div>
+  </div>
 
-<div class="quinshad">
-
-    {% if paginator.previous_page %}
-    {% if paginator.previous_page == 1 %}
-        {% capture previous_page %}/{% endcapture %}
-    {% else %}
-        {% capture previous_page %}/page{{ paginator.previous_page }}{% endcapture %}
-    {% endif %}
-    <a href="{{ previous_page }}" class="previous">&larr; Newer</a>
-{% endif %}
+ <div class="rasheedwallace words">
+ <h1 style="text-align: center">Archive of All Posts</h1>
+{% for post in site.posts %}
+  <ul style="list-style: none;">
+  <li><a href="{{ post.url }}">{{ post.title }} {{ post.guest }}</a> <div style="color: #acacac;">{{ post.date | date: '%B %d, %Y' }}</div></li>
+  </ul>
+     {% endfor %}
  
-{% if paginator.next_page %}
-    <a href="/page{{ paginator.next_page }}" class="next">Older &rarr;</a>
-{% endif %}
 
-</div>
+      </div>
     
 
