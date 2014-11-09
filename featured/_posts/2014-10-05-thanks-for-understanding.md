@@ -2,7 +2,7 @@
 layout: post
 title: Thanks for Understanding 
 preview: Two stories to share. Compare and contrast. Both involve trips to a cafe.
-draft: true
+draft: false
 ---
 
 Two stories to share. Compare and contrast. Both involve trips to a cafe. And how these places communicate with you.  
