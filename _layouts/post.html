@@ -4,7 +4,7 @@ layout: default
 <div style="background-color: #000;">
     <div class="rasheedwallace">
        <a href="{{ site.url }}"><h1 style="color: #fff;">{{ site.name }}</h1></a>
-        <h2 style="color: #fff">A story about learning by <br/><a href ="#sayhello" style="color:#fff">Chris Gallo</a>.</h2>
+        <h2 style="color: #fff">A story about learning by <br/><a href ="http://hotdogsandeggs.com" style="color:#fff">Chris Gallo</a>.</h2>
         </div>
   </div>
 <body class="shaq">
@@ -18,12 +18,12 @@ layout: default
         </div>
         <hr>
 <div class="quinshad">
-<h3>Catch Up on the Latest Posts</h3>
+<h2>Catch Up on the Latest Posts</h2>
     {% for post in site.related_posts limit: 3 %}
-        <h2>
+        <h3>
           <a href="{{ post.url }}">
             {{ post.title }}
           </a>
-        </h2>
+        </h3>
     {% endfor %}
 </div>
