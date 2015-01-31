@@ -2,7 +2,7 @@
 layout: post
 title: The Best Answer is a Question
 preview: Never underestimate the power of asking a question.
-draft: true
+draft: false
 ---
 A family friend of mine is trying to sell his house. He went through the long process of updating the home and putting it on the market. And he finally got an offer from a couple.   
 
