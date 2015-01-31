@@ -2,6 +2,7 @@
 layout: post
 title: Procrastination 
 preview: What will you choose to procrastinate today? 
+draft: true
 ---
 
 We all procrastinate. 
