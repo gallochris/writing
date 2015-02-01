@@ -297,7 +297,7 @@ hr {
     background-image:-o-linear-gradient(left,rgba(0,0,0,0),rgba(0,0,0,0.75),rgba(0,0,0,0))
 }
 
-.@media all and (max-width: 320px) {
+@media all and (max-width: 320px) {
 h1 {
     font-family:times,Times New Roman,times-roman,georgia,serif;
     color:#333;
