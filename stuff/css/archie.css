@@ -121,8 +121,6 @@ hr {
 /* LINKS */
 a {
     font-family:Gill Sans,Verdana;
-    font-size:21px;
-    line-height:24px;
     letter-spacing:2px;
     color:#333;
     text-decoration:none;
@@ -180,7 +178,7 @@ a:hover {
 /* PAGINATION */
 .quinshad {
     max-width:540px;
-    padding:2em;
+    padding:1em;
     margin-left:auto;
     margin-right:auto;
     overflow:hidden
