@@ -20,10 +20,10 @@ layout: default
 <div class="quinshad">
 <h2>Catch Up on the Latest Posts</h2>
     {% for post in site.related_posts limit: 3 %}
-        <h3>
+        <h4>
           <a href="{{ post.url }}">
             {{ post.title }}
           </a>
-        </h3>
+        </h4>
     {% endfor %}
 </div>
