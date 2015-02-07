@@ -37,7 +37,7 @@ I've learned doing the work for the customer and saving them time brings lots of
 
 Another tough lesson is that you can't always get the Warm Fuzzies. Sometimes you have to disappoint people that are using your product. 
 
-Highrise hasn't been updated for a very long time. We're fortunate to have an awesome group of customers, but all of us have gotten very used to how Highrise works. Our [small team](https://signalvnoise.com/posts/3837-combine) of 5 people is tasked with making the product better. 
+Highrise hasn't been updated for a very long time. We're fortunate to have an awesome group of customers, but all of us have gotten very used to how Highrise works. Our [small team](https://signalvnoise.com/posts/3837-combine) of five people is tasked with making the product better. 
 
 The challenge is there are lots of ways to make it better. 
 
