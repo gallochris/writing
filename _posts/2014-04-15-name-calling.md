@@ -2,6 +2,9 @@
 layout: post
 title: Name Calling 
 preview: Users. Clients. Customers. Subscribers. Leads.
+permalink: /blog/name-calling/
+redirect_from:
+  - http://blog.hotdogsandeggs.com/2014/04/15/name-calling/
 ---
 
 Users. Clients. Customers. Subscribers. Leads.  

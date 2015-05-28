@@ -2,6 +2,9 @@
 layout: post
 title: Rankings are Book Covers
 preview: Don't judge a book by it's cover. Or anything by it's ranking.
+permalink: /blog/rankings/
+redirect_from:
+  - http://blog.hotdogsandeggs.com/2014/04/06/rankings-are-book-covers/
 ---
 
 In high school, I remember wrapping my textbooks with a paper bag. The covers protected the books, so schools didn't have to buy new ones every year. 

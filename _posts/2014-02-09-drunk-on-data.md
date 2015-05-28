@@ -2,11 +2,14 @@
 layout: post
 title: Drunk on Data
 preview: Numbers drive too many of our decisions. We're data drunks. 
+permalink: /blog/drunk-on-data/
+redirect_from:
+  - http://blog.hotdogsandeggs.com/2014/02/09/drunk-on-data/
 ---
 
 
 You can make numbers say whatever you want. 
-* * *
+
 In 2010, I kept score of almost 100 baseball games. As a sports information director at UNC and a press officer for USA Baseball, I saw my fair share of statistics. It's here I learned an important lesson. 
 
 > "Statistics are like a bikini. They show a lot, but still cover up some very vital information."
@@ -22,6 +25,7 @@ The crew stared at the stats. 4-2 record. Solid strikeout-to-walk ratio. But the
 I could of pulled out more numbers and tried to state my case. A win-loss record of a pitcher is about as meaningful as your fifth grade report card. But all I said was the numbers are misleading in those 3 games.
 
 The crew chuckled and dismissed my comment, hypnotized by the numbers. 
+
 * * *
 
 Fast-forward a few years later. I work for an analytics company. We help online businesses measure all aspects of their commerce. I interact with businesses owners and entrepreneurs who rely on these numbers everyday. 
@@ -33,12 +37,13 @@ Last month, I found myself in an interesting conversation. I began to ask a cust
 He went on to explain how we've all fallen in love with data. We measure stuff because we can, not because we should. The numbers drive too many of our decisions.
 
 We're data drunks. 
+
 * * *
+
 Back to that muggy April night. The UNC pitcher single-handedly led his team to victory. And 3 years later, [Matt Harvey](http://www.goheels.com/ViewArticle.dbml?ATCLID=208697160) was the starting pitcher in the MLB All-Star game.
 
 You could rave about how he shoved a complete-game or struck out 15 batters that night. But as the radio crew that only believed the stats a few hours earlier admitted . . . 
 
 > "Numbers won't tell you the whole story." 
 
-* * *
-Because numbers can't talk.
+*Because numbers can't talk.*

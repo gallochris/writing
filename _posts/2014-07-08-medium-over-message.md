@@ -2,6 +2,9 @@
 layout: post
 title: Medium > Message
 preview: Stop making the easy things hard for your customers.
+permalink: /blog/medium-message/
+redirect_from:
+  - http://blog.hotdogsandeggs.com/2014/07/08/medium-over-message/
 ---
 You have an amazing amount of ways to communicate.
 
@@ -19,10 +22,11 @@ It's full of colors. Perceptions. Assumptions. And feelings.
 
 Without changing the message, the medium can radically change how you feel. 
 
-#Here's a simple example
+## Here's a simple example
 
 * * * 
-##Animated Gifs & Static Images/Text
+
+### Animated Gifs & Static Images/Text
 
 You've stumbled across the message before when surfing the web. A 404 page. It means you're on a page that no longer exists or at a broken link. It's the most common error message on the Internet. 
 
@@ -30,14 +34,14 @@ Simple message. But the medium makes an enormous difference in how you feel.
 
 Take [mlb.com/404](http://mlb.com/404) and [espn.com/404](http://espn.com/404) as an example. Both sites present the same error message. The page you tried to visit doesn't exist. 
 
-###How does the ESPN example make you feel? 
+### How does the ESPN example make you feel? 
 
 Ads are not going to help here. The page features tons of links and a search bar. But this message is just plain and ordinary.
 
 [![espn404.png](https://d23f6h5jpj26xu.cloudfront.net/wpxtlnj95o4gma_small.png)](http://img.svbtle.com/wpxtlnj95o4gma.png)
 
 
-###Now what about the MLB example? 
+### Now what about the MLB example? 
 
 The medium of an animated gif entertains you. This makes you smile. You almost want to refresh the page to see the next blunder. It's a brilliant way to deliver a simple message. 
 
@@ -61,4 +65,4 @@ Rather than texting your parents. Call and tell them you love them.
 
 Don't ask someone to 'connect' on LinkedIn. Grab a cup coffee. 
 
-**Because the medium beats the message.** 
+*Because the medium beats the message.*

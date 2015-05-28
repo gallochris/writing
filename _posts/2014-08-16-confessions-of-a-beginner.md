@@ -2,6 +2,9 @@
 layout: post
 title: Confessions of a Beginner
 preview: This is what I learned writing the code from scratch for my website. 
+permalink: /blog/beginner-confessions/
+redirect_from:
+  - http://blog.hotdogsandeggs.com/2014/08/16/confessions-of-a-beginner/
 ---
 This week I put a new coat of paint on my personal website - [hotdogsandeggs.com](http://hotdogsandeggs.com). 
 
@@ -11,7 +14,7 @@ I'm a beginner. And this is what I learned writing the code on my own.
 
 * * * 
 
-##It's Not Scary
+## It's Not Scary
 
 > HTML is just going around with a label maker and throwing labels on everything.
 
@@ -31,7 +34,7 @@ It's not scary.
 
 * * * 
 
-##Rip Something Off 
+## Rip Something Off 
 
 [Jim Cloudal believes](http://humblepied.com/jim-coudal/) you should find something you like and rip it off. 
 
@@ -61,7 +64,7 @@ There is nothing wrong with ripping something off to help you learn. As Frank st
 
 * * * 
 
-##Email is a Great Way to Learn
+## Email is a Great Way to Learn
 
 Lots of people want to kill email or declare it's dying. It's simply not true. As [Alex Madrigal describes](http://www.theatlantic.com/technology/archive/2014/08/why-email-will-never-die/375973/), email is "the cockroach of the Internet." 
 
@@ -93,7 +96,7 @@ It's an awesome way to learn.
 
 * * * 
 
-##So What's Next? 
+## So What's Next? 
 
 Learning to code is not easy. But it's so rewarding when you build something that makes you proud. 
 

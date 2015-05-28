@@ -2,6 +2,9 @@
 layout: post
 title: No Longer Mandatory
 preview: No one likes to be told what to do. A case for side projects. 
+permalink: /blog/mandatory/
+redirect_from:
+  - http://blog.hotdogsandeggs.com/2014/09/06/mandatory/
 ---
 
 Home run. 
@@ -55,7 +58,7 @@ All because it was no longer mandatory.
 
 It's sparked other ideas for more side projects too. 
 
-##Tom Haverfoods Meets Dale Carnegie 
+## Tom Haverfoods Meets Dale Carnegie 
 
 I used to hate reading in high school and college. Your assigned to read to chapter 13 by next Tuesday or 250 pages by the end of the week. It was mandatory. And no fun. 
 

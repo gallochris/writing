@@ -2,6 +2,9 @@
 layout: post
 title: Focus is Saying No
 preview: Focus is not about trying hard or Doing more. It's about saying no.  
+permalink: /blog/focus/
+redirect_from:
+  - http://blog.hotdogsandeggs.com/2014/04/25/focus-is-saying-no/
 ---
 
 People describe it as sketchy. Ghetto. Lame because you can't even get a mixed drink. The bathrooms are gross. And it smells like urinal cakes inside. 

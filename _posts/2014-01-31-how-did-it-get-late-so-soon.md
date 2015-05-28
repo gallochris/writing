@@ -2,6 +2,9 @@
 layout: post
 title: Time
 preview: How did it get so late so soon? Time is a lot of things.
+permalink: /blog/time/
+redirect_to:
+  - http://blog.hotdogsandeggs.com/2014/01/31/how-did-it-get-late-so-soon/
 ---
 
 Time is money.  Billable or non-billable. Timelines and timetables. Measured by timecards and timesheets.

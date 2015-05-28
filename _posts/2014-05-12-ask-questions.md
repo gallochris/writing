@@ -2,6 +2,9 @@
 layout: post
 title: The Best Answer is a Question
 preview: Never underestimate the power of asking a question.
+permalink: /blog/best-answer-question/
+redirect_from:
+  - http://blog.hotdogsandeggs.com/2014/05/12/ask-questions/
 ---
 A family friend of mine is trying to sell his house. He went through the long process of updating the home and putting it on the market. And he finally got an offer from a couple.   
 
@@ -11,9 +14,7 @@ The deal was in place, but then it vanished. You'll never believe the reason why
 
 People rarely tell you the truth. Big lies. Little lies. White lies. It happens all of the time. 
 
-> "Individuals are honest only to the extent that suits them, including their desire to please others.
-
-> Dan Ariely, Predictably Irrational 
+> "Individuals are honest only to the extent that suits them, including their desire to please others." - Dan Ariely, Predictably Irrational 
 
 Think about all your daily interactions. It could be with a loved one, co-worker, client, customer, or the mailman. These conversations are built on assumptions and biases. In other words - lies. 
 

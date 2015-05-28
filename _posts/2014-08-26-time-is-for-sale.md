@@ -2,7 +2,9 @@
 layout: post
 title: What is Time? 
 preview: Time is money. You can save it. And buy it. Because Time is for sale.
-
+permalink: /blog/what-is-time/
+redirect_from:
+  - http://blog.hotdogsandeggs.com/2014/08/26/time-is-for-sale/
 ---
 
 What is time? 
@@ -23,7 +25,8 @@ But what is time?
 
 * * * 
 
-##Draft 
+## Draft 
+
 Nathan Kontny has a [simple theory](http://ninjasandrobots.com/how-to-get-business-ideas-remove-steps) about how to get business ideas. 
 
 1. Find a job people have.
@@ -50,7 +53,7 @@ Draft is selling time.
 
 * * * 
 
-##Uber 
+## Uber 
 
 Last week I needed to hitch a ride to Union Station in Washington DC to catch the Megabus at 7:00 am. I live about four miles from the Metro in Arlington, VA. 
 
@@ -72,7 +75,7 @@ Uber is selling time.
 
 * * * 
 
-##Napster
+## Napster
 
 This idea of eliminating steps has been around for a while. Remember Napster? Go down memory lane and watch the documentary **[Downloaded](http://www.wired.com/2013/03/exclusive-clip-napster-doc-downloaded/)**. 
 

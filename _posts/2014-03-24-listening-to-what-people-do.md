@@ -2,6 +2,9 @@
 layout: post
 title: Listening to What People Do
 preview: How do you listen? Because there are two ways to listen.
+permalink: /blog/listen-to-what-people-do/
+redirect_from:
+  - http://blog.hotdogsandeggs.com/2014/03/24/listening-to-what-people-do/
 ---
 
 Almost every weekday morning this past summer, I went to my local YMCA to exercise. When entering the gym, you stop to grab a key from the YMCA staff to put your things in a locker. 

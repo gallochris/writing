@@ -1,33 +1,19 @@
 ---
 layout: default
 ---
-<div style="background-color: #000;">
-    <div class="rasheedwallace">
-       <a href="{{ site.url }}"><h1 style="color: #fff;">{{ site.name }}</h1></a>
-        <h2 style="color: #fff">A story about learning by <br/><a href ="#sayhello" style="color:#fff">Chris Gallo</a>.</h2>
-        </div>
-  </div>
-<body class="shaq">
-    <div class="rasheedwallace">
-       <h4>{{ page.date | date: '%B %d, %Y' }}</h4>
-      <h1>{{ page.title }}</h1>
-        </div>
-    </div>
-   <div class="rasheedwallace words">
+<a id="top"></a>
+<div class="row">
+<div class="content blog">
+  <div class="eight columns offset by-two">
+  <h1 style="text-align: center">{{ page.title }}</h1>
+  <hr>
      {{content}}
-        </div>
-        <hr>
-<div class="quinshad">
-<h3>Catch Up on the Latest Posts</h3>
-    {% for post in site.related_posts limit: 3 %}
-        <h2>
-          <a href="{{ post.url }}">
-            {{ post.title }}
-          </a>
-        </h2>
-    {% endfor %}
-    <h3><a href="http://blog.hotdogsandeggs.com/best">Most Popular Posts</a></h3>
-    <h3><a href="http://blog.hotdogsandeggs.com/list">The Archives</a></h3>
+<hr>
 
-
+<p class="blog-text"><img src="/images/rock-on.png" alt="Rock on" class="emoji" />Thanks for reading!</p>
+<p style="text-align: center;" ><a href="{{ page.url }}/#top">Go back to top</a>
+<hr>
 </div>
+</div>
+</div>
+

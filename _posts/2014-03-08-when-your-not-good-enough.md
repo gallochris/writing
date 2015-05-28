@@ -2,6 +2,9 @@
 layout: post
 title: Not Good Enough
 preview: So what do you do when you're not good enough?
+permalink: /blog/not-good-enough/
+redirect_from:
+  - http://blog.hotdogsandeggs.com/2014/03/08/when-your-not-good-enough/
 ---
 
 I wanted to help. In one of my old jobs, we needed a designer. As a small company, we were spread thin. And I took the reigns on the design project. 

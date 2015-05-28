@@ -1,13 +1,21 @@
-# Dependencies
-markdown: redcarpet
-pygments: true
+# ==========================
+# == Jekyll Configuration ==
+# ==========================
+markdown: rdiscount
+permalink: :title
 
-# Setup
-title: Hot dogs and eggs blog
-url: http://blog.hotdogsandeggs.com
-paginate: 10
-name: Hot dogs and eggs blog
-description: This a story about learning by Chris Gallo
+# ==========================
+# == Custom Configuration ==
+# ==========================
 
-# Permalinks
-permalink:        pretty
+title: Blog | Hot Dogs and Eggs
+subtitle: "The blog of Chris Gallo."
+url: http://hotdogsandeggs.com/
+description: "Sharing what I learn because it pays to be curious."
+navigation:
+ - title: About
+   url: /about/
+ - title: Blog
+   url: /
+ - title: Say hi
+   url: /about/#contact

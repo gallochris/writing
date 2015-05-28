@@ -2,6 +2,9 @@
 layout: post
 title: Breaking and Learning
 preview: If you're not breaking things, you're not trying hard enough.
+permalink: /blog/break-and-learn/
+redirect_from:
+  - http://blog.hotdogsandeggs.com/2014/05/26/breaking-and-learning/
 ---
 
 The late James Yancey is one of the greatest music producers of all-time. Known as J Dilla, you've heard his creations over legendary songs from - Tribe Called Quest, Janet Jackson, De la Soul, and many more. 

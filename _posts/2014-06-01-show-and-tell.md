@@ -2,6 +2,9 @@
 layout: post
 title: Show, Don't Tell
 preview: Here's three tools to help you get your point across.
+permalink: /blog/show-dont-tell/
+redirect_from:
+  - http://blog.hotdogsandeggs.com/2014/06/01/show-and-tell/
 ---
 
 Show. Don't tell. 
@@ -16,7 +19,7 @@ As a support rep, my days are spent trying to explain to people why they need to
 
 Here's 3 tools to help you get your point across. 
 
-#1. Skitch 
+## 1. Skitch 
 
 This is free web app run by the Evernote. It makes it simple to mark-up a screenshot and explain yourself. 
 
@@ -36,7 +39,7 @@ Now let me show you with Skitch.
 
 * * * 
 
-#2. LICEcap 
+## 2. LICEcap 
 
 Animated gifs are all the rage. But this format can be useful in getting your message across in a simple way. 
 
@@ -54,7 +57,7 @@ To do this you need open Google Chrome as your browser. Then scroll down underne
 
 * * * 
 
-#3. Quicktime and Wistia
+## 3. Quicktime and Wistia
 
 This next tool was introduced to me by a customer. After going back and forth about installing a block of javascript, he decided to show me a 40 second clip of where he was placing the code. He used [Quicktime](http://www.apple.com/quicktime/download/) to record his screen and [Wistia](http://www.screencast.com/) to send the clip straight to my inbox. 
 

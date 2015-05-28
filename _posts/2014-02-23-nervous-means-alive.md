@@ -2,9 +2,12 @@
 layout: post
 title: Nervous Means Alive
 preview: Do you know the difference between nervous and excited?
+permalink: /blog/nervous/
+redirect_from:
+  - http://blog.hotdogsandeggs.com/2014/02/23/nervous-means-alive/
 ---
 
->"It's okay to be nervous, it means your alive."
+> "It's okay to be nervous, it means your alive."
 
 * * *
 
@@ -37,5 +40,6 @@ Your body reacts the same when you're nervous *and* excited. It's simple. If you
 Because Mom was right after all. 
 
 * * * 
+
 Feeling nervous? It just means your alive.  
 

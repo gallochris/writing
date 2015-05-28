@@ -2,6 +2,9 @@
 layout: post
 title: The Language You Use
 preview: Is the medium more important than the message?
+permalink: /blog/langauge-you-use/
+redirect_from:
+  - http://blog.hotdogsandeggs.com/2014/07/16/the-language-you-use/
 ---
 My father will forget more baseball than I will ever know. 
 
@@ -33,7 +36,7 @@ Choose your words carefully. Talk like a trucker. Not a scientist.
 
 * * * 
 
-#Take Net Neutrality 
+## Take Net Neutrality 
 
 This is important topic. But it's not simple to explain. Because the cable giants and FCC have buried it in boring language. 
 
@@ -45,7 +48,7 @@ Instead of hiding behind the boring language, Oliver explains that it means all 
 
 An end to Net Neutrality means companies can out-spend others and create an unequal playing field. A fast lane for the privileged and slow lane for the have-nots.  
 
-##Fast lane for everybody. And a hyper-speed lane for others. 
+## Fast lane for everybody. And a hyper-speed lane for others. 
 
 George Foote, a telecommunications lawyer, says fast lane and slow lane is not true. It really should be fast lane and hyper-speed lane. 
 
@@ -53,7 +56,7 @@ Oliver calls bullshit on this boring explanation. He says it won't be Usain Bolt
 
 ![last-week-tonight-usian-bolt.png](https://draftin.com:443/images/17753?token=lW4JuuYBf9wqIY21u_XbolHeEPkauYHulcOTkYlMV9XQeoK9MHjihkUlnfpojwDS_8J2fm3eKkXEdqHond1_g0U) 
 
-##A dingo as a babysitter. 
+## A dingo as a babysitter. 
 
 President Obama tabbed John Wheeler, a former top lobbyist for cable and telecommunications companies, to be the next chair of the FCC. He used to fight for these companies and now he gets to regulate them. 
 
@@ -61,7 +64,7 @@ All boring language. That's why Oliver explains it as the equivalent of needing 
 
 ![last-week-tonight-dingo-babysitter.png](https://draftin.com:443/images/17755?token=uWyy8XOhRi5rarecSJ3AOCNLZhbDrfyetYgY2GesWPhA9Gn6WkX_S2JQag6CJknT74t-9-dJH0Uk4JMclkUX4jA) 
 
-##Preventing cable company f*ckery. 
+## Preventing cable company f*ckery. 
 
 Oliver shares a clip, where the government uses the following language: *it seeks comment on ways to construe additional language in section 706, and even suggests using section 230B to broaden the scope of the commissions authority*. That's the problem. 
 
@@ -87,7 +90,7 @@ It's a way to make the hitter properly use his bottom hand to swing through the 
 
 * * * 
 
-**Talk like a trucker. Because no one likes boring language.** 
+*Talk like a trucker. Because no one likes boring language.*
 
 
  

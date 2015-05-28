@@ -2,6 +2,9 @@
 layout: post
 title: Unlikely Experience
 preview: Think the next time someone asks how much experience you have. 
+permalink: /blog/unlikely-experience/
+redirect_from:
+  - http://blog.hotdogsandeggs.com/2014/06/13/unlikely-experience/
 ---
 
 
@@ -24,6 +27,7 @@ He asked me to explain or convince the person not to order it well-done. Just tr
 Here goes nothing. 
 
 * * * 
+
 A tuxedo. Credenzas. Tickets. [Crumber](http://www.foodservicewarehouse.com/update-international/tcg-6/p329831.aspx?utm_medium=cpc&utm_term=Update-International-TCG-6&utm_campaign=Table-Crumbers&utm_source=googlepla&source=googleps&gclid=CjgKEAjwwuqcBRCSuoivmIPnkwQSJACpqj3kDUDHAHPDuf-ZtPaKIeB9nz_JjQPHUGLDPRLHwVwMZvD_BwE). And lots of long hours. 
 
 I worked for a fancy restaurant for two years in college. Made lots of money. And spent it all. 
@@ -32,7 +36,7 @@ The experience has never been on my resume. Yet it's the most relevant to any em
 
 Why?
 
-#Communication
+## Communication
 
 Think about your job. Whether you're an engineer, CEO, teacher, or salesman - it's about communication. You have to know how to write. To listen. Ask questions. 
 
@@ -53,7 +57,7 @@ How did you do that?
 
 It's simple. I treat the line cooks like people. And communicate to them that they matter. The reward is a sandwich. 
 
-#Overwhelmed 
+## Overwhelmed 
 
 Have you ever felt buried at work? Stressed out? Burned out? Like you're in over your head? 
 
@@ -69,7 +73,7 @@ You'll understand that it's ok if you screw up. You learn what you're not good a
 
 If you help others, they will help you. 
 
-#Decisions
+## Decisions
 
 You get to make decisions every day. Whether you realize it or not, you're in control of your choices. This means you might have to make tough decisions.
 

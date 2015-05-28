@@ -2,7 +2,9 @@
 layout: post
 title: A Few Words About Transparency
 preview: Easy to see through, understand, or recognize. Obvious. Open. 
-
+permalink: /blog/transparency/
+redirect_from:
+  - http://blog.hotdogsandeggs.com/2014/08/31/transparency/
 ---
 
 "This isn't even the rental application," she confessed.  

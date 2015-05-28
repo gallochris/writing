@@ -2,6 +2,9 @@
 layout: post
 title: Expecting Expectations 
 preview: Is it worse to set the wrong expectation or no expectation?
+permalink: /blog/expectations/
+redirect_from:
+  - http://blog.hotdogsandeggs.com/2014/07/23/expectations/
 ---
 
 Cold. 
@@ -28,13 +31,13 @@ Expectations. These are the fuzzy feelings you have about things. If she will sa
 
 * * * 
 
-##<s>Customer</s> People Expectations
+## <s>Customer</s> People Expectations
 
 Expectations are everything when communicating with customers. Customers always have an expectation in mind - because customers are people. And businesses get choose how to deal with these expectations. 
 
 Set the right expectations and you might have a customer for life. Fail to meet the expectations you set and you'll lose a customer fast. 
 
-##Hiding Price
+## Hiding Price
 
 ![no-price.jpg](https://draftin.com:443/images/18047?token=10c4-I7p7FZJRw3wa7QIA8J_gxjCn1PF4JfAIKChJNUX8dhJqVlGAQLXKaq3nGy9iOf9vf1AQThwW9x6BIINm1w) 
 
@@ -52,7 +55,7 @@ If price is a main concern, it's likely the prospect is not a perfect fit for th
 
 Without an expectation set on price, this young business is failing to understand its customers. Remember, customers are people. And people have expectations. 
 
-##CD Baby's Shipping Policy 
+## CD Baby's Shipping Policy 
 
 ![Screen Shot 2014-07-23 at 2.23.10 PM.png](https://draftin.com:443/images/18050?token=2gvYMLXGzLf-iiHW9CXSAq2b3g1GtfxDhNVk0j5sclSszLdCP_rMmVmRFwms2TXUxefyrOP25nwqfVHO44aGK1A) 
 
