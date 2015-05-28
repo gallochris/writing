@@ -2,7 +2,7 @@
 layout: post
 title: Support Your Product Like a Customer
 category: blog
-permalink: /blog/support-like-a-customer/
+permalink: /support-like-a-customer/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/11/11/support-like-a-customer/
 ---

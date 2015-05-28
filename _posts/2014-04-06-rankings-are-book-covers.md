@@ -2,7 +2,7 @@
 layout: post
 title: Rankings are Book Covers
 preview: Don't judge a book by it's cover. Or anything by it's ranking.
-permalink: /blog/rankings/
+permalink: /rankings/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/04/06/rankings-are-book-covers/
 ---

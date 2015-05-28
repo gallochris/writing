@@ -2,7 +2,7 @@
 layout: post
 title: Be Specific
 preview: Do you follow directions? Or do you color outside the lines?
-permalink: /blog/be-specific/
+permalink: /be-specific/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/06/07/be-specific/
 ---

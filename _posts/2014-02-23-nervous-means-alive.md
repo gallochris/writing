@@ -2,7 +2,7 @@
 layout: post
 title: Nervous Means Alive
 preview: Do you know the difference between nervous and excited?
-permalink: /blog/nervous/
+permalink: /nervous/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/02/23/nervous-means-alive/
 ---

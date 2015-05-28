@@ -2,7 +2,7 @@
 layout: post
 title: Medium > Message
 preview: Stop making the easy things hard for your customers.
-permalink: /blog/medium-message/
+permalink: /medium-message/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/07/08/medium-over-message/
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: No Longer Mandatory
 preview: No one likes to be told what to do. A case for side projects. 
-permalink: /blog/mandatory/
+permalink: /mandatory/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/09/06/mandatory/
 ---

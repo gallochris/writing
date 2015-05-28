@@ -2,7 +2,7 @@
 layout: post
 title: Multiple Choice  
 category: blog
-permalink: /blog/multiple-choice/
+permalink: /multiple-choice/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2015/02/22/multiple-choice/
 ---

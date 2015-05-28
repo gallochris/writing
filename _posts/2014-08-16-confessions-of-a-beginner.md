@@ -2,7 +2,7 @@
 layout: post
 title: Confessions of a Beginner
 preview: This is what I learned writing the code from scratch for my website. 
-permalink: /blog/beginner-confessions/
+permalink: /beginner-confessions/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/08/16/confessions-of-a-beginner/
 ---

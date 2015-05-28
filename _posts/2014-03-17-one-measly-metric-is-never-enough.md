@@ -2,7 +2,7 @@
 layout: post
 title: Is One Number Enough?
 preview: What's a good conversion rate? The best answer is a question.
-permalink: /blog/one-metric/
+permalink: /one-metric/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/03/17/one-measly-metric-is-never-enough/
 ---

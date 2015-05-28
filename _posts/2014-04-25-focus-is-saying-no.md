@@ -2,7 +2,7 @@
 layout: post
 title: Focus is Saying No
 preview: Focus is not about trying hard or Doing more. It's about saying no.  
-permalink: /blog/focus/
+permalink: /focus/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/04/25/focus-is-saying-no/
 ---

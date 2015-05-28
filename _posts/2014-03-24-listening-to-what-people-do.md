@@ -2,7 +2,7 @@
 layout: post
 title: Listening to What People Do
 preview: How do you listen? Because there are two ways to listen.
-permalink: /blog/listen-to-what-people-do/
+permalink: /listen-to-what-people-do/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/03/24/listening-to-what-people-do/
 ---

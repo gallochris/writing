@@ -2,7 +2,7 @@
 layout: post
 title: Unlikely Experience
 preview: Think the next time someone asks how much experience you have. 
-permalink: /blog/unlikely-experience/
+permalink: /unlikely-experience/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/06/13/unlikely-experience/
 ---

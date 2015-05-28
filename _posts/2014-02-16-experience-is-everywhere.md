@@ -2,7 +2,7 @@
 layout: post
 title: Experience 
 preview: If you had experience, you wouldn't need experience.
-permalink: /blog/experience/
+permalink: /experience/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/02/16/experience-is-everywhere/
 ---

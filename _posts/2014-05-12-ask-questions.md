@@ -2,7 +2,7 @@
 layout: post
 title: The Best Answer is a Question
 preview: Never underestimate the power of asking a question.
-permalink: /blog/best-answer-question/
+permalink: /best-answer-question/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/05/12/ask-questions/
 ---

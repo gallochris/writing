@@ -2,7 +2,7 @@
 layout: post
 title: Of Course, But Maybe
 preview: How this Louis CK joke applies to customer service.
-permalink: /blog/of-course-but-maybe/
+permalink: /of-course-but-maybe/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/06/22/making-the-easy-hard/
 ---

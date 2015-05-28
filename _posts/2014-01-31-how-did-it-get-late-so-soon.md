@@ -2,7 +2,7 @@
 layout: post
 title: Time
 preview: How did it get so late so soon? Time is a lot of things.
-permalink: /blog/time/
+permalink: /time/
 redirect_to:
   - http://blog.hotdogsandeggs.com/2014/01/31/how-did-it-get-late-so-soon/
 ---

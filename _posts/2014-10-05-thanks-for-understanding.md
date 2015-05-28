@@ -2,7 +2,7 @@
 layout: post
 title: Thanks for Understanding 
 preview: Two stories to share. Compare and contrast. Both involve trips to a cafe.
-permalink: /blog/thanks-for-understanding/
+permalink: /thanks-for-understanding/
 redirect_from:
   - http://blog.hotdogsandeggs.com/featured/2014/10/05/thanks-for-understanding/
 ---

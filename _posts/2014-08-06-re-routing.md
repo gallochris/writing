@@ -2,7 +2,7 @@
 layout: post
 title: You Can't Rely on Efficiency Alone
 preview: Are you only striving for efficiency? 
-permalink: /blog/efficiency-alone/
+permalink: /efficiency-alone/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/08/06/re-routing/
 ---

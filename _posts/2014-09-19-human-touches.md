@@ -2,7 +2,7 @@
 layout: post
 title: Small Human Touches
 preview: Remind yourself and others around you that we're all just human beings. 
-permalink: /blog/small-human-touches/
+permalink: /small-human-touches/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/09/19/human-touches/
 ---

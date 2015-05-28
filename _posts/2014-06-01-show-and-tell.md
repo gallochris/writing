@@ -2,7 +2,7 @@
 layout: post
 title: Show, Don't Tell
 preview: Here's three tools to help you get your point across.
-permalink: /blog/show-dont-tell/
+permalink: /show-dont-tell/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/06/01/show-and-tell/
 ---

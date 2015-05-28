@@ -2,7 +2,7 @@
 layout: post
 title: Not Good Enough
 preview: So what do you do when you're not good enough?
-permalink: /blog/not-good-enough/
+permalink: /not-good-enough/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/03/08/when-your-not-good-enough/
 ---

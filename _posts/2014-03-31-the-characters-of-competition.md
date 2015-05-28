@@ -2,7 +2,7 @@
 layout: post
 title: Characters of Competition
 preview: Your competitor tomorrow is not your competitor today.
-permalink: /blog/competition/
+permalink: /competition/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/03/31/the-characters-of-competition/
 ---

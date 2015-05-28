@@ -2,7 +2,7 @@
 layout: post
 title: Transcribe & Publish with Draft 
 preview: Tips and tricks for using one of my favorite web apps - Draft. 
-permalink: /blog/transcribe-draft/
+permalink: /transcribe-draft/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/05/07/publish-and-transcribe-with-draft/
 ---

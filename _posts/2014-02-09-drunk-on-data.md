@@ -2,7 +2,7 @@
 layout: post
 title: Drunk on Data
 preview: Numbers drive too many of our decisions. We're data drunks. 
-permalink: /blog/drunk-on-data/
+permalink: /drunk-on-data/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/02/09/drunk-on-data/
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  Write a Cover Letter that gets You an Interview 
 preview: Lessons I've learned writing hundreds of cover letters.
-permalink: /blog/cover-letter/
+permalink: /cover-letter/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/03/01/how-to-write-a-cover-letter-that-gets-you-a-job/
 ---

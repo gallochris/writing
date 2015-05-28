@@ -2,7 +2,7 @@
 layout: post
 title: Cut it in Half
 preview: We're not afraid to use jargon. Buzzwords. Empty words. 
-permalink: /blog/cut-it-in-half/
+permalink: /cut-it-in-half/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/05/19/cut-it-in-half/
 ---

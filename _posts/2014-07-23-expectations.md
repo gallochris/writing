@@ -2,7 +2,7 @@
 layout: post
 title: Expecting Expectations 
 preview: Is it worse to set the wrong expectation or no expectation?
-permalink: /blog/expectations/
+permalink: /expectations/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/07/23/expectations/
 ---

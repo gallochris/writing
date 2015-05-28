@@ -2,7 +2,7 @@
 layout: post
 title: Procrastination 
 category: blog
-permalink: /blog/procrastination/
+permalink: /procrastination/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2015/01/31/procrastination/
 ---

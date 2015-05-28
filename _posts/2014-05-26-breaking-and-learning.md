@@ -2,7 +2,7 @@
 layout: post
 title: Breaking and Learning
 preview: If you're not breaking things, you're not trying hard enough.
-permalink: /blog/break-and-learn/
+permalink: /break-and-learn/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/05/26/breaking-and-learning/
 ---

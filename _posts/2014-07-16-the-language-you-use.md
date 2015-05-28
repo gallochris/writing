@@ -2,7 +2,7 @@
 layout: post
 title: The Language You Use
 preview: Is the medium more important than the message?
-permalink: /blog/langauge-you-use/
+permalink: /langauge-you-use/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/07/16/the-language-you-use/
 ---

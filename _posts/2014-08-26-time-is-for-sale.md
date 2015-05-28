@@ -2,7 +2,7 @@
 layout: post
 title: What is Time? 
 preview: Time is money. You can save it. And buy it. Because Time is for sale.
-permalink: /blog/what-is-time/
+permalink: /what-is-time/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/08/26/time-is-for-sale/
 ---

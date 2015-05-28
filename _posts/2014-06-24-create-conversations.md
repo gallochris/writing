@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don't Be a Robot, Create Conversations
-permalink: /blog/create-conversations/
+permalink: /create-conversations/
 redirect_from:
   - http://blog.hotdogsandeggs.com/2014/06/24/create-conversations/
 ---
