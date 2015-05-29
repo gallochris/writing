@@ -1,0 +1,28 @@
+---
+title: "Blog | Chris Gallo"
+layout: default
+---
+<div class="row">
+<div class="content">
+	<div class="eight columns offset by-two">
+	<h1 style="text-align: center">Hot dogs and eggs blog</h1>
+  <p class="blog-text">It pays to stay curious</p> 
+	<hr>
+{% for post in site.posts %}
+
+  <ul style="list-style: none;">
+   <li>
+    <a href="{{ post.url }}">
+      <div>
+        <span class="blog-title">{{ post.title }}</span>
+        <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
+      </div>
+    </a>
+  </li>
+  </ul>
+     {% endfor %}
+<hr>
+      </div>
+</div>
+</div>
+</div>
