@@ -247,7 +247,7 @@ body {
     font-smoothing:antialiased;
     background-color:#fff;
     color:#404040;
-    font-family:"AvenirNextLTW01-Regular","Avenir Next",sans-serif;
+    font-family: Georgia,"Times New Roman",Times,serif;
     font-size:1rem;
     line-height: normal;
     position:relative;
@@ -333,8 +333,8 @@ h3 {
 }
 
 p {
-    font-size:18px;
-    line-height:normal;
+    font-size:19px;
+    line-height:29px;
     padding-bottom:1em
 }
 
