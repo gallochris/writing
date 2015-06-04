@@ -4,7 +4,6 @@ title: Just Tell Them
 category: blog
 permalink: /just-tell-them/
 ---
-# Just Tell Them
 
 Your product isn't perfect. It has rough edges. Parts that take some time to understand. And things that aren't easy on the first or second try. 
 
