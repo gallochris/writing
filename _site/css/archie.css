@@ -247,7 +247,7 @@ body {
     font-smoothing:antialiased;
     background-color:#fff;
     color:#404040;
-    font-family:"AvenirNextLTW01-Regular","Avenir Next",sans-serif;
+    font-family: Georgia,"Times New Roman",Times,serif;
     font-size:1rem;
     line-height: normal;
     position:relative;
@@ -333,8 +333,8 @@ h3 {
 }
 
 p {
-    font-size:18px;
-    line-height:normal;
+    font-size:19px;
+    line-height:29px;
     padding-bottom:1em
 }
 
@@ -432,7 +432,7 @@ h1 {
 
 .blog-text {
     font-size:28px;
-    text-align:center
+    text-align:center;
 }
 
 .closing-text {
@@ -442,12 +442,19 @@ h1 {
 
 .blog-title {
     font-size:18px;
-    text-transform:uppercase
 }
 
 .date {
     float:right;
     color:#acacac
+}
+
+.readtime {
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+    color: #0099CC;
+    font-size: 16px;
 }
 
 blockquote {
@@ -501,6 +508,15 @@ ul {
 .date {
     display:none
 }
+
+.readtime {
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+    color: #0099CC;
+    font-size: 12px;
+}
+
 }
 
 a.about-me {

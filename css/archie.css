@@ -449,6 +449,14 @@ h1 {
     color:#acacac
 }
 
+.readtime {
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+    color: #0099CC;
+    font-size: 16px;
+}
+
 blockquote {
     font-style:italic;
     background-color:#eee;
@@ -500,6 +508,15 @@ ul {
 .date {
     display:none
 }
+
+.readtime {
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+    color: #0099CC;
+    font-size: 12px;
+}
+
 }
 
 a.about-me {
