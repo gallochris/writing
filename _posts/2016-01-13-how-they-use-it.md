@@ -7,9 +7,13 @@ permalink: /how-they-use-it/
 
 How do people use Coca-Cola? 
 
-I realize that this might be a wide-eyed question. They drink it, right? 
+I realize that this might be a wide-eyed question. 
 
-People drink Coca-Cola. Of course, they do. 
+They drink it, right? 
+
+People drink Coca-Cola. 
+
+Of course, they do. 
 
 [The estimated daily servings](http://www.worldofcoca-cola.com/about-us/coca-cola-history/) of Coca-Cola beverages is 1.9 billion. 
 
@@ -27,7 +31,9 @@ We're a CRM. Full-service web solutions. It's like Groupon for clergy members.
 
 We're all guilty. I work with a small team on [Highrise](https://highrisehq.com/). It can be described as a CRM. 
 
-I have no idea what CRM means. Oh, I know what it stands for. Customer relationship management. 
+I have no idea what CRM means. Oh, I know what it stands for. 
+
+Customer relationship management. 
 
 But what does that mean? 
 
@@ -43,15 +49,17 @@ Do you think all these people use it in the same way?
 
 * * * 
 
+I couldn't understand what I was seeing. "Why the hell are they doing that?" I asked.  
+
 If you've never attended a NASCAR race, I recommend you do because it will change your perspective. 
 
 You might consider NASCAR to be a hilly-billy sport. Or maybe you don't even consider a sport at all. I'm not here to debate that. 
 
 NASCAR is a business, a multi-billion dollar one too. [That's a fact](http://www.forbes.com/nascar-valuations/). 
 
-The access NASCAR gives fans is unreal. I had a chance to witness this myself a few years ago. 
+The access NASCAR gives fans is unreal. I had a chance to find this out myself a few years ago. 
 
-I had a Hot Pass, which means I was allowed to walk around when the garage was "hot" or cars were moving around. 
+I had a **Hot Pass**, which means I was allowed to walk around when the garage was "hot" or cars were moving around. 
 
 Each car has its own team. The team consists of a driver, crew chief, jackman, gas man, tire changer, utility man, etc. 
 
@@ -61,11 +69,11 @@ What can your team accomplish in 11 seconds?
 
 That's considered an above average pit stop for most NASCAR pit crews. 
 
-I couldn't understand what I was seeing. "Why the hell are they doing that?" I asked.  
+So, "Why they hell are they doing that again?"
 
-I saw the pit crew pouring out full two-liters of Coca-Cola on the asphalt in the pits. 
+I asked as I saw the pit crew pouring out full two-liters of Coca-Cola on the asphalt. 
 
-A friend replied, "Oh, that's to keep the ground sticky for the pit crew. Can't slip on it will cost you when making a pit stop."
+A friend replied, "Oh, that's to keep the ground sticky for the pit crew. Can't slip or it will cost you when making a pit stop."
 
 Pit crews look for any advantage they can get. 11 seconds is not a long time. 
 
@@ -96,7 +104,3 @@ Not only pour Coca-Cola on the ground, but [use it to clean pennies](http://prop
 There is no right or wrong way to use a product. 
 
 Because the person using the product decides how they use it. 
-
-
-
-
