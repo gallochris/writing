@@ -41,7 +41,7 @@ If someone asks me how people use Highrise, I could say like a CRM.
 
 But I try not to describe Highrise as a CRM. Because that's not how all people use it. 
 
-Our team tries to focus on the [jobs people do](http://justinjackson.ca/hidden/) with Highrise. Why do they hire it? 
+Our team tries to focus on the [jobs people get done](http://justinjackson.ca/hidden/) with Highrise. Why do they hire it? 
 
 Highrise customers include real estate agents, nuns, and screenwriters. 
 
@@ -59,7 +59,7 @@ NASCAR is a business, a multi-billion dollar one too. [That's a fact](http://www
 
 The access NASCAR gives fans is unreal. I had a chance to find this out myself a few years ago. 
 
-I had a **Hot Pass**, which means I was allowed to walk around when the garage was "hot" or cars were moving around. 
+I had a *Hot Pass*, which means I was allowed to walk around when the garage was "hot" or cars were moving around. 
 
 Each car has its own team. The team consists of a driver, crew chief, jackman, gas man, tire changer, utility man, etc. 
 
@@ -89,7 +89,7 @@ I've also seen folks use Highrise in a way that's equivalent to pouring Coca-Col
 
 After conversing with customers every day, I've learned people use products how they want to. 
 
-Not how **you** want them too. How **they** want to. It's **their** choice. 
+Not how *you* want them too. How *they* want to. It's *their* choice. 
 
 Look around. Examples are all over the place. 
 
