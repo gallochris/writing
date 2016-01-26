@@ -7,11 +7,18 @@ layout: default
 	<div class="eight columns offset by-two">
 	<h1 style="text-align: center">Hot dogs and eggs blog</h1>
   <p class="blog-text">It pays to stay curious</p> 
-	<hr>
+	<hr class="tothetop">
 {% for post in site.posts %}
 
-  <ul style="list-style: none;">
-   <li>
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    {% unless forloop.first %}</ul>{% endunless %}
+    <ul style="list-style: none;">
+
+    <li><h2 id="y{{post.date | date: "%Y"}}" class="lewinsky">{{ currentdate }}</h2></li>
+    {% assign date = currentdate %}
+  {% endif %}
+    <li>
     <a href="{{ post.url }}">
       <div>
         <span class="blog-title">{{ post.title }}</span>
@@ -19,8 +26,8 @@ layout: default
       </div>
     </a>
   </li>
-  </ul>
-     {% endfor %}
+  {% if forloop.last %}</ul>{% endif %}
+{% endfor %}
 <hr>
       </div>
 </div>

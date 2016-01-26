@@ -254,6 +254,20 @@ body {
     padding:2em 0
 }
 
+.lewinsky {
+    color: #0099CC; 
+    margin-top: 3rem;
+    font-weight: bold;
+    word-break: break-word;
+}
+
+.tothetop {
+    margin: 1em auto;
+    width: 96%;
+    border: solid #adadad;
+    border-width: 1px 0 0;
+}
+
 @media all and (max-width: 580px) {
 body {
     padding:.8em 0
@@ -275,8 +289,8 @@ img {
 
 hr {
     width:96%;
-    margin:2em auto;
-    border:solid #f5f5f5;
+    margin:3em auto;
+    border:solid #adadad;
     border-width:1px 0 0
 }
 
