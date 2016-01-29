@@ -13,9 +13,9 @@ subtitle: "The blog of Chris Gallo."
 url: http://hotdogsandeggs.com/
 description: "Sharing what I learn because it pays to be curious."
 navigation:
- - title: About
-   url: http://hotdogsandeggs.com/about/
  - title: Blog
    url: /
+ - title: People
+   url: http://people.hotdogsandeggs.com/
  - title: Say hi
-   url: http://hotdogsandeggs.com/about/#contact
+   url: mailto:chris@hotdogsandeggs.com
