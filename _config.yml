@@ -1,7 +1,7 @@
 # ==========================
 # == Jekyll Configuration ==
 # ==========================
-markdown: rdiscount
+markdown: kramdown
 permalink: :title
 
 # ==========================
