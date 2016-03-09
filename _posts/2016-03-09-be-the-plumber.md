@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Be the plumber
+title: Be the Plumber
 preview: Instead of being theoretical users of the product, we became customers of it.
 permalink: /be-the-plumber/
 ---
