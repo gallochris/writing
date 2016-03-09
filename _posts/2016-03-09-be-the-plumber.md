@@ -5,7 +5,6 @@ preview: Instead of being theoretical users of the product, we became customers 
 permalink: /be-the-plumber/
 ---
 
-# Be the plumber
 
 A 30-something immigrant with no fancy education or consumer product experience started a company in 2003. The product was first sales came out of the trunks of cars. 
 
@@ -106,6 +105,5 @@ It forced us to improve Highrise and to do it quickly.
 
 Sometimes you have dig in and fix it from the inside. It might take a little pain, but it may also be the only way you'll figure it out. 
 
-* * * 
 
 *This post was inspired by this [talk](https://www.youtube.com/watch?v=x46-XiMOoJE) from Manoj Bhargava.*
