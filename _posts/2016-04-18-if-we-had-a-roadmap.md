@@ -5,7 +5,7 @@ preview: Instead of being theoretical users of the product, we became customers 
 permalink: /if-we-had-a-roadmap/
 ---
 
-![uber-detour.png](https://draftin.com:443/images/37680?token=7Vhmt1eJXyLUSC9QX-dnU3hYU4bMumExBUNuQvTa4TQ6wP1cnAjhBxh8NTdQkoVOjuiiDXpVwEApyydKbvqeEoo) 
+![uber-ride-small.png](https://draftin.com:443/images/37798?token=uxgjD146EOJ9zWDnKtwev1sTDFMWBOaQyefOt-bneJEtF5h8ZSGyo7n08gZhtJhoDEZuSkxDRXqL03Shd-6PhUs)
 
 Some examples of emails we get about our product roadmap at [Highrise](https://highrisehq.com/): 
 
@@ -139,8 +139,6 @@ Marty maneuvers the Suburban and flips it around. We're moving now.
 We all take a deep breath. Share some four letter words. And agree let's go back to Boulder if we can. 
 
 Marty drops us off back at the same place he picked us up. Almost 3 hours later. 
-
-![uber-ride.png](https://draftin.com:443/images/37738?token=fDYWfq4o2JZyw4sCWlHQtaJecVf6a34w96SzjeglRvAaiGywjg2i1a6d2JhVV8nLdEZctdmbg7ISdyNzIvu8Bfk) 
 
 We made it. My goodness. 
 
