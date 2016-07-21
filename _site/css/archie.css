@@ -276,7 +276,7 @@ body {
 
 a {
     color:#56a0d3;
-    text-decoration:none
+    text-decoration:none;
 }
 
 a:active {
@@ -479,6 +479,7 @@ blockquote {
 .blog a {
     text-decoration:bold;
     color:inherit;
+    padding: 4px;
     border-bottom:2px solid #56a0d3
 }
 
@@ -573,13 +574,12 @@ nav a {
     margin:0 1.5em;
     color: inherit;
     text-decoration:none;
+    padding-bottom:4px;
     border-bottom:2px solid #56a0d3;
 }
 
 nav a.active {
-    color: inherit;
-    padding-bottom:4px;
-    border-bottom:2px solid #56a0d3;
+    font-weight: bold;
 }
 
 .logo {
