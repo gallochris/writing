@@ -10,11 +10,11 @@ permalink: :title
 
 title: Blog | Hot Dogs and Eggs
 subtitle: "The blog of Chris Gallo."
-url: https://blog.hotdogsandeggs.com
+url: http://blog.hotdogsandeggs.com
 description: "Blog of Chris Gallo | Sharing what I learn because it pays to be curious."
 twitter_username: cjgallo
 navigation:
  - title: Blog
    url: /
  - title: People
-   url: https://people.hotdogsandeggs.com/
+   url: http://people.hotdogsandeggs.com/
