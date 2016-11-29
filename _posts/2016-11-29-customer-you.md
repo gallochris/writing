@@ -25,11 +25,11 @@ When you travel, you often hire many services and interact with lots of people.
 
 You might take an Uber or Lyft to the airport. Go through security and interact with TSA. Board a plane with other passengers. Deal with flight attendants. Rental car agencies. Hotel concierges. Waiters at restaurants. 
 
-When traveling, you're almost a constant customer of different services. 
+When traveling, you're a constant customer of different services. 
 
 It wasn't until recently, where I began to notice how people were treating the folks providing these services. 
 
-One of the consequences of working in customer support almost every day is that you gain perspective on being a customer. Here's 3 lessons I've learned on how to be an easier, more kind customer. 
+One of the consequences of working in customer support almost every day is that you gain perspective on being a customer. Here's 3 lessons I've learned on how to be a kinder customer. 
 
 ## Share more information 
 
@@ -85,7 +85,7 @@ Before trying to contact someone with a C-Level title, ask the person providing 
 
 ## Tell someone when they do a good job
 
-Twitter and other social media platforms are full of complaints. Try a Twitter search for a common airline, [like United](https://twitter.com/united/with_replies). 
+Twitter and other social media platforms are full of complaints. Try a Twitter search for a common airline, [like United](https://twitter.com/search?f=tweets&vertical=default&q=%40United%20hate&src=typd). 
 
 When you do a bad job, people will let you know. And they probably should. Word of mouth is powerful. 
 
@@ -115,4 +115,4 @@ Vergé was a great chef. He was also a fine patron too.
 
 It's important to remember, you too, can be a customer. 
 
-*Thanks to this [Shep Gordon interview from The Chisler](http://chiseler.org/post/145157416821/life-after-supermensch-an-interview-with-shep) for inspiration of this post. If you dig that interview, try watcing the [documentary Supermensch](https://dvd.netflix.com/Movie/Supermensch-The-Legend-of-Shep-Gordon/70292993) on Shep Gordon or reading his book, [They Call me Supermensch](https://www.amazon.com/They-Call-Supermensch-Backstage-Rock-2019n-2019Roll-ebook/dp/B00MMFN8QY). Both include more fascinating stories about Vergé.* 
+*Thanks to this [Shep Gordon interview from The Chiseler](http://chiseler.org/post/145157416821/life-after-supermensch-an-interview-with-shep) for inspiration of this post. If you dig that interview, try watching the [documentary Supermensch](https://dvd.netflix.com/Movie/Supermensch-The-Legend-of-Shep-Gordon/70292993) on Shep Gordon or reading his book, [They Call me Supermensch](https://www.amazon.com/They-Call-Supermensch-Backstage-Rock-2019n-2019Roll-ebook/dp/B00MMFN8QY). Both include more fascinating stories about Vergé.* 
