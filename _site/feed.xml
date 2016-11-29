@@ -3,8 +3,224 @@
   <channel>
     <title></title>
     <description>Blog of Chris Gallo | Sharing what I learn because it pays to be curious.</description>
-    <link>https://blog.hotdogsandeggs.com</link>
-    <atom:link href="https://blog.hotdogsandeggs.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://blog.hotdogsandeggs.com</link>
+    <atom:link href="http://blog.hotdogsandeggs.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>The Curse of Knowledge</title>
+        <description>&lt;p&gt;“Uh, it’s off Airport road. You should be able to get there from Umstead. I think or, or maybe go up to Estes?”&lt;/p&gt;
+
+&lt;p&gt;I paused again. I was confusing the person asking me for directions more than I was confusing myself.&lt;/p&gt;
+
+&lt;p&gt;What was a matter with me?&lt;/p&gt;
+
+&lt;p&gt;I grew up in Chapel Hill and went to college there. I lived there for over a decade. I was a local.&lt;/p&gt;
+
+&lt;p&gt;And when a stranger asked me for directions, I couldn’t tell them.&lt;/p&gt;
+
+&lt;p&gt;I stammered over and over, and told them they might need to ask someone else or look at their phone.&lt;/p&gt;
+
+&lt;p&gt;Was something wrong with me?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;One of the most rewarding, and challenging, things about working at &lt;a href=&quot;https://highrisehq.com/&quot;&gt;Highrise&lt;/a&gt; is how fast the product changes.&lt;/p&gt;
+
+&lt;p&gt;Our team runs on a &lt;em&gt;&lt;a href=&quot;https://signalvnoise.com/posts/3811-stuck-again&quot;&gt;train schedule&lt;/a&gt;&lt;/em&gt;. This means every few weeks we announce an improvement or something new.&lt;/p&gt;
+
+&lt;p&gt;It could be a big feature like &lt;a href=&quot;https://medium.com/highrisehq/recurring-tasks-6f057cbe7561#.l90lx8dho&quot;&gt;recurring tasks&lt;/a&gt;, or something small like a &lt;a href=&quot;https://medium.com/highrisehq/more-powerful-forwarding-33a95200bc67#.p9a0evkp7&quot;&gt;new rule for autoforwarding emails&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The reward is we’re making the product more useful to ourselves because we use Highrise every day, and making it more handy to customers.&lt;/p&gt;
+
+&lt;p&gt;The challenge is documenting these changes. It’s informing people that use Highrise with what has changed, why it changed, and how to make use of the changes.&lt;/p&gt;
+
+&lt;p&gt;The number one resource for this is our &lt;a href=&quot;https://help.highrisehq.com/broadcast/bulk-email/&quot;&gt;help site&lt;/a&gt;. It’s a living, breathing how-to guide or user manual.&lt;/p&gt;
+
+&lt;p&gt;It’s a beast of a resource to maintain. There are over 100 articles, countless screenshots, and videos.&lt;/p&gt;
+
+&lt;p&gt;And with frequent updates, this snapshot or how-to guide of Highrise can go out of date fast.&lt;/p&gt;
+
+&lt;p&gt;It came to our team’s realization when updating a screenshot. The settings menu now has a new option for all users (&lt;a href=&quot;https://medium.com/highrisehq/give-get-94bb3158541#.5kzoxolsy&quot;&gt;Referrals&lt;/a&gt;), and the old screenshot didn’t reflect that.&lt;/p&gt;
+
+&lt;p&gt;It was a tiny change. A person new to Highrise might not even notice it. Our team did, so we updated the screenshot.&lt;/p&gt;
+
+&lt;p&gt;This change sparked lots of others too. We began to notice videos were out of date by months. More screenshots too.&lt;/p&gt;
+
+&lt;p&gt;A pull request with one commit, a change to a screenshot, turned into a two-week project. 277 changes later, our team updated the entire help site to more accurately reflect the product.&lt;/p&gt;
+
+&lt;p&gt;What took us so long to realize things were out of date?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Nicholas Epley has a dynamite book on this topic. It’s called &lt;a href=&quot;https://www.amazon.com/Mindwise-Misunderstand-Others-Think-Believe/dp/1491544325&quot;&gt;Mindwise: Why We Misunderstand What Others Think, Believe, Feel, and Want&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In the book, there is an eye-opening exercise.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FINISHED FILES ARE THE RESULT OF YEARS OF SCIENTIFIC STUDY COMBINED WITH THE EXPERIENCE OF YEARS.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Epley asks you to count how many &lt;em&gt;fs&lt;/em&gt; are in this sentence. Start counting.&lt;/p&gt;
+
+&lt;p&gt;How many &lt;em&gt;fs&lt;/em&gt; do you count?&lt;/p&gt;
+
+&lt;p&gt;Is it more than you can count on one hand?&lt;/p&gt;
+
+&lt;p&gt;If not, Epley has confirmed you’re a terrific reader, but a terrible counter.&lt;/p&gt;
+
+&lt;p&gt;Now count them again? Did you find &lt;strong&gt;all six &lt;em&gt;fs&lt;/em&gt;&lt;/strong&gt;?&lt;/p&gt;
+
+&lt;p&gt;Don’t forget that the word &lt;em&gt;of&lt;/em&gt; has an &lt;em&gt;f&lt;/em&gt; in it. See all six now?&lt;/p&gt;
+
+&lt;p&gt;Most people, including myself, only &lt;strong&gt;found three &lt;em&gt;fs&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Why is that?&lt;/p&gt;
+
+&lt;p&gt;Epley explains it has everything to do with knowledge.&lt;/p&gt;
+
+&lt;p&gt;He continues, “Your expertise of English blinds you from seeing some letters. You know how to read so well that you can hear the sounds of some letters as you read over them.”&lt;/p&gt;
+
+&lt;p&gt;So, because of your expertise, every time you see the word &lt;em&gt;of&lt;/em&gt;, you hear a &lt;em&gt;v&lt;/em&gt; rather than a &lt;em&gt;f&lt;/em&gt;, and you miss it.&lt;/p&gt;
+
+&lt;p&gt;Epley points out, “First graders are more likely to find all six in this task than fifth graders, and young children are likely to do better than this than you did as well.”&lt;/p&gt;
+
+&lt;p&gt;This is known as the curse of knowledge. Why is knowledge a curse?&lt;/p&gt;
+
+&lt;p&gt;Because once you have it, you can’t imagine what it’s not like to possess it.&lt;/p&gt;
+
+&lt;p&gt;Knowledge or a level of expertise gives you the lens of a microscope.&lt;/p&gt;
+
+&lt;p&gt;It means you notice subtle details a novice might not catch, and it also means your focus is so sharp, you might miss the big picture and you’ll struggle to understand a novice’s perspective.&lt;/p&gt;
+
+&lt;p&gt;Epley offers a slew of &lt;a href=&quot;http://faculty.chicagobooth.edu/nicholas.epley/Mindwise/MindwiseTimesReview.pdf&quot;&gt;good examples&lt;/a&gt; in the book and elsewhere too.&lt;/p&gt;
+
+&lt;p&gt;One of my favorites is how Clorox bought Hidden Valley Ranch Dressing and spent a decade trying to make the original recipe so that it did not need to be refrigerated. All of their internal taste tests of the dressing came back as worse than the original. Or so they thought.&lt;/p&gt;
+
+&lt;p&gt;Hidden Valley finally sent a worse tasting version of the dressing to the market, and people loved it. Because not many people ever tasted the original dressing. The consumer’s perspective was way different than the company’s perspective.&lt;/p&gt;
+
+&lt;p&gt;Epley writes further, “The expert’s problem is assuming that what’s so clear in his or her own mind is more obvious to others.”&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;This is something our own team fell into at Highrise. We were spotting tiny changes like typos or a missing menu option in a screenshot, but missing the bigger picture that almost everything was out of date.&lt;/p&gt;
+
+&lt;p&gt;Our perspective was way different than someone who started using the product yesterday.&lt;/p&gt;
+
+&lt;p&gt;And it’s what happened to me when trying to give directions. I could probably get the stranger to the location if we rode in the same car.&lt;/p&gt;
+
+&lt;p&gt;I could tell her Airport Road is now named Martin Luther King Jr. Blvd. And there used to be tons of trees on Umstead Road that the city cutdown. I could point out all these tiny details.&lt;/p&gt;
+
+&lt;p&gt;But I couldn’t tell her how to get there on her own.&lt;/p&gt;
+
+&lt;p&gt;There was nothing wrong with me. I was cursed.&lt;/p&gt;
+
+&lt;p&gt;Cursed by knowledge.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 12 Sep 2016 00:00:00 -0400</pubDate>
+        <link>http://blog.hotdogsandeggs.com/the-curse-of-knowledge/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/the-curse-of-knowledge/</guid>
+      </item>
+    
+      <item>
+        <title>Care Less</title>
+        <description>&lt;p&gt;Relationships are weird.&lt;/p&gt;
+
+&lt;p&gt;We have names to describe all sorts of the relationships we have with other humans.&lt;/p&gt;
+
+&lt;p&gt;Friends. Acquaintances. A husband or wife. Brothers and sisters. Father. Son. Mother. Aunts and uncles. A cousin.&lt;/p&gt;
+
+&lt;p&gt;So many names that indicate the context of a relationship.&lt;/p&gt;
+
+&lt;p&gt;Bosses and employees. Boardmembers. Colleagues or coworkers. Neighbors.&lt;/p&gt;
+
+&lt;p&gt;Defendants and plaintiffs. A judge and jury.&lt;/p&gt;
+
+&lt;p&gt;Customers or clients.&lt;/p&gt;
+
+&lt;p&gt;In all of these relationships, who is in control?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Over the past few years, I’ve worked directly in customer support for companies that make software.&lt;/p&gt;
+
+&lt;p&gt;It’s a job I’ve come to really enjoy. It brings a lot of purpose to my work.&lt;/p&gt;
+
+&lt;p&gt;People buy a product or subscribe by paying a monthly fee to use a product, and they have questions or requests. Someone needs help, and you help them. 
+That’s my job. It’s to satisfy these questions and requests.&lt;/p&gt;
+
+&lt;p&gt;It’s an incredible feeling when someone says something nice about you or the product. The folks that work in customer support know they get the glory first.  The &lt;a href=&quot;http://carokopp.com/post/39447960497/customer-service-secret&quot;&gt;warm fuzzies&lt;/a&gt;. The good vibes from the satisfied people that use the product.&lt;/p&gt;
+
+&lt;p&gt;But you can’t satisfy everyone.&lt;/p&gt;
+
+&lt;p&gt;For all the glory, there are people who only want to argue with you. The ones who say they have a question, but don’t ask one and end their email with &lt;em&gt;please advise&lt;/em&gt;. The people who aren’t a good fit for your product. And don’t know it yet.&lt;/p&gt;
+
+&lt;p&gt;Customer support can get ugly. When a customer says something not so kind, it can really take the wind out of your sails.&lt;/p&gt;
+
+&lt;p&gt;I’ve learned you shouldn’t take it personal. After all, they’re not blaming you, specifically. They’re blaming the product. You’re not the product. You’re you.&lt;/p&gt;
+
+&lt;p&gt;But that’s hard to do. Real damn hard.&lt;/p&gt;
+
+&lt;p&gt;Over the past few years, I’ve found myself in a fair share of arguments or disagreements with customers. Situations where I get really worked up at times.&lt;/p&gt;
+
+&lt;p&gt;So worked up I take it out on the people around me. Or so angry, I need to take a walk. Or &lt;a href=&quot;https://www.youtube.com/watch?v=6sRQ9q4hzv4&amp;amp;list=PL_rR2s4GqBlZisb9D65sfOsd0ahQhBiWY&quot;&gt;play music like this&lt;/a&gt; with the volume turned all the way up.&lt;/p&gt;
+
+&lt;p&gt;When I feel like this, I realize it’s because I care. And it’s because I care a lot.&lt;/p&gt;
+
+&lt;p&gt;I care about my job. And the people I work with. I care what people say about me and them. I care about the product.&lt;/p&gt;
+
+&lt;p&gt;I take pride in being able to help people. If someone is complaining, it’s my job to address it and listen. To try to understand why, so we can improve the product.&lt;/p&gt;
+
+&lt;p&gt;But when someone says something nasty or uncalled for, it’s hard not to take it personally. It’s so hard to &lt;a href=&quot;https://signalvnoise.com/posts/3124-give-it-five-minutes&quot;&gt;give it a good five minutes&lt;/a&gt;. To take some deep breaths before replying and do something silly.&lt;/p&gt;
+
+&lt;p&gt;And because it’s hard, I’ve had my fair share of spirited back-and-forths with customers. Email conversations or threads that are exhausting. That are a road to nowhere and that leave me mentally spent.&lt;/p&gt;
+
+&lt;p&gt;Why do I do this to myself?&lt;/p&gt;
+
+&lt;p&gt;It’s because I &lt;strong&gt;care too much&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Gordon Livingston was a therapist and author. He wrote lots of books on being human.&lt;/p&gt;
+
+&lt;p&gt;In one of his books, &lt;a href=&quot;https://www.amazon.com/Too-Soon-Old-Late-Smart/dp/1569243735&quot;&gt;Too Soon Old, Too Late Smart: Thirty True Things You Need to Know Now&lt;/a&gt;, he shares a lot of wisdom.&lt;/p&gt;
+
+&lt;p&gt;Each chapter is a truth that you need to know. And one chapter is on relationships. Livingston had lots of experiences with relationships, and cites helping couples navigate their marriages.&lt;/p&gt;
+
+&lt;p&gt;Here’s his truth about relationships:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Any relationship is under the control of the person who cares the least.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Livingston &lt;a href=&quot;http://people.hotdogsandeggs.com/gordon-livingston&quot;&gt;continues to explain&lt;/a&gt; that in these marriages, there is one person that cares a lot more than the other. The person who cares the most is at wits end about what to do. This person is pushing for the marriage counseling and they’re the one invested in the relationship.&lt;/p&gt;
+
+&lt;p&gt;And if the other person is not, the person who really cares feels powerless.&lt;/p&gt;
+
+&lt;p&gt;This idea really hit me.&lt;/p&gt;
+
+&lt;p&gt;It got me thinking about my own world. How I let myself I get so worked up when a customer says something unkind. And how I care too much, putting the other person in control.&lt;/p&gt;
+
+&lt;p&gt;When I care too much, I’m putting the other person in control of a relationship I shouldn’t even be in.&lt;/p&gt;
+
+&lt;p&gt;You have to have thick skin working in customer support. You have to let some things go. One person being upset isn’t a reflection of you or the majority of people that use the product.&lt;/p&gt;
+
+&lt;p&gt;It sounds backwards, but you’ve have to care less. Not more.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;This applies in every relationship in life too.&lt;/p&gt;
+
+&lt;p&gt;A boss or colleague might not respect you. Or a neighbor or an acquaintance might be rude. You might disagree with others about politics, and others might say hurtful things to you.&lt;/p&gt;
+
+&lt;p&gt;If you get worked up and care too much about what they say, you’re putting that person in control.&lt;/p&gt;
+
+&lt;p&gt;That’s what they want too. The control. Don’t let them have it, they don’t deserve it.&lt;/p&gt;
+
+&lt;p&gt;Care less.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 31 Jul 2016 00:00:00 -0400</pubDate>
+        <link>http://blog.hotdogsandeggs.com/care-less/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/care-less/</guid>
+      </item>
     
       <item>
         <title>Useful or Entertaining</title>
@@ -94,8 +310,8 @@
 
 </description>
         <pubDate>Thu, 02 Jun 2016 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/useful-or-entertaining/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/useful-or-entertaining/</guid>
+        <link>http://blog.hotdogsandeggs.com/useful-or-entertaining/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/useful-or-entertaining/</guid>
       </item>
     
       <item>
@@ -292,8 +508,8 @@
 
 </description>
         <pubDate>Mon, 18 Apr 2016 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/if-we-had-a-roadmap/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/if-we-had-a-roadmap/</guid>
+        <link>http://blog.hotdogsandeggs.com/if-we-had-a-roadmap/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/if-we-had-a-roadmap/</guid>
       </item>
     
       <item>
@@ -408,8 +624,8 @@ It forced us to improve Highrise and to do it quickly.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;This post was inspired by this &lt;a href=&quot;https://www.youtube.com/watch?v=x46-XiMOoJE&quot;&gt;talk&lt;/a&gt; from Manoj Bhargava.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Mar 2016 00:00:00 -0500</pubDate>
-        <link>https://blog.hotdogsandeggs.com/be-the-plumber/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/be-the-plumber/</guid>
+        <link>http://blog.hotdogsandeggs.com/be-the-plumber/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/be-the-plumber/</guid>
       </item>
     
       <item>
@@ -544,8 +760,8 @@ Fidelity being the total experience of something and convenience being how easy 
 &lt;p&gt;That’s why I bought their stuff.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Feb 2016 00:00:00 -0500</pubDate>
-        <link>https://blog.hotdogsandeggs.com/convenience/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/convenience/</guid>
+        <link>http://blog.hotdogsandeggs.com/convenience/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/convenience/</guid>
       </item>
     
       <item>
@@ -651,8 +867,8 @@ Fidelity being the total experience of something and convenience being how easy 
 &lt;p&gt;Because the person using the product decides how they use it.&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Jan 2016 00:00:00 -0500</pubDate>
-        <link>https://blog.hotdogsandeggs.com/how-they-use-it/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/how-they-use-it/</guid>
+        <link>http://blog.hotdogsandeggs.com/how-they-use-it/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/how-they-use-it/</guid>
       </item>
     
       <item>
@@ -726,8 +942,8 @@ Fidelity being the total experience of something and convenience being how easy 
 &lt;p&gt;Look for workarounds.&lt;/p&gt;
 </description>
         <pubDate>Thu, 12 Nov 2015 00:00:00 -0500</pubDate>
-        <link>https://blog.hotdogsandeggs.com/workarounds/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/workarounds/</guid>
+        <link>http://blog.hotdogsandeggs.com/workarounds/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/workarounds/</guid>
       </item>
     
       <item>
@@ -791,8 +1007,8 @@ Fidelity being the total experience of something and convenience being how easy 
 &lt;p&gt;&lt;strong&gt;The opposite of blame is taking responsibility.&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 15 Oct 2015 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/blame/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/blame/</guid>
+        <link>http://blog.hotdogsandeggs.com/blame/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/blame/</guid>
       </item>
     
       <item>
@@ -926,8 +1142,8 @@ Fidelity being the total experience of something and convenience being how easy 
 &lt;p&gt;&lt;em&gt;TL;DR - check out the &lt;a href=&quot;http://mygifs.withdraft.com/&quot;&gt;gif recap&lt;/a&gt; :)&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 12 Aug 2015 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/advice-from-the-future/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/advice-from-the-future/</guid>
+        <link>http://blog.hotdogsandeggs.com/advice-from-the-future/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/advice-from-the-future/</guid>
       </item>
     
       <item>
@@ -1053,8 +1269,8 @@ I work in customer support. Our company is never closed. People from around the 
 
 </description>
         <pubDate>Wed, 01 Jul 2015 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/routine/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/routine/</guid>
+        <link>http://blog.hotdogsandeggs.com/routine/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/routine/</guid>
       </item>
     
       <item>
@@ -1111,8 +1327,8 @@ Try it. It’s like a superpower. Not for you, for &lt;em&gt;them.&lt;/em&gt;&lt
 
 </description>
         <pubDate>Thu, 04 Jun 2015 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/just-tell-them/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/just-tell-them/</guid>
+        <link>http://blog.hotdogsandeggs.com/just-tell-them/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/just-tell-them/</guid>
       </item>
     
       <item>
@@ -1261,8 +1477,8 @@ E. None of the above&lt;/em&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 22 Feb 2015 00:00:00 -0500</pubDate>
-        <link>https://blog.hotdogsandeggs.com/multiple-choice/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/multiple-choice/</guid>
+        <link>http://blog.hotdogsandeggs.com/multiple-choice/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/multiple-choice/</guid>
       </item>
     
       <item>
@@ -1391,8 +1607,8 @@ E. None of the above&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;What will you choose today?&lt;/p&gt;
 </description>
         <pubDate>Sat, 31 Jan 2015 00:00:00 -0500</pubDate>
-        <link>https://blog.hotdogsandeggs.com/procrastination/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/procrastination/</guid>
+        <link>http://blog.hotdogsandeggs.com/procrastination/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/procrastination/</guid>
       </item>
     
       <item>
@@ -1497,8 +1713,8 @@ E. None of the above&lt;/em&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 11 Nov 2014 00:00:00 -0500</pubDate>
-        <link>https://blog.hotdogsandeggs.com/support-like-a-customer/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/support-like-a-customer/</guid>
+        <link>http://blog.hotdogsandeggs.com/support-like-a-customer/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/support-like-a-customer/</guid>
       </item>
     
       <item>
@@ -1594,12 +1810,12 @@ Be honest.&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 05 Oct 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/thanks-for-understanding/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/thanks-for-understanding/</guid>
+        <link>http://blog.hotdogsandeggs.com/thanks-for-understanding/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/thanks-for-understanding/</guid>
       </item>
     
       <item>
-        <title>Other People&#39;s Shoes</title>
+        <title>Other People's Shoes</title>
         <description>&lt;p&gt;Straight to voice mail…&lt;/p&gt;
 
 &lt;p&gt;10 minutes have passed. “Should I call again?”&lt;/p&gt;
@@ -1687,8 +1903,8 @@ Be honest.&lt;/p&gt;
 &lt;p&gt;Not even if I put on his shoes.&lt;/p&gt;
 </description>
         <pubDate>Fri, 26 Sep 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/other-people-shoes/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/other-people-shoes/</guid>
+        <link>http://blog.hotdogsandeggs.com/other-people-shoes/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/other-people-shoes/</guid>
       </item>
     
       <item>
@@ -1747,8 +1963,8 @@ Be honest.&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 19 Sep 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/small-human-touches/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/small-human-touches/</guid>
+        <link>http://blog.hotdogsandeggs.com/small-human-touches/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/small-human-touches/</guid>
       </item>
     
       <item>
@@ -1857,8 +2073,8 @@ Be honest.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Find the things in your life that are no longer mandatory. Do them on the side. And you might just discover your knuckleball.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 06 Sep 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/mandatory/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/mandatory/</guid>
+        <link>http://blog.hotdogsandeggs.com/mandatory/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/mandatory/</guid>
       </item>
     
       <item>
@@ -1974,8 +2190,8 @@ Be honest.&lt;/p&gt;
 &lt;p&gt;She was transparent. And she got our vote.&lt;/p&gt;
 </description>
         <pubDate>Sun, 31 Aug 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/transparency/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/transparency/</guid>
+        <link>http://blog.hotdogsandeggs.com/transparency/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/transparency/</guid>
       </item>
     
       <item>
@@ -2108,8 +2324,8 @@ Be honest.&lt;/p&gt;
 &lt;p&gt;Because time is for sale.&lt;/p&gt;
 </description>
         <pubDate>Tue, 26 Aug 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/what-is-time/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/what-is-time/</guid>
+        <link>http://blog.hotdogsandeggs.com/what-is-time/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/what-is-time/</guid>
       </item>
     
       <item>
@@ -2169,7 +2385,7 @@ Be honest.&lt;/p&gt;
   &lt;li&gt;And who I am - a short bio&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Instead of squares I split the site into these four sections using the full-width design that mirrors Frank’s design. It’s a class titled &lt;em&gt;shaq&lt;/em&gt; that includes these styles: 
+&lt;p&gt;Instead of squares I split the site into these four sections using the full-width design that mirrors Frank’s design. It’s a class titled &lt;em&gt;shaq&lt;/em&gt; that includes these styles:
 &lt;code class=&quot;highlighter-rouge&quot;&gt;max-width: none;
   margin: 0;
   padding: 0;&lt;/code&gt;&lt;/p&gt;
@@ -2222,12 +2438,12 @@ Be honest.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 16 Aug 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/beginner-confessions/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/beginner-confessions/</guid>
+        <link>http://blog.hotdogsandeggs.com/beginner-confessions/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/beginner-confessions/</guid>
       </item>
     
       <item>
-        <title>You Can&#39;t Rely on Efficiency Alone</title>
+        <title>You Can't Rely on Efficiency Alone</title>
         <description>&lt;p&gt;Re-routing.&lt;/p&gt;
 
 &lt;p&gt;That’s what I heard traveling home from the mountains. I knew where I was going. I just got off the interstate and was headed home.&lt;/p&gt;
@@ -2331,8 +2547,8 @@ Be honest.&lt;/p&gt;
 &lt;p&gt;Companies need to re-route efficiency. And focus on feelings.&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Aug 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/efficiency-alone/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/efficiency-alone/</guid>
+        <link>http://blog.hotdogsandeggs.com/efficiency-alone/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/efficiency-alone/</guid>
       </item>
     
       <item>
@@ -2429,8 +2645,8 @@ Be honest.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 23 Jul 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/expectations/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/expectations/</guid>
+        <link>http://blog.hotdogsandeggs.com/expectations/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/expectations/</guid>
       </item>
     
       <item>
@@ -2533,8 +2749,8 @@ Be honest.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/langauge-you-use/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/langauge-you-use/</guid>
+        <link>http://blog.hotdogsandeggs.com/langauge-you-use/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/langauge-you-use/</guid>
       </item>
     
       <item>
@@ -2604,12 +2820,12 @@ Be honest.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Because the medium beats the message.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 08 Jul 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/medium-message/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/medium-message/</guid>
+        <link>http://blog.hotdogsandeggs.com/medium-message/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/medium-message/</guid>
       </item>
     
       <item>
-        <title>Don&#39;t Be a Robot, Create Conversations</title>
+        <title>Don't Be a Robot, Create Conversations</title>
         <description>&lt;p&gt;&lt;em&gt;This is a guest post published on &lt;a href=&quot;http://supportops.co/&quot;&gt;SupportOps&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The tour guide wipes his brow. And wonders how to respond.&lt;/p&gt;
@@ -2624,8 +2840,8 @@ Be honest.&lt;/p&gt;
 &lt;a href=&quot;http://supportops.co/dont-be-a-robot-create-conversations/&quot; class=&quot;about-me&quot;&gt;What was it?&lt;/a&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 24 Jun 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/create-conversations/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/create-conversations/</guid>
+        <link>http://blog.hotdogsandeggs.com/create-conversations/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/create-conversations/</guid>
       </item>
     
       <item>
@@ -2726,8 +2942,8 @@ Be honest.&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 22 Jun 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/of-course-but-maybe/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/of-course-but-maybe/</guid>
+        <link>http://blog.hotdogsandeggs.com/of-course-but-maybe/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/of-course-but-maybe/</guid>
       </item>
     
       <item>
@@ -2824,8 +3040,8 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;Don’t be afraid to share your experience. Even if it’s unlikely.&lt;/p&gt;
 </description>
         <pubDate>Fri, 13 Jun 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/unlikely-experience/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/unlikely-experience/</guid>
+        <link>http://blog.hotdogsandeggs.com/unlikely-experience/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/unlikely-experience/</guid>
       </item>
     
       <item>
@@ -2920,12 +3136,12 @@ How did you do that?&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 07 Jun 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/be-specific/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/be-specific/</guid>
+        <link>http://blog.hotdogsandeggs.com/be-specific/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/be-specific/</guid>
       </item>
     
       <item>
-        <title>Show, Don&#39;t Tell</title>
+        <title>Show, Don't Tell</title>
         <description>&lt;p&gt;Show. Don’t tell.&lt;/p&gt;
 
 &lt;p&gt;When you were in school you didn’t talk about your pet rock in front of your classmates. You showed it to them.&lt;/p&gt;
@@ -2996,8 +3212,8 @@ How did you do that?&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 01 Jun 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/show-dont-tell/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/show-dont-tell/</guid>
+        <link>http://blog.hotdogsandeggs.com/show-dont-tell/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/show-dont-tell/</guid>
       </item>
     
       <item>
@@ -3050,8 +3266,8 @@ How did you do that?&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 26 May 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/break-and-learn/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/break-and-learn/</guid>
+        <link>http://blog.hotdogsandeggs.com/break-and-learn/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/break-and-learn/</guid>
       </item>
     
       <item>
@@ -3109,8 +3325,8 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;It got better.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 May 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/cut-it-in-half/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/cut-it-in-half/</guid>
+        <link>http://blog.hotdogsandeggs.com/cut-it-in-half/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/cut-it-in-half/</guid>
       </item>
     
       <item>
@@ -3180,8 +3396,8 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;The best answer is a question.&lt;/p&gt;
 </description>
         <pubDate>Mon, 12 May 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/best-answer-question/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/best-answer-question/</guid>
+        <link>http://blog.hotdogsandeggs.com/best-answer-question/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/best-answer-question/</guid>
       </item>
     
       <item>
@@ -3215,8 +3431,8 @@ How did you do that?&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 07 May 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/transcribe-draft/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/transcribe-draft/</guid>
+        <link>http://blog.hotdogsandeggs.com/transcribe-draft/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/transcribe-draft/</guid>
       </item>
     
       <item>
@@ -3266,8 +3482,8 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;Because a line out the door and 40 minute wait is just the right size.&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 May 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/why-grow/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/why-grow/</guid>
+        <link>http://blog.hotdogsandeggs.com/why-grow/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/why-grow/</guid>
       </item>
     
       <item>
@@ -3330,8 +3546,8 @@ How did you do that?&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 25 Apr 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/focus/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/focus/</guid>
+        <link>http://blog.hotdogsandeggs.com/focus/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/focus/</guid>
       </item>
     
       <item>
@@ -3359,8 +3575,8 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;Because no one wants to be treated as a user. People want to be treated like people.&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 Apr 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/name-calling/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/name-calling/</guid>
+        <link>http://blog.hotdogsandeggs.com/name-calling/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/name-calling/</guid>
       </item>
     
       <item>
@@ -3439,8 +3655,8 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;Because when you &lt;a href=&quot;https://gettingreal.37signals.com/ch02_Build_Less.php&quot;&gt;try to outdo&lt;/a&gt;, you’re thinking behind. And never getting ahead.&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Apr 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/do-less/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/do-less/</guid>
+        <link>http://blog.hotdogsandeggs.com/do-less/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/do-less/</guid>
       </item>
     
       <item>
@@ -3476,8 +3692,8 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;Don’t judge a book by it’s cover. And don’t judge anything by it’s ranking.&lt;/p&gt;
 </description>
         <pubDate>Sun, 06 Apr 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/rankings/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/rankings/</guid>
+        <link>http://blog.hotdogsandeggs.com/rankings/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/rankings/</guid>
       </item>
     
       <item>
@@ -3522,8 +3738,8 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;Because the characters of competition change everyday. Your competitor tomorrow is not your competitor today.&lt;/p&gt;
 </description>
         <pubDate>Mon, 31 Mar 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/competition/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/competition/</guid>
+        <link>http://blog.hotdogsandeggs.com/competition/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/competition/</guid>
       </item>
     
       <item>
@@ -3570,8 +3786,8 @@ How did you do that?&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 24 Mar 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/listen-to-what-people-do/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/listen-to-what-people-do/</guid>
+        <link>http://blog.hotdogsandeggs.com/listen-to-what-people-do/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/listen-to-what-people-do/</guid>
       </item>
     
       <item>
@@ -3585,8 +3801,10 @@ How did you do that?&lt;/p&gt;
 &lt;hr /&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;“Statistics are used much like a drunk uses a lamppost - for support, not illumination.”
-- Vin Scully&lt;/p&gt;
+  &lt;p&gt;“Statistics are used much like a drunk uses a lamppost - for support, not illumination.”&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Vin Scully&lt;/li&gt;
+  &lt;/ul&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;There is no silver bullet metric.  One number never tells the whole story. Take a sports and business example.&lt;/p&gt;
@@ -3597,9 +3815,9 @@ How did you do that?&lt;/p&gt;
 
 &lt;p&gt;But Parrish only threw 6.2 innings. That’s all of 20 outs. In comparison, there are 540 outs in 20 games and over 1900 outs in 71 games. While he pitched in 28% of the team’s games, he only had a hand in less than 1% of the team’s outs.&lt;/p&gt;
 
-&lt;p&gt;Because Parrish is a left-handed specialist and often just threw to one batter at a time. The “appearances” statistic is misleading on its own, but when you added in innings pitched - we can all see clearly now. 
-* * * 
-Two popular online businesses - let’s call them Sam’s Sandals Shop and Gary’s Golf Store.&lt;/p&gt;
+&lt;p&gt;Because Parrish is a left-handed specialist and often just threw to one batter at a time. The “appearances” statistic is misleading on its own, but when you added in innings pitched - we can all see clearly now.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Two popular online businesses - let’s call them Sam’s Sandals Shop and Gary’s Golf Store.&lt;/p&gt;
 
 &lt;p&gt;Sam’s Sandals Shop has a 10% conversion rate. For every 100 visitors, 10 make a purchase. Gary’s Golf Store has a 3% conversion rate. For every 100 visitors, 3 make a purchase.&lt;/p&gt;
 
@@ -3615,8 +3833,8 @@ Two popular online businesses - let’s call them Sam’s Sandals Shop and Gary�
 &lt;p&gt;One is the loneliest statistic.&lt;/p&gt;
 </description>
         <pubDate>Mon, 17 Mar 2014 00:00:00 -0400</pubDate>
-        <link>https://blog.hotdogsandeggs.com/one-metric/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/one-metric/</guid>
+        <link>http://blog.hotdogsandeggs.com/one-metric/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/one-metric/</guid>
       </item>
     
       <item>
@@ -3629,8 +3847,8 @@ Two popular online businesses - let’s call them Sam’s Sandals Shop and Gary�
 
 &lt;p&gt;This is when I learned a valuable lesson. You can’t be good at everything. It’s a humbling process to discover the skills you’re not good at doing. But it’s necessary.&lt;/p&gt;
 
-&lt;p&gt;So what do you do when you’re not good enough? 
-* * *&lt;/p&gt;
+&lt;p&gt;So what do you do when you’re not good enough?&lt;/p&gt;
+&lt;hr /&gt;
 &lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/3ResTHKVxf4&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
 
 &lt;p&gt;We all strive to do good work. When you’re not good enough, don’t hide it. Accept it.&lt;/p&gt;
@@ -3664,8 +3882,8 @@ Two popular online businesses - let’s call them Sam’s Sandals Shop and Gary�
 &lt;p&gt;When you’re not good enough, fight through it.&lt;/p&gt;
 </description>
         <pubDate>Sat, 08 Mar 2014 00:00:00 -0500</pubDate>
-        <link>https://blog.hotdogsandeggs.com/not-good-enough/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/not-good-enough/</guid>
+        <link>http://blog.hotdogsandeggs.com/not-good-enough/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/not-good-enough/</guid>
       </item>
     
       <item>
@@ -3766,8 +3984,8 @@ Two popular online businesses - let’s call them Sam’s Sandals Shop and Gary�
 &lt;p&gt;&lt;em&gt;Remember action beats movement. Start sending a cover letter that gets you an interview.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Mar 2014 00:00:00 -0500</pubDate>
-        <link>https://blog.hotdogsandeggs.com/cover-letter/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/cover-letter/</guid>
+        <link>http://blog.hotdogsandeggs.com/cover-letter/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/cover-letter/</guid>
       </item>
     
       <item>
@@ -3816,8 +4034,8 @@ Two popular online businesses - let’s call them Sam’s Sandals Shop and Gary�
 
 </description>
         <pubDate>Sun, 23 Feb 2014 00:00:00 -0500</pubDate>
-        <link>https://blog.hotdogsandeggs.com/nervous/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/nervous/</guid>
+        <link>http://blog.hotdogsandeggs.com/nervous/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/nervous/</guid>
       </item>
     
       <item>
@@ -3851,7 +4069,7 @@ Two popular online businesses - let’s call them Sam’s Sandals Shop and Gary�
 &lt;/blockquote&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;## Connect the dots.&lt;/p&gt;
+&lt;h2 id=&quot;connect-the-dots&quot;&gt;Connect the dots.&lt;/h2&gt;
 
 &lt;p&gt;Gary Vaynerchuk is a salesman. He’s built a multi-million dollar wine business, wrote best-selling books, and now runs a successful creative agency. Before all that, he came from zero.&lt;/p&gt;
 
@@ -3889,8 +4107,8 @@ v=lsqaqRBTj_s&amp;amp;feature=youtu.be&amp;amp;t=6m7s&quot;&gt;Gary Vaynerchuk, 
 &lt;p&gt;Experience.&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 Feb 2014 00:00:00 -0500</pubDate>
-        <link>https://blog.hotdogsandeggs.com/experience/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/experience/</guid>
+        <link>http://blog.hotdogsandeggs.com/experience/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/experience/</guid>
       </item>
     
       <item>
@@ -3942,8 +4160,8 @@ v=lsqaqRBTj_s&amp;amp;feature=youtu.be&amp;amp;t=6m7s&quot;&gt;Gary Vaynerchuk, 
 &lt;p&gt;&lt;em&gt;Because numbers can’t talk.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 09 Feb 2014 00:00:00 -0500</pubDate>
-        <link>https://blog.hotdogsandeggs.com/drunk-on-data/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/drunk-on-data/</guid>
+        <link>http://blog.hotdogsandeggs.com/drunk-on-data/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/drunk-on-data/</guid>
       </item>
     
       <item>
@@ -3981,8 +4199,8 @@ v=lsqaqRBTj_s&amp;amp;feature=youtu.be&amp;amp;t=6m7s&quot;&gt;Gary Vaynerchuk, 
 &lt;p&gt;&lt;em&gt;Time.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 31 Jan 2014 00:00:00 -0500</pubDate>
-        <link>https://blog.hotdogsandeggs.com/time/</link>
-        <guid isPermaLink="true">https://blog.hotdogsandeggs.com/time/</guid>
+        <link>http://blog.hotdogsandeggs.com/time/</link>
+        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/time/</guid>
       </item>
     
   </channel>
