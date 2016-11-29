@@ -5,13 +5,11 @@ preview: It was him realizing what would make someone happy
 permalink: /customer-can-be-you/
 ---
 
-# A Customer Can Be You
+[Roger Vergé](http://www.eater.com/2015/6/8/8745361/chef-roger-verge-died) was a world-renowned chef. He won the Michelin star for his restaurant, Moulin de Mougins, three times and countless other awards. 
 
-Roger Vergé was a world-renowned chef.  He won the Michelin star for his restaurant, Moulin de Mougins, three times and countless other awards. 
+[Shep Gordon](https://en.wikipedia.org/wiki/Shep_Gordon), Vergé's manager, described him as the first person he ever met that had true success. He was a master as his craft, and truly happy. 
 
-Shep Gordon, Vergé's manager, described him as the first person he ever met that had true success. He was a master as his craft, and truly happy. 
-
-Gordon shares a story with The Chiseler about going out to eat with Vergé. The long-time manager estimates that he ate roughly 1,000 meals with him.
+Gordon shares a story with [The Chiseler](http://chiseler.org/post/145157416821/life-after-supermensch-an-interview-with-shep) about going out to eat with Vergé. The long-time manager estimates that he ate roughly 1,000 meals with him.
 
 So what's it like eating with a world class chef? 
 
@@ -107,31 +105,14 @@ You can scream when someone does a bad job. And you can also pat someone on the 
 
 * * * 
 
-"He’d say to me, ‘Shep, you know when I come into a restaurant, the chef looks to see when the plates come back if they’re empty.’," Gordon continued about Vergé. 
+"He’d say to me, ‘Shep, you know when I come into a restaurant, the chef looks to see when the plates come back if they’re empty,’" Gordon continued about Vergé. 
 
 Here's one of the world's greatest chefs admitting the food is terrible, but eating every morsel of food on his plate and his friend's plate. 
 
-Gordon explained further, "because he knew that if that plate came back empty, he made a happy man out of the chef. If there was one piece of meat left on that plate, the chef might kill himself. He’s had Mr. Vergé at his restaurant and he didn’t eat everything? It had nothing to do with Vergé enjoying the food. It was him realizing what would make someone happy." 
+Gordon explained further, "because he knew that if that plate came back empty, he made a **happy man out of the chef**. If there was one piece of meat left on that plate, the chef might kill himself. He’s had Mr. Vergé at his restaurant and he didn’t eat everything? It had nothing to do with Vergé enjoying the food. It was him realizing what would make someone happy." 
 
 Vergé was a great chef. He was also a fine patron too. 
 
 It's important to remember, you too, can be a customer. 
 
 *Thanks to this [Shep Gordon interview from The Chisler](http://chiseler.org/post/145157416821/life-after-supermensch-an-interview-with-shep) for inspiration of this post. If you dig that interview, try watcing the [documentary Supermensch](https://dvd.netflix.com/Movie/Supermensch-The-Legend-of-Shep-Gordon/70292993) on Shep Gordon or reading his book, [They Call me Supermensch](https://www.amazon.com/They-Call-Supermensch-Backstage-Rock-2019n-2019Roll-ebook/dp/B00MMFN8QY). Both include more fascinating stories about Vergé.* 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -337,6 +337,7 @@ h1 {
 
 h2 {
     font-size:26px;
+    line-height:29px;
 }
 
 h3 {
@@ -479,8 +480,8 @@ blockquote {
 .blog a {
     text-decoration:bold;
     color:inherit;
-    padding: 4px;
-    border-bottom:2px solid #56a0d3
+    padding: 2px;
+    border-bottom:2px solid #56a0d3;
 }
 
 .the-text {
