@@ -20,6 +20,16 @@ nav ul {
     list-style:none
 }
 
+.floor {
+    font-size: 14px;
+    text-align: center;
+}
+
+.floor a { 
+     border-bottom: 1px solid #56a0d3;
+     color: inherit;
+ }
+
 blockquote,q {
     quotes:none
 }
@@ -337,6 +347,7 @@ h1 {
 
 h2 {
     font-size:26px;
+    line-height:29px;
 }
 
 h3 {
@@ -479,8 +490,8 @@ blockquote {
 .blog a {
     text-decoration:bold;
     color:inherit;
-    padding: 4px;
-    border-bottom:2px solid #56a0d3
+    padding: 2px;
+    border-bottom:1px solid #56a0d3;
 }
 
 .the-text {
@@ -575,7 +586,7 @@ nav a {
     color: inherit;
     text-decoration:none;
     padding-bottom:4px;
-    border-bottom:2px solid #56a0d3;
+    border-bottom:1px solid #56a0d3;
 }
 
 nav a.active {

@@ -20,6 +20,16 @@ nav ul {
     list-style:none
 }
 
+.floor {
+    font-size: 14px;
+    text-align: center;
+}
+
+.floor a { 
+     border-bottom: 1px solid #56a0d3;
+     color: inherit;
+ }
+
 blockquote,q {
     quotes:none
 }

@@ -3,8 +3,226 @@
   <channel>
     <title></title>
     <description>Blog of Chris Gallo | Sharing what I learn because it pays to be curious.</description>
-    <link>http://blog.hotdogsandeggs.com</link>
-    <atom:link href="http://blog.hotdogsandeggs.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Data is man-made</title>
+        <description>&lt;p&gt;Here’s a secret from the support team at Highrise. Customer support metrics make us feel icky.&lt;/p&gt;
+
+&lt;p&gt;Our team doesn’t know our satisfaction score. We’ve never asked any of the people that use Highrise to try those types of surveys.&lt;/p&gt;
+
+&lt;p&gt;We can’t give you an exact number for our average response time. It depends. Sometimes it’s 90 seconds, and other times it’s within 24 hours.&lt;/p&gt;
+
+&lt;p&gt;We can’t tell you our average handle time for an issue. Our team has a general idea, but no exact number.&lt;/p&gt;
+
+&lt;p&gt;These types of customer support metrics aren’t wrong. We’re sure they work for other support teams.&lt;/p&gt;
+
+&lt;p&gt;We’re just not sure they’re right for us.&lt;/p&gt;
+
+&lt;p&gt;Because there is one piece of knowledge we’ve come to realize: &lt;strong&gt;data is man-made&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-do-you-mean-data-is-man-made&quot;&gt;What do you mean data is man-made?&lt;/h2&gt;
+
+&lt;p&gt;Data or metrics or stats are all man-made. A human decides what to measure, how to measure it, how to present it, and how to share it with others.&lt;/p&gt;
+
+&lt;p&gt;But why does it matter to measure these things? &lt;a href=&quot;https://m.signalvnoise.com/real-time-dashboards-considered-harmful-7ab026942ac#.ssz9jaflz&quot;&gt;And what’s the point?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A lot of times people avoid these questions when it comes to data. Companies copy what other teams measure, ignoring the fact if it’s important to measure the same things in the same way, or if it’s even important to measure it at all.&lt;/p&gt;
+
+&lt;h2 id=&quot;but-isnt-all-data-objective&quot;&gt;But isn’t all data objective?&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Many people view numerical data as more trustworthy than qualitative data.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Clayton Christensen, &lt;a href=&quot;https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612&quot;&gt;Competing Against Luck&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Numbers are black and white. Concrete. You can trust the numbers.&lt;/p&gt;
+
+&lt;p&gt;Right?&lt;/p&gt;
+
+&lt;p&gt;Nope. Almost all data is built on biases and judgement. Because humans are deciding what to measure, how to measure, and why to measure.&lt;/p&gt;
+
+&lt;p&gt;Numbers fit perfectly into a spreadsheet or a graph. A number gives a &lt;em&gt;definitive&lt;/em&gt; answer to questions like how much or how many.&lt;/p&gt;
+
+&lt;p&gt;That doesn’t mean you should treat those numbers as &lt;em&gt;insights&lt;/em&gt; and act immediately. Data shouldn’t be used to prove a point.&lt;/p&gt;
+
+&lt;p&gt;Data should be used to fuel your imagination.&lt;/p&gt;
+
+&lt;h2 id=&quot;words--numbers&quot;&gt;Words &amp;gt; Numbers&lt;/h2&gt;
+
+&lt;p&gt;Qualitative data isn’t easy. There aren’t any formulas or simple math. It doesn’t fit into a spreadsheet. It doesn’t answer questions. It’s not black and white.&lt;/p&gt;
+
+&lt;p&gt;It’s colorful. Messy. Qualitative data creates more questions. It’s not simple to present or share with others. It takes some time.&lt;/p&gt;
+
+&lt;p&gt;Our support team has found one thing to be true. Qualitative data is worth it. 100 percent worth it.&lt;/p&gt;
+
+&lt;p&gt;For example, our team recently &lt;a href=&quot;http://blog.highrisehq.com/post/153354155666/filter-ui-updates&quot;&gt;updated the filters in Highrise&lt;/a&gt;. This update was to an earlier revision to filters we made during the year.&lt;/p&gt;
+
+&lt;p&gt;It wasn’t driven by one piece of data. One piece of quantitative data. It came from a new user:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks for pointing out those filters. I didn’t even know they were there. Those icons weren’t obvious to me at first.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This hit all of us across the nose. The filters looked better, aesthetically it was a much more clean than the &lt;a href=&quot;https://cl.ly/2S3V332N281E&quot;&gt;previous design&lt;/a&gt;. But how to use the filters wasn’t as obvious any longer.&lt;/p&gt;
+
+&lt;p&gt;Folks need to find a specific set of contacts in the &lt;em&gt;city of: Chicago&lt;/em&gt;, that have the &lt;em&gt;value: Interested&lt;/em&gt; in the &lt;em&gt;custom field: Status&lt;/em&gt;, and that are &lt;em&gt;tagged: Potential&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;It wasn’t clear how to do that, so our team made a change.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://draftin.com:443/images/48870?token=KjKIKSoBT_Eeuyaeb9xQH-9UNDo45bUXPPtz6jse9AG4I84q0exg0u6CtEPBFQmB-fVA958PC72ZeTS2TJVW_q8&quot; alt=&quot;new-old-filters.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Quantitative data didn’t tell us we needed to make this change. It was all qualitative.&lt;/p&gt;
+
+&lt;p&gt;Questions from customers and questions from our team. It was a conversation. There is not a numerical value you can put on that.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;so-what-do-we-measure&quot;&gt;So what do we measure?&lt;/h2&gt;
+
+&lt;p&gt;Instead of striving to lower our average response time or improve our customer satisfaction score, our support team is aiming for something a bit different. Something harder to measure. It’s not a number.&lt;/p&gt;
+
+&lt;p&gt;As &lt;a href=&quot;https://twitter.com/alisongroves&quot;&gt;Alison&lt;/a&gt; would say, we strive to put ourselves out of work.&lt;/p&gt;
+
+&lt;p&gt;Don’t confuse that with us not wanting to work at Highrise. We love it, and love working with our small team.&lt;/p&gt;
+
+&lt;p&gt;What we mean is we want to make it easier for people to use Highrise. We want to create a product that is so obvious and so easy to use that we seldom get questions on how to use it.&lt;/p&gt;
+
+&lt;p&gt;And when folks do have questions, we want to have resources available to them right away, so they can help themselves. So if someone has a question at 2 am in the morning, and we’re not around, they can find an answer without waiting for us.&lt;/p&gt;
+
+&lt;p&gt;Because we don’t believe managing a number is going to improve our support. We believe focusing on customers and what they are trying to do with Highrise is going to make a better product, and better support.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please don’t take this as gospel. What works for our team, might not work for your team. And vice versa.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Chapter 9 of Clayton Christensen’s recent book, &lt;a href=&quot;https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612&quot;&gt;Competing Against Luck&lt;/a&gt;, was a big inspiration for this post. The entire book is great, and you should check it out.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 16 Dec 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/data-is-man-made/</link>
+        <guid isPermaLink="true">http://localhost:4000/data-is-man-made/</guid>
+      </item>
+    
+      <item>
+        <title>A Customer Can be You</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://www.eater.com/2015/6/8/8745361/chef-roger-verge-died&quot;&gt;Roger Vergé&lt;/a&gt; was a world-renowned chef. He won the Michelin star for his restaurant, Moulin de Mougins, three times and countless other awards.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Shep_Gordon&quot;&gt;Shep Gordon&lt;/a&gt;, Vergé’s manager, described him as the first person he ever met that had true success. He was a master as his craft, and truly happy.&lt;/p&gt;
+
+&lt;p&gt;Gordon shares a story with &lt;a href=&quot;http://chiseler.org/post/145157416821/life-after-supermensch-an-interview-with-shep&quot;&gt;The Chiseler&lt;/a&gt; about going out to eat with Vergé. The long-time manager estimates that he ate roughly 1,000 meals with him.&lt;/p&gt;
+
+&lt;p&gt;So what’s it like eating with a world class chef?&lt;/p&gt;
+
+&lt;p&gt;“I remember one time the food was horrible,” Gordon shares. “I ate half of my plate. He finished his plate and my plate. When we left the restaurant, I said, ‘Did you really think it that was good?’ And he said, ‘Oh Shep, it was horrible.’ But he ate every bit of it.”&lt;/p&gt;
+
+&lt;p&gt;Why would Vergé do that?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Over the Thanksgiving holiday, I spent a good chunk of my time traveling alongside many other people. For some reason, I was more observant in my travels.&lt;/p&gt;
+
+&lt;p&gt;When you travel, you often hire many services and interact with lots of people.&lt;/p&gt;
+
+&lt;p&gt;You might take an Uber or Lyft to the airport. Go through security and interact with TSA. Board a plane with other passengers. Deal with flight attendants. Rental car agencies. Hotel concierges. Waiters at restaurants.&lt;/p&gt;
+
+&lt;p&gt;When traveling, you’re a constant customer of different services.&lt;/p&gt;
+
+&lt;p&gt;It wasn’t until recently, where I began to notice how people were treating the folks providing these services.&lt;/p&gt;
+
+&lt;p&gt;One of the consequences of working in customer support almost every day is that you gain perspective on being a customer. Here’s 3 lessons I’ve learned on how to be a kinder customer.&lt;/p&gt;
+
+&lt;h2 id=&quot;share-more-information&quot;&gt;Share more information&lt;/h2&gt;
+
+&lt;p&gt;Help me, help you. It’s true.&lt;/p&gt;
+
+&lt;p&gt;If you need assistance from someone, it’s important to explain exactly what you want to accomplish and where you’re struggling in trying to do so.&lt;/p&gt;
+
+&lt;p&gt;Because the &lt;a href=&quot;http://supportops.co/dont-be-a-robot-create-conversations/&quot;&gt;best answer is often a question&lt;/a&gt; for someone trying to help you.&lt;/p&gt;
+
+&lt;p&gt;If you can eliminate those questions by providing information up front, it’s a win-win for everyone.&lt;/p&gt;
+
+&lt;p&gt;For example, contacting support and saying, “everything is missing, please advise,” isn’t all that helpful.&lt;/p&gt;
+
+&lt;p&gt;It generates more questions for the person providing support, which can lead to lots of back and forth. Anxiety.&lt;/p&gt;
+
+&lt;p&gt;If you contact support, and say, “a note added November 8 is no longer in my account. It contained the phrase the brown fox jumps over the lazy dog, and it was added by my colleague, Colleen.” That’s a start.&lt;/p&gt;
+
+&lt;p&gt;It leads support in a direction, and gets you help you faster. The more information that is shared benefits everyone. Win-win.&lt;/p&gt;
+
+&lt;p&gt;Have you ever gone to the grocery store hungry without a list of what you want to buy?&lt;/p&gt;
+
+&lt;p&gt;It doesn’t end well. You buy lots of stuff you don’t really need.&lt;/p&gt;
+
+&lt;p&gt;The same is true when you contact support without sharing specific information. It can cause more anxiety and waste valuable time for everyone.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;ask-before-speaking-to-the-manager&quot;&gt;Ask before speaking to the manager&lt;/h2&gt;
+
+&lt;p&gt;May I speak with your manager?&lt;/p&gt;
+
+&lt;p&gt;It’s one the oldest customer tactics. And for good reason, it sadly, works a lot of the time.&lt;/p&gt;
+
+&lt;p&gt;I’ve never thought much about this question until I was asked, &lt;em&gt;or not asked&lt;/em&gt;, it. It’s happened to me more than a few times.&lt;/p&gt;
+
+&lt;p&gt;A customer emails your boss directly instead of interacting with you, or complains to your boss instead of asking you beforehand if there is anything else you can do to help.&lt;/p&gt;
+
+&lt;p&gt;It’s demoralizing. It doesn’t matter what job you have, a feeling of autonomy and being empowered is so important.&lt;/p&gt;
+
+&lt;p&gt;So when a customer tries to go over top of a support person, it destroys those feelings.&lt;/p&gt;
+
+&lt;p&gt;This is why I’ve learned to always ask if a manager or someone else could help me before going around the person who is trying to provide support.&lt;/p&gt;
+
+&lt;p&gt;I get that sometimes you have to do it. A support person does a bad job. I’ve certainly done a poor job in the past, and a customer went around me to try to get help from elsewhere.&lt;/p&gt;
+
+&lt;p&gt;Most of the time that isn’t a reflection of the person doing support though.&lt;/p&gt;
+
+&lt;p&gt;It’s more of a reflection of the organization. If an organization doesn’t empower the people doing support, no one really wins. Especially, the customer.&lt;/p&gt;
+
+&lt;p&gt;Before trying to contact someone with a C-Level title, ask the person providing support first. This puts you in a better position to get help and the attention from their boss.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;tell-someone-when-they-do-a-good-job&quot;&gt;Tell someone when they do a good job&lt;/h2&gt;
+
+&lt;p&gt;Twitter and other social media platforms are full of complaints. Try a Twitter search for a common airline, &lt;a href=&quot;https://twitter.com/search?f=tweets&amp;amp;vertical=default&amp;amp;q=%40United%20hate&amp;amp;src=typd&quot;&gt;like United&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;When you do a bad job, people will let you know. And they probably should. Word of mouth is powerful.&lt;/p&gt;
+
+&lt;p&gt;Actions speak louder than words. So if you constantly complain about a service or product, or shitty support, take your business elsewhere.&lt;/p&gt;
+
+&lt;p&gt;As much as people call out poor support, you rarely see folks praising support when they do a good job. Most folks that are happy with a service or product, you don’t hear from. These satisfied folks tend to be more quiet. That’s completely fine.&lt;/p&gt;
+
+&lt;p&gt;I would encourage you to tell a support person when they do a good job. Because it can make a support person’s day.&lt;/p&gt;
+
+&lt;p&gt;I’ve had really rough weeks where every customer interaction feels contentious, and then one customer tells me what a great job we’re doing and everything changes. It makes my day, and sometimes my week.&lt;/p&gt;
+
+&lt;p&gt;The same is true when I see a customer praise a teammate of mine. The good vibes bring a smile to my face, and make me proud to work with everyone. It can really lift the spirits of the people that do support.&lt;/p&gt;
+
+&lt;p&gt;I’ve learned you should never expect praise when working in support. So when someone does tell you that you do a good job, it makes it that much sweeter.&lt;/p&gt;
+
+&lt;p&gt;You can scream when someone does a bad job. And you can also pat someone on the back when they do a good job too.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;“He’d say to me, ‘Shep, you know when I come into a restaurant, the chef looks to see when the plates come back if they’re empty,’” Gordon continued about Vergé.&lt;/p&gt;
+
+&lt;p&gt;Here’s one of the world’s greatest chefs admitting the food is terrible, but eating every morsel of food on his plate and his friend’s plate.&lt;/p&gt;
+
+&lt;p&gt;Gordon explained further, “because he knew that if that plate came back empty, he made a &lt;strong&gt;happy man out of the chef&lt;/strong&gt;. If there was one piece of meat left on that plate, the chef might kill himself. He’s had Mr. Vergé at his restaurant and he didn’t eat everything? It had nothing to do with Vergé enjoying the food. It was him realizing what would make someone happy.”&lt;/p&gt;
+
+&lt;p&gt;Vergé was a great chef. He was also a fine patron too.&lt;/p&gt;
+
+&lt;p&gt;It’s important to remember, you too, can be a customer.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks to this &lt;a href=&quot;http://chiseler.org/post/145157416821/life-after-supermensch-an-interview-with-shep&quot;&gt;Shep Gordon interview from The Chiseler&lt;/a&gt; for inspiration of this post. If you dig that interview, try watching the &lt;a href=&quot;https://dvd.netflix.com/Movie/Supermensch-The-Legend-of-Shep-Gordon/70292993&quot;&gt;documentary Supermensch&lt;/a&gt; on Shep Gordon or reading his book, &lt;a href=&quot;https://www.amazon.com/They-Call-Supermensch-Backstage-Rock-2019n-2019Roll-ebook/dp/B00MMFN8QY&quot;&gt;They Call me Supermensch&lt;/a&gt;. Both include more fascinating stories about Vergé.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 29 Nov 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/customer-can-be-you/</link>
+        <guid isPermaLink="true">http://localhost:4000/customer-can-be-you/</guid>
+      </item>
     
       <item>
         <title>The Curse of Knowledge</title>
@@ -116,8 +334,8 @@
 
 </description>
         <pubDate>Mon, 12 Sep 2016 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/the-curse-of-knowledge/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/the-curse-of-knowledge/</guid>
+        <link>http://localhost:4000/the-curse-of-knowledge/</link>
+        <guid isPermaLink="true">http://localhost:4000/the-curse-of-knowledge/</guid>
       </item>
     
       <item>
@@ -218,8 +436,8 @@ That’s my job. It’s to satisfy these questions and requests.&lt;/p&gt;
 &lt;p&gt;Care less.&lt;/p&gt;
 </description>
         <pubDate>Sun, 31 Jul 2016 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/care-less/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/care-less/</guid>
+        <link>http://localhost:4000/care-less/</link>
+        <guid isPermaLink="true">http://localhost:4000/care-less/</guid>
       </item>
     
       <item>
@@ -310,8 +528,8 @@ That’s my job. It’s to satisfy these questions and requests.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 02 Jun 2016 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/useful-or-entertaining/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/useful-or-entertaining/</guid>
+        <link>http://localhost:4000/useful-or-entertaining/</link>
+        <guid isPermaLink="true">http://localhost:4000/useful-or-entertaining/</guid>
       </item>
     
       <item>
@@ -508,8 +726,8 @@ That’s my job. It’s to satisfy these questions and requests.&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 18 Apr 2016 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/if-we-had-a-roadmap/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/if-we-had-a-roadmap/</guid>
+        <link>http://localhost:4000/if-we-had-a-roadmap/</link>
+        <guid isPermaLink="true">http://localhost:4000/if-we-had-a-roadmap/</guid>
       </item>
     
       <item>
@@ -624,8 +842,8 @@ It forced us to improve Highrise and to do it quickly.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;This post was inspired by this &lt;a href=&quot;https://www.youtube.com/watch?v=x46-XiMOoJE&quot;&gt;talk&lt;/a&gt; from Manoj Bhargava.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Mar 2016 00:00:00 -0500</pubDate>
-        <link>http://blog.hotdogsandeggs.com/be-the-plumber/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/be-the-plumber/</guid>
+        <link>http://localhost:4000/be-the-plumber/</link>
+        <guid isPermaLink="true">http://localhost:4000/be-the-plumber/</guid>
       </item>
     
       <item>
@@ -760,8 +978,8 @@ Fidelity being the total experience of something and convenience being how easy 
 &lt;p&gt;That’s why I bought their stuff.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Feb 2016 00:00:00 -0500</pubDate>
-        <link>http://blog.hotdogsandeggs.com/convenience/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/convenience/</guid>
+        <link>http://localhost:4000/convenience/</link>
+        <guid isPermaLink="true">http://localhost:4000/convenience/</guid>
       </item>
     
       <item>
@@ -867,8 +1085,8 @@ Fidelity being the total experience of something and convenience being how easy 
 &lt;p&gt;Because the person using the product decides how they use it.&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://blog.hotdogsandeggs.com/how-they-use-it/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/how-they-use-it/</guid>
+        <link>http://localhost:4000/how-they-use-it/</link>
+        <guid isPermaLink="true">http://localhost:4000/how-they-use-it/</guid>
       </item>
     
       <item>
@@ -942,8 +1160,8 @@ Fidelity being the total experience of something and convenience being how easy 
 &lt;p&gt;Look for workarounds.&lt;/p&gt;
 </description>
         <pubDate>Thu, 12 Nov 2015 00:00:00 -0500</pubDate>
-        <link>http://blog.hotdogsandeggs.com/workarounds/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/workarounds/</guid>
+        <link>http://localhost:4000/workarounds/</link>
+        <guid isPermaLink="true">http://localhost:4000/workarounds/</guid>
       </item>
     
       <item>
@@ -1007,8 +1225,8 @@ Fidelity being the total experience of something and convenience being how easy 
 &lt;p&gt;&lt;strong&gt;The opposite of blame is taking responsibility.&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 15 Oct 2015 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/blame/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/blame/</guid>
+        <link>http://localhost:4000/blame/</link>
+        <guid isPermaLink="true">http://localhost:4000/blame/</guid>
       </item>
     
       <item>
@@ -1142,8 +1360,8 @@ Fidelity being the total experience of something and convenience being how easy 
 &lt;p&gt;&lt;em&gt;TL;DR - check out the &lt;a href=&quot;http://mygifs.withdraft.com/&quot;&gt;gif recap&lt;/a&gt; :)&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 12 Aug 2015 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/advice-from-the-future/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/advice-from-the-future/</guid>
+        <link>http://localhost:4000/advice-from-the-future/</link>
+        <guid isPermaLink="true">http://localhost:4000/advice-from-the-future/</guid>
       </item>
     
       <item>
@@ -1269,8 +1487,8 @@ I work in customer support. Our company is never closed. People from around the 
 
 </description>
         <pubDate>Wed, 01 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/routine/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/routine/</guid>
+        <link>http://localhost:4000/routine/</link>
+        <guid isPermaLink="true">http://localhost:4000/routine/</guid>
       </item>
     
       <item>
@@ -1327,8 +1545,8 @@ Try it. It’s like a superpower. Not for you, for &lt;em&gt;them.&lt;/em&gt;&lt
 
 </description>
         <pubDate>Thu, 04 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/just-tell-them/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/just-tell-them/</guid>
+        <link>http://localhost:4000/just-tell-them/</link>
+        <guid isPermaLink="true">http://localhost:4000/just-tell-them/</guid>
       </item>
     
       <item>
@@ -1477,8 +1695,8 @@ E. None of the above&lt;/em&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 22 Feb 2015 00:00:00 -0500</pubDate>
-        <link>http://blog.hotdogsandeggs.com/multiple-choice/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/multiple-choice/</guid>
+        <link>http://localhost:4000/multiple-choice/</link>
+        <guid isPermaLink="true">http://localhost:4000/multiple-choice/</guid>
       </item>
     
       <item>
@@ -1607,8 +1825,8 @@ E. None of the above&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;What will you choose today?&lt;/p&gt;
 </description>
         <pubDate>Sat, 31 Jan 2015 00:00:00 -0500</pubDate>
-        <link>http://blog.hotdogsandeggs.com/procrastination/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/procrastination/</guid>
+        <link>http://localhost:4000/procrastination/</link>
+        <guid isPermaLink="true">http://localhost:4000/procrastination/</guid>
       </item>
     
       <item>
@@ -1713,8 +1931,8 @@ E. None of the above&lt;/em&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 11 Nov 2014 00:00:00 -0500</pubDate>
-        <link>http://blog.hotdogsandeggs.com/support-like-a-customer/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/support-like-a-customer/</guid>
+        <link>http://localhost:4000/support-like-a-customer/</link>
+        <guid isPermaLink="true">http://localhost:4000/support-like-a-customer/</guid>
       </item>
     
       <item>
@@ -1810,8 +2028,8 @@ Be honest.&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 05 Oct 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/thanks-for-understanding/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/thanks-for-understanding/</guid>
+        <link>http://localhost:4000/thanks-for-understanding/</link>
+        <guid isPermaLink="true">http://localhost:4000/thanks-for-understanding/</guid>
       </item>
     
       <item>
@@ -1903,8 +2121,8 @@ Be honest.&lt;/p&gt;
 &lt;p&gt;Not even if I put on his shoes.&lt;/p&gt;
 </description>
         <pubDate>Fri, 26 Sep 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/other-people-shoes/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/other-people-shoes/</guid>
+        <link>http://localhost:4000/other-people-shoes/</link>
+        <guid isPermaLink="true">http://localhost:4000/other-people-shoes/</guid>
       </item>
     
       <item>
@@ -1963,8 +2181,8 @@ Be honest.&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 19 Sep 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/small-human-touches/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/small-human-touches/</guid>
+        <link>http://localhost:4000/small-human-touches/</link>
+        <guid isPermaLink="true">http://localhost:4000/small-human-touches/</guid>
       </item>
     
       <item>
@@ -2073,8 +2291,8 @@ Be honest.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Find the things in your life that are no longer mandatory. Do them on the side. And you might just discover your knuckleball.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 06 Sep 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/mandatory/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/mandatory/</guid>
+        <link>http://localhost:4000/mandatory/</link>
+        <guid isPermaLink="true">http://localhost:4000/mandatory/</guid>
       </item>
     
       <item>
@@ -2190,8 +2408,8 @@ Be honest.&lt;/p&gt;
 &lt;p&gt;She was transparent. And she got our vote.&lt;/p&gt;
 </description>
         <pubDate>Sun, 31 Aug 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/transparency/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/transparency/</guid>
+        <link>http://localhost:4000/transparency/</link>
+        <guid isPermaLink="true">http://localhost:4000/transparency/</guid>
       </item>
     
       <item>
@@ -2324,8 +2542,8 @@ Be honest.&lt;/p&gt;
 &lt;p&gt;Because time is for sale.&lt;/p&gt;
 </description>
         <pubDate>Tue, 26 Aug 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/what-is-time/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/what-is-time/</guid>
+        <link>http://localhost:4000/what-is-time/</link>
+        <guid isPermaLink="true">http://localhost:4000/what-is-time/</guid>
       </item>
     
       <item>
@@ -2438,8 +2656,8 @@ Be honest.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 16 Aug 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/beginner-confessions/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/beginner-confessions/</guid>
+        <link>http://localhost:4000/beginner-confessions/</link>
+        <guid isPermaLink="true">http://localhost:4000/beginner-confessions/</guid>
       </item>
     
       <item>
@@ -2547,8 +2765,8 @@ Be honest.&lt;/p&gt;
 &lt;p&gt;Companies need to re-route efficiency. And focus on feelings.&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Aug 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/efficiency-alone/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/efficiency-alone/</guid>
+        <link>http://localhost:4000/efficiency-alone/</link>
+        <guid isPermaLink="true">http://localhost:4000/efficiency-alone/</guid>
       </item>
     
       <item>
@@ -2645,8 +2863,8 @@ Be honest.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 23 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/expectations/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/expectations/</guid>
+        <link>http://localhost:4000/expectations/</link>
+        <guid isPermaLink="true">http://localhost:4000/expectations/</guid>
       </item>
     
       <item>
@@ -2749,8 +2967,8 @@ Be honest.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/langauge-you-use/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/langauge-you-use/</guid>
+        <link>http://localhost:4000/langauge-you-use/</link>
+        <guid isPermaLink="true">http://localhost:4000/langauge-you-use/</guid>
       </item>
     
       <item>
@@ -2820,8 +3038,8 @@ Be honest.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Because the medium beats the message.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 08 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/medium-message/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/medium-message/</guid>
+        <link>http://localhost:4000/medium-message/</link>
+        <guid isPermaLink="true">http://localhost:4000/medium-message/</guid>
       </item>
     
       <item>
@@ -2840,8 +3058,8 @@ Be honest.&lt;/p&gt;
 &lt;a href=&quot;http://supportops.co/dont-be-a-robot-create-conversations/&quot; class=&quot;about-me&quot;&gt;What was it?&lt;/a&gt;&lt;/div&gt;
 </description>
         <pubDate>Tue, 24 Jun 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/create-conversations/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/create-conversations/</guid>
+        <link>http://localhost:4000/create-conversations/</link>
+        <guid isPermaLink="true">http://localhost:4000/create-conversations/</guid>
       </item>
     
       <item>
@@ -2942,8 +3160,8 @@ Be honest.&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 22 Jun 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/of-course-but-maybe/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/of-course-but-maybe/</guid>
+        <link>http://localhost:4000/of-course-but-maybe/</link>
+        <guid isPermaLink="true">http://localhost:4000/of-course-but-maybe/</guid>
       </item>
     
       <item>
@@ -3040,8 +3258,8 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;Don’t be afraid to share your experience. Even if it’s unlikely.&lt;/p&gt;
 </description>
         <pubDate>Fri, 13 Jun 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/unlikely-experience/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/unlikely-experience/</guid>
+        <link>http://localhost:4000/unlikely-experience/</link>
+        <guid isPermaLink="true">http://localhost:4000/unlikely-experience/</guid>
       </item>
     
       <item>
@@ -3136,8 +3354,8 @@ How did you do that?&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 07 Jun 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/be-specific/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/be-specific/</guid>
+        <link>http://localhost:4000/be-specific/</link>
+        <guid isPermaLink="true">http://localhost:4000/be-specific/</guid>
       </item>
     
       <item>
@@ -3212,8 +3430,8 @@ How did you do that?&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 01 Jun 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/show-dont-tell/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/show-dont-tell/</guid>
+        <link>http://localhost:4000/show-dont-tell/</link>
+        <guid isPermaLink="true">http://localhost:4000/show-dont-tell/</guid>
       </item>
     
       <item>
@@ -3266,8 +3484,8 @@ How did you do that?&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 26 May 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/break-and-learn/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/break-and-learn/</guid>
+        <link>http://localhost:4000/break-and-learn/</link>
+        <guid isPermaLink="true">http://localhost:4000/break-and-learn/</guid>
       </item>
     
       <item>
@@ -3325,8 +3543,8 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;It got better.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 May 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/cut-it-in-half/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/cut-it-in-half/</guid>
+        <link>http://localhost:4000/cut-it-in-half/</link>
+        <guid isPermaLink="true">http://localhost:4000/cut-it-in-half/</guid>
       </item>
     
       <item>
@@ -3396,8 +3614,8 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;The best answer is a question.&lt;/p&gt;
 </description>
         <pubDate>Mon, 12 May 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/best-answer-question/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/best-answer-question/</guid>
+        <link>http://localhost:4000/best-answer-question/</link>
+        <guid isPermaLink="true">http://localhost:4000/best-answer-question/</guid>
       </item>
     
       <item>
@@ -3431,8 +3649,8 @@ How did you do that?&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 07 May 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/transcribe-draft/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/transcribe-draft/</guid>
+        <link>http://localhost:4000/transcribe-draft/</link>
+        <guid isPermaLink="true">http://localhost:4000/transcribe-draft/</guid>
       </item>
     
       <item>
@@ -3482,8 +3700,8 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;Because a line out the door and 40 minute wait is just the right size.&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 May 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/why-grow/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/why-grow/</guid>
+        <link>http://localhost:4000/why-grow/</link>
+        <guid isPermaLink="true">http://localhost:4000/why-grow/</guid>
       </item>
     
       <item>
@@ -3546,8 +3764,8 @@ How did you do that?&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 25 Apr 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/focus/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/focus/</guid>
+        <link>http://localhost:4000/focus/</link>
+        <guid isPermaLink="true">http://localhost:4000/focus/</guid>
       </item>
     
       <item>
@@ -3575,8 +3793,8 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;Because no one wants to be treated as a user. People want to be treated like people.&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 Apr 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/name-calling/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/name-calling/</guid>
+        <link>http://localhost:4000/name-calling/</link>
+        <guid isPermaLink="true">http://localhost:4000/name-calling/</guid>
       </item>
     
       <item>
@@ -3655,8 +3873,8 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;Because when you &lt;a href=&quot;https://gettingreal.37signals.com/ch02_Build_Less.php&quot;&gt;try to outdo&lt;/a&gt;, you’re thinking behind. And never getting ahead.&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Apr 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/do-less/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/do-less/</guid>
+        <link>http://localhost:4000/do-less/</link>
+        <guid isPermaLink="true">http://localhost:4000/do-less/</guid>
       </item>
     
       <item>
@@ -3692,8 +3910,8 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;Don’t judge a book by it’s cover. And don’t judge anything by it’s ranking.&lt;/p&gt;
 </description>
         <pubDate>Sun, 06 Apr 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/rankings/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/rankings/</guid>
+        <link>http://localhost:4000/rankings/</link>
+        <guid isPermaLink="true">http://localhost:4000/rankings/</guid>
       </item>
     
       <item>
@@ -3738,8 +3956,8 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;Because the characters of competition change everyday. Your competitor tomorrow is not your competitor today.&lt;/p&gt;
 </description>
         <pubDate>Mon, 31 Mar 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/competition/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/competition/</guid>
+        <link>http://localhost:4000/competition/</link>
+        <guid isPermaLink="true">http://localhost:4000/competition/</guid>
       </item>
     
       <item>
@@ -3786,8 +4004,8 @@ How did you do that?&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 24 Mar 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/listen-to-what-people-do/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/listen-to-what-people-do/</guid>
+        <link>http://localhost:4000/listen-to-what-people-do/</link>
+        <guid isPermaLink="true">http://localhost:4000/listen-to-what-people-do/</guid>
       </item>
     
       <item>
@@ -3833,8 +4051,8 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;One is the loneliest statistic.&lt;/p&gt;
 </description>
         <pubDate>Mon, 17 Mar 2014 00:00:00 -0400</pubDate>
-        <link>http://blog.hotdogsandeggs.com/one-metric/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/one-metric/</guid>
+        <link>http://localhost:4000/one-metric/</link>
+        <guid isPermaLink="true">http://localhost:4000/one-metric/</guid>
       </item>
     
       <item>
@@ -3882,8 +4100,8 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;When you’re not good enough, fight through it.&lt;/p&gt;
 </description>
         <pubDate>Sat, 08 Mar 2014 00:00:00 -0500</pubDate>
-        <link>http://blog.hotdogsandeggs.com/not-good-enough/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/not-good-enough/</guid>
+        <link>http://localhost:4000/not-good-enough/</link>
+        <guid isPermaLink="true">http://localhost:4000/not-good-enough/</guid>
       </item>
     
       <item>
@@ -3984,8 +4202,8 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Remember action beats movement. Start sending a cover letter that gets you an interview.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Mar 2014 00:00:00 -0500</pubDate>
-        <link>http://blog.hotdogsandeggs.com/cover-letter/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/cover-letter/</guid>
+        <link>http://localhost:4000/cover-letter/</link>
+        <guid isPermaLink="true">http://localhost:4000/cover-letter/</guid>
       </item>
     
       <item>
@@ -4034,8 +4252,8 @@ How did you do that?&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 23 Feb 2014 00:00:00 -0500</pubDate>
-        <link>http://blog.hotdogsandeggs.com/nervous/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/nervous/</guid>
+        <link>http://localhost:4000/nervous/</link>
+        <guid isPermaLink="true">http://localhost:4000/nervous/</guid>
       </item>
     
       <item>
@@ -4107,8 +4325,8 @@ v=lsqaqRBTj_s&amp;amp;feature=youtu.be&amp;amp;t=6m7s&quot;&gt;Gary Vaynerchuk, 
 &lt;p&gt;Experience.&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 Feb 2014 00:00:00 -0500</pubDate>
-        <link>http://blog.hotdogsandeggs.com/experience/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/experience/</guid>
+        <link>http://localhost:4000/experience/</link>
+        <guid isPermaLink="true">http://localhost:4000/experience/</guid>
       </item>
     
       <item>
@@ -4160,8 +4378,8 @@ v=lsqaqRBTj_s&amp;amp;feature=youtu.be&amp;amp;t=6m7s&quot;&gt;Gary Vaynerchuk, 
 &lt;p&gt;&lt;em&gt;Because numbers can’t talk.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 09 Feb 2014 00:00:00 -0500</pubDate>
-        <link>http://blog.hotdogsandeggs.com/drunk-on-data/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/drunk-on-data/</guid>
+        <link>http://localhost:4000/drunk-on-data/</link>
+        <guid isPermaLink="true">http://localhost:4000/drunk-on-data/</guid>
       </item>
     
       <item>
@@ -4199,8 +4417,8 @@ v=lsqaqRBTj_s&amp;amp;feature=youtu.be&amp;amp;t=6m7s&quot;&gt;Gary Vaynerchuk, 
 &lt;p&gt;&lt;em&gt;Time.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 31 Jan 2014 00:00:00 -0500</pubDate>
-        <link>http://blog.hotdogsandeggs.com/time/</link>
-        <guid isPermaLink="true">http://blog.hotdogsandeggs.com/time/</guid>
+        <link>http://localhost:4000/time/</link>
+        <guid isPermaLink="true">http://localhost:4000/time/</guid>
       </item>
     
   </channel>
