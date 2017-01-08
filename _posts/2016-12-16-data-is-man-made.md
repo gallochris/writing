@@ -31,7 +31,7 @@ A lot of times people avoid these questions when it comes to data. Companies cop
 
 > Many people view numerical data as more trustworthy than qualitative data. 
 
-> - Clayton Christensen, [Competing Against Luck](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612)
+> Clayton Christensen, [Competing Against Luck](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612)
 
 Numbers are black and white. Concrete. You can trust the numbers. 
 

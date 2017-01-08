@@ -250,15 +250,9 @@ html,body {
 }
 
 body {
-    -webkit-box-sizing:border-box;
-    -moz-box-sizing:border-box;
-    box-sizing:border-box;
-    -webkit-font-smoothing:antialiased;
-    font-smoothing:antialiased;
-    background-color:#fff;
     color:#404040;
-    font-family: Georgia,"Times New Roman",Times,serif;
-    font-size:1rem;
+    font-family: "Roboto Mono", monospace, serif;
+    background-color: #EBEFF3;
     line-height: normal;
     position:relative;
     padding:2em 0
@@ -335,13 +329,12 @@ hr {
 }
 
 h1 {
-    font-family:times,Times New Roman,times-roman,georgia,serif;
+    font-family: "Roboto Mono", monospace, serif;
     color:#000;
     margin:0;
     padding:0 0 6px;
-    font-size:51px;
-    line-height:44px;
-    letter-spacing:-2px;
+    font-size:36px;
+    line-height: 46px;
     font-weight:700
 }
 
@@ -351,12 +344,12 @@ h2 {
 }
 
 h3 {
-    font-size:20px
+    font-size:18px;
 }
 
 p {
-    font-size:19px;
-    line-height:29px;
+    font-size:16px;
+    line-height:26px;
     padding-bottom:1em;
 }
 
@@ -365,13 +358,37 @@ p {
 }
 
 li {
-    margin-left:18px
+    margin-left:18px;
+    font-size: 16px;
+    line-height: 26px;
 }
+
 
 @media all and (max-width: 580px) {
 h1 {
-    font-size:32px;
-    line-height:25px
+    font-size:24px;
+    line-height:34px;
+}
+
+h2 { 
+    font-size:18px;
+    line-height:28px;
+ }
+
+p {
+    font-size: 14px;
+    line-height:24px;
+}
+
+li {
+    margin-left:18px;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+blockquote li {
+    font-size: 14px;
+    line-height:24px;
 }
 
 .the-text {
@@ -382,8 +399,30 @@ h1 {
 
 @media all and (max-width: 400px) {
 h1 {
-    font-size:28px;
-    line-height:21px
+    font-size:18px;
+    line-height:28px;
+}
+
+h2 { 
+    font-size:16px;
+    line-height:26px;
+ }
+
+
+p {
+    font-size: 12px;
+    line-height:22px;
+}
+
+li {
+    margin-left:18px;
+    font-size: 12px;
+    line-height: 22px;
+}
+
+blockquote li {
+    font-size: 12px;
+    line-height:22px;
 }
 
 .the-text {
@@ -481,10 +520,18 @@ h1 {
 
 blockquote {
     font-style:italic;
-    background-color:#eee;
     border-radius:5px;
     padding: 15px 15px 0px 15px !important;
     color:#000;
+}
+
+blockquote ul {
+    list-style: none;
+}
+
+blockquote li {
+    font-size: 16px;
+    line-height: 26px;
 }
 
 .blog a {
