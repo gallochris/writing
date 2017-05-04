@@ -5,8 +5,6 @@ preview: It was him realizing what would make someone happy
 permalink: /jousting-with-jekyll/
 ---
 
-# Jousting with Jekyll
-
 One responsibility of the support team here at [Highrise](https://highrisehq.com/) is to maintain our Extras page.
 
 What’s the [Extras page](https://highrisehq.com/extras/)?
