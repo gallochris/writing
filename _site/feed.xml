@@ -7,6 +7,95 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Bargain for Bugs</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*zjcT_Fy9Gh1BpsWfAMQ0PQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Comic from &lt;a href=&quot;https://xkcd.com/1163/&quot;&gt;xkcd.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I found a bug . . .&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When you receive an email from a customer that starts like this, what is your
+first reaction?&lt;/p&gt;
+
+&lt;p&gt;Disappointed? Are you anxious? Shocked?&lt;/p&gt;
+
+&lt;p&gt;The support team at &lt;a href=&quot;https://highrisehq.com/&quot;&gt;Highrise&lt;/a&gt; is often &lt;strong&gt;skeptical&lt;/strong&gt;.
+Why?&lt;/p&gt;
+
+&lt;p&gt;Because sometimes what you think is a bug isn’t a bug at all. It’s an
+&lt;strong&gt;expectation.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We’re firm believers that the &lt;a href=&quot;https://medium.com/@cjgallo/the-best-answer-is-a-question-a5484265cc70&quot;&gt;best answer is a
+question&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Because if you expected &lt;em&gt;X&lt;/em&gt;, and got *Y *— that’s not a bug. It’s an
+expectation. What did you expect to happen is a powerful question.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;for-example----&quot;&gt;For example . . . .&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I found a bug. When I filter by the tag  and I only see four total contacts.
+There are several other people associated with the companies tagged  so why does
+it only show four?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Please advise on when this will be fixed.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This was an email our support team received over and over again. When we began
+asking the question: What are you expecting to happen?&lt;/p&gt;
+
+&lt;p&gt;We found that the customer expected to filter by the tag , and for that filter
+to include all people contacts that belong to companies tagged  too. However,
+this isn’t how Highrise was built to work at the time.&lt;/p&gt;
+
+&lt;p&gt;Unless, you also tagged all the people contacts with , your filter won’t include
+those people contacts. Only the company contacts.&lt;/p&gt;
+
+&lt;p&gt;This wasn’t a bug afterall. Highrise was working as it was intended in this
+example. The problem was that intention didn’t match most customers’
+expectations.&lt;/p&gt;
+
+&lt;p&gt;This was an email our support team received over and over again. This isn’t a
+bug. It’s only a difference in expectations.&lt;/p&gt;
+
+&lt;p&gt;This failure of expectations led to our team to make an adjustment. Instead of
+the intention to only include people if they have the same tag, our team made it
+so if people contacts belong to a company contact, those people contacts inherit
+those same tags. We call it &lt;a href=&quot;https://help.highrisehq.com/contacts/better-tags/#company-tags&quot;&gt;company
+tags&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*WLQeor2ic-fVL1oFMup1tA.gif&quot; alt=&quot;&quot; /&gt;
+&lt;span class=&quot;figcaption_hack&quot;&gt;Not a bug, but a failed expectation led us to improve Highrise using company
+tags.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I’m not here to argue the definition of a bug. Or to make a case that bugs don’t
+exist in Highrise. Or to say if a customer assumes there is a bug, that they’re
+wrong.&lt;/p&gt;
+
+&lt;p&gt;Of course, they’re not wrong. And bugs exist in all software too.&lt;/p&gt;
+
+&lt;p&gt;All I’m suggesting is before giving in and adding to your bug report, ask a
+question.&lt;/p&gt;
+
+&lt;p&gt;What are you expecting to happen?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;If you need to track leads and manage follow-ups, please check out &lt;strong&gt;&lt;a href=&quot;https://highrisehq.com/&quot;&gt;Highrise&lt;/a&gt;&lt;/strong&gt;. Your address book doesn’t do enough, other CRM software tries to do too much. Highrise is built to do just what you need — no more, no less.&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 30 May 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/bargain-for-bugs/</link>
+        <guid isPermaLink="true">http://localhost:4000/bargain-for-bugs/</guid>
+      </item>
+    
+      <item>
         <title>Do the opposite</title>
         <description>&lt;blockquote&gt;
   &lt;p&gt;When you ask people, ‘What’s the opposite of fragile?,’ they tend to say robust, resilient, adaptable, solid, strong. That’s not it. The opposite of fragile is something that gains from disorder. —  Nassim Nicholas Taleb, &lt;a href=&quot;http://people.hotdogsandeggs.com/nassim-nicholas-taleb&quot;&gt;Antifragile&lt;/a&gt;&lt;/p&gt;
