@@ -39,7 +39,5 @@ Your body reacts the same when you're nervous *and* excited. It's simple. If you
 
 Because Mom was right after all. 
 
-* * * 
-
 Feeling nervous? It just means your alive.  
 

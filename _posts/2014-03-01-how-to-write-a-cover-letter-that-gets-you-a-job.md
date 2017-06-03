@@ -37,7 +37,7 @@ What makes a cover letter stand out from others? Action trumps movement. Don’t
 
 ## Which one would you rather read?
 
-[![Cover_Letter_examples.png](https://d23f6h5jpj26xu.cloudfront.net/b3jpcqmnvv46q_small.png)](http://img.svbtle.com/b3jpcqmnvv46q.png)
+![Cover_Letter_examples.png](https://d23f6h5jpj26xu.cloudfront.net/b3jpcqmnvv46q_small.png)
 
 First, yes that is Hulk Hogan on the right in an actual cover letter I submitted that got me a job. Second, how could you not choose the one on the right. It looks more interesting because it stands out.
 
@@ -70,7 +70,7 @@ MailChimp isn’t the only option either. You track opens with [Signals](http://
 A text email converts better than html, but I believe in customizing the email. And it’s worked for me. Here’s 3 reasons why.
 
 ### 1. It shows your skills
-[![Cover Letter HTML Emails.png](https://d23f6h5jpj26xu.cloudfront.net/ddssw4tb7wp4iw_small.png)](http://img.svbtle.com/ddssw4tb7wp4iw.png)
+![Cover Letter HTML Emails.png](https://d23f6h5jpj26xu.cloudfront.net/ddssw4tb7wp4iw_small.png)
 
 I coded my email on my own and successfully used MailChimp to deliver it. This shows I know some level of HTML and CSS, plus I can competently use one of the most popular email marketing programs on the market. You don’t have to code your own, using a template in MailChimp or sending a brilliant text email is just as impressive.
 
@@ -82,7 +82,7 @@ The most overlooked advantage of sending your cover letter through a service lik
 The last thing you want is for no one to read your cover letter. It’s a risk you take, but you can stop wondering if they opened it or not. This allows you to follow up in a smarter way than just blinding sending your resume again or mustering up the courage to call the employer.
 
 ### 3. Answer the tough questions right away
-[![Cover Letter examples.png](https://d23f6h5jpj26xu.cloudfront.net/iivaut1bsstfqw_small.png)](http://img.svbtle.com/iivaut1bsstfqw.png)
+![Cover Letter examples.png](https://d23f6h5jpj26xu.cloudfront.net/iivaut1bsstfqw_small.png)
 
 Chances are your resume will raise questions. It turns out when you lazily submit a cover letter, employers easily judge your resume and wonder if you’re right for the job. But if you take the time to answer the questions you know a company will ask in your cover letter, it saves time for all parties.
 

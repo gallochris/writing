@@ -20,7 +20,7 @@ A month later, I again went down the stairs towards the lockers. She was gone. A
 A few months later I cancelled my membership. The price was a factor, but the emotional reason was about the locker key. The expectation evaporated. YMCA cared about me, but removed the feeling of connection.
 
 * * * 
- > "Retention, the data said, was driven by emotional factors, such as whether the employees knew members' names or said hello when they walked in." 
+ > Retention, the data said, was driven by emotional factors, such as whether the employees knew members' names or said hello when they walked in.
 
 > [Charles Duhigg, The Power of Habit](http://www.amazon.com/dp/081298160X) 
 
@@ -36,6 +36,6 @@ Until she left, and the experience became foreign. Not familiar.
 
 Empathy is motivation. And as a listener, empathy is your [greatest skill](http://lewishowes.com/podcast/simon-sinek/).  Because there are two ways to listen. 
 
-> "You can listen to what people say, sure. But you will be far more effective if you listen to what people do."
+> You can listen to what people say, sure. But you will be far more effective if you listen to what people do.
 
 > [Seth Godin, Two Ways to Listen](http://sethgodin.typepad.com/seths_blog/2014/03/two-ways-to-listen.html) 

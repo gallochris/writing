@@ -39,7 +39,7 @@ He describes how he would send his wife blog posts for her to edit and he realiz
 
 >  As I would watch her operate, I would send her a link to a blog post. She would copy and paste it all into Microsoft Word. And then she would do her stuff. Then she would send me a Word document back over email. I have to open up Word now or Pages, something on my Mac, which was awful. I have to copy and paste the work she had done back into a text editor or whatever. It was just like here is eight steps or however many I just labeled. It's too many steps. 
 
-> Nathan Kontny, [Solve Your Own Problems | Product TV](http://productpeople.tv/2014/07/24/ep61-nate-kontny/) 
+> Nathan Kontny, [Solve Your Own Problems, Product TV](http://productpeople.tv/2014/07/24/ep61-nate-kontny/) 
 
 Kontny eliminates several steps. He built Draft to send a link to his wife and she could edit it within the browser. He could then accept the changes he wanted or reject those he did not want. And that's it. 
 

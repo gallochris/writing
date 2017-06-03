@@ -42,7 +42,7 @@ Valerie Coulton is right. Coulton and Alistair Croll [explore the idea](http://t
 
 Coulton continues, "if you don't somehow feel that they [companies] take some interest in at least your satisfaction or in your comfort, and if not your delight, then I think they're in danger." 
 
-##Amazon 
+## Amazon 
 
 Amazon breathes efficiency. Fast delivery. One click purchases. Robot run fulfillment centers. 
 

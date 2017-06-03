@@ -23,7 +23,7 @@ Think. You've been promised something before and not received it. You've been le
 
 Whether someone was late to a meeting, a company failed to issue you a refund, or your landlord raised your rent - you know what it's like to have your expectations shattered. 
 
-> “I find my life is a lot easier the lower I keep my expectations.” 
+> I find my life is a lot easier the lower I keep my expectations. 
 
 > Bill Watterson
 

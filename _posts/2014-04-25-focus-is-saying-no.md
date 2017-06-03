@@ -37,11 +37,11 @@ It's famous for one item on its menu. A 32 ounce plastic cup that you can fill w
 
 > Steve Jobs
 
-He's Not Here could of changed. It was [for sale on Craigslist](http://www.indyweek.com/indyweek/storied-bar-hes-not-here-is-for-sale-a-remembrance/Content?oid=2743700) in 2012. 
+He's Not Here could have changed. It was [for sale on Craigslist](http://www.indyweek.com/indyweek/storied-bar-hes-not-here-is-for-sale-a-remembrance/Content?oid=2743700) in 2012. 
 
-The bar could of added food. Undergone renovations to eliminate the smell. And started to deter the sketchy people who frequented it. 
+The bar could have added food. Undergone renovations to eliminate the smell. And started to deter the sketchy people who frequented it. 
 
-It could of got it's liquor license. They even joked about it on [April Fools](https://twitter.com/Hes_Not_Here/status/451160250201419776) this year.  
+It could have got it's liquor license. They even joked about it on [April Fools](https://twitter.com/Hes_Not_Here/status/451160250201419776) this year.  
 
 But it didn't do any of these things. It's never changed.
 

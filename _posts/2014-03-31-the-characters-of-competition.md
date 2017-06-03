@@ -7,9 +7,9 @@ redirect_from:
   - http://blog.hotdogsandeggs.com/2014/03/31/the-characters-of-competition/
 ---
 
->“Your competitor tomorrow may be completely different from your competitor today. It’s out of your control. What’s the point of worrying about things you can’t control?”
+> Your competitor tomorrow may be completely different from your competitor today. It’s out of your control. What’s the point of worrying about things you can’t control?
 
-> Jason Fried and David Hansson, [Rework](https://itun.es/us/4Lfgz.l)
+> Jason Fried and David Heinemeier Hansson, [Rework](https://itun.es/us/4Lfgz.l)
 
 * * * 
 

@@ -15,8 +15,9 @@ A tough question to answer. It's like asking what's a healthy weight? There is n
 
 * * * 
 
-> "Statistics are used much like a drunk uses a lamppost - for support, not illumination."
-- Vin Scully
+> Statistics are used much like a drunk uses a lamppost - for support, not illumination.
+
+> Vin Scully
 
 
 There is no silver bullet metric.  One number never tells the whole story. Take a sports and business example. 

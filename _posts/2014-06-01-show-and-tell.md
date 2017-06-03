@@ -67,7 +67,7 @@ Let's stick with the same example, but now we want to adjust the text for our tw
 
 Simple enough. But here's how you can show someone how to do it using Quicktime and Wisita. 
 
-<iframe src="//fast.wistia.net/embed/iframe/ec700cc91q?videoFoam=true"" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="640" height="360"></iframe><script src="//fast.wistia.net/assets/external/iframe-api-v1.js"></script>
+<iframe src="//fast.wistia.net/embed/iframe/ec700cc91q?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="640" height="360"></iframe><script src="//fast.wistia.net/assets/external/iframe-api-v1.js"></script>
 
 * * * 
 

@@ -27,7 +27,7 @@ Here's an example - let's look at 2 different email service providers. MailChimp
 
 Lots of software companies fail to explain what they *actually* do. In this example, just take a look at homepage of each company. 
 
-[![mc-v-cc.jpg](https://d23f6h5jpj26xu.cloudfront.net/coxvusqpxcvxq_small.jpg)](http://img.svbtle.com/coxvusqpxcvxq.jpg)
+![mc-v-cc.jpg](https://d23f6h5jpj26xu.cloudfront.net/coxvusqpxcvxq_small.jpg)
 
 [MailChimp](http://mailchimp.com/) uses three words. *Send better email.*
 

@@ -22,7 +22,7 @@ So how did he make the boring subject of hitting a baseball more interesting?
 
 * * * 
 
-> "If you talk like a scientist, only scientists will understand you. If you talk like a trucker, everyone will understand you."
+> If you talk like a scientist, only scientists will understand you. If you talk like a trucker, everyone will understand you.
 
 > Simon Sinek 
 

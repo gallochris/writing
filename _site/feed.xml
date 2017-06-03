@@ -2193,7 +2193,7 @@ E. None of the above&lt;/em&gt;&lt;/p&gt;
         <title>Thanks for Understanding</title>
         <description>&lt;p&gt;Two stories to share. Compare and contrast. Both involve trips to a cafe. And how these places communicate with you.&lt;/p&gt;
 
-&lt;p&gt;##First Story: We’re Not Open Yet&lt;/p&gt;
+&lt;h2 id=&quot;first-story-were-not-open-yet&quot;&gt;First Story: We’re Not Open Yet&lt;/h2&gt;
 
 &lt;p&gt;It’s 8:56 a.m. on a Saturday morning. Outside of South Block Cafe, a man is clearing tables and setting up chairs.&lt;/p&gt;
 
@@ -2215,7 +2215,7 @@ E. None of the above&lt;/em&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;##Second Story: Give me the Green Light&lt;/p&gt;
+&lt;h2 id=&quot;second-story-give-me-the-green-light&quot;&gt;Second Story: Give me the Green Light&lt;/h2&gt;
 
 &lt;p&gt;About a week later, we grabbed some coffee and brunch with friends in Georgetown. We hit this spot called &lt;a href=&quot;http://bakedandwired.com/&quot;&gt;Baked and Wired&lt;/a&gt;. You should check it out.&lt;/p&gt;
 
@@ -2225,7 +2225,7 @@ E. None of the above&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;But there is a message to set your expectation.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://draftin.com:443/images/21700?token=s6GLYwiNgWjydCnSv6RQrPTnO3r1inM6lw96cX76JApuwcAAmP1vFjBuk_gJQbBQfgWRxoWgljMmhH2MTcvqvYA =250x&quot; alt=&quot;baked-and-wired-understanding.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://draftin.com:443/images/21700?token=s6GLYwiNgWjydCnSv6RQrPTnO3r1inM6lw96cX76JApuwcAAmP1vFjBuk_gJQbBQfgWRxoWgljMmhH2MTcvqvYA&quot; alt=&quot;baked-and-wired-understanding.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;These simple sentences let you know to hang tight. It’s a clear message. And it reads to you as if a human is on the other end writing it. Because they are.&lt;/p&gt;
 
@@ -2415,7 +2415,7 @@ Be honest.&lt;/p&gt;
 
 &lt;p&gt;The same is true for their mobile app. Here’s the screen you see on your mobile device.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://draftin.com:443/images/21126?token=f_IFLKylXo6ndrwY-Fryjz8F2Vt0I4BU5N3ZAqGbdYJ58pRWwAAVlRbj2D_nektIi-qAVV8Q6i3CVTGm3wNXt20 =250x&quot; alt=&quot;hipmunk-mobile-mascot.jpg&quot; /&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://draftin.com:443/images/21126?token=f_IFLKylXo6ndrwY-Fryjz8F2Vt0I4BU5N3ZAqGbdYJ58pRWwAAVlRbj2D_nektIi-qAVV8Q6i3CVTGm3wNXt20&quot; alt=&quot;hipmunk-mobile-mascot.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The same mascot plus a proverb from Tzu. There’s no boring progress bar that’s like watching grass grow or paint dry. This mascot makes you feel human.&lt;/p&gt;
 
@@ -2705,14 +2705,7 @@ Be honest.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;table&gt;
-    &lt;tbody&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Nathan Kontny, [Solve Your Own Problems&lt;/td&gt;
-        &lt;td&gt;Product TV](http://productpeople.tv/2014/07/24/ep61-nate-kontny/)&lt;/td&gt;
-      &lt;/tr&gt;
-    &lt;/tbody&gt;
-  &lt;/table&gt;
+  &lt;p&gt;Nathan Kontny, &lt;a href=&quot;http://productpeople.tv/2014/07/24/ep61-nate-kontny/&quot;&gt;Solve Your Own Problems, Product TV&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Kontny eliminates several steps. He built Draft to send a link to his wife and she could edit it within the browser. He could then accept the changes he wanted or reject those he did not want. And that’s it.&lt;/p&gt;
@@ -2956,7 +2949,7 @@ Be honest.&lt;/p&gt;
 
 &lt;p&gt;Coulton continues, “if you don’t somehow feel that they [companies] take some interest in at least your satisfaction or in your comfort, and if not your delight, then I think they’re in danger.”&lt;/p&gt;
 
-&lt;p&gt;##Amazon&lt;/p&gt;
+&lt;h2 id=&quot;amazon&quot;&gt;Amazon&lt;/h2&gt;
 
 &lt;p&gt;Amazon breathes efficiency. Fast delivery. One click purchases. Robot run fulfillment centers.&lt;/p&gt;
 
@@ -3042,7 +3035,7 @@ Be honest.&lt;/p&gt;
 &lt;p&gt;Whether someone was late to a meeting, a company failed to issue you a refund, or your landlord raised your rent - you know what it’s like to have your expectations shattered.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;“I find my life is a lot easier the lower I keep my expectations.”&lt;/p&gt;
+  &lt;p&gt;I find my life is a lot easier the lower I keep my expectations.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
@@ -3140,7 +3133,7 @@ Be honest.&lt;/p&gt;
 &lt;hr /&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;“If you talk like a scientist, only scientists will understand you. If you talk like a trucker, everyone will understand you.”&lt;/p&gt;
+  &lt;p&gt;If you talk like a scientist, only scientists will understand you. If you talk like a trucker, everyone will understand you.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
@@ -3335,7 +3328,7 @@ Be honest.&lt;/p&gt;
 &lt;p&gt;Now how it applies to customer service.&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;##Cancel&lt;/p&gt;
+&lt;h2 id=&quot;cancel&quot;&gt;Cancel&lt;/h2&gt;
 
 &lt;p&gt;Time Warner Cable. No one is fond of this company. And their is a laundry list of reasons.&lt;/p&gt;
 
@@ -3351,7 +3344,7 @@ Be honest.&lt;/p&gt;
 
 &lt;p&gt;After a 13 minute call with Time Warner Cable, you’re re-routed several times before speaking to someone you can help. The account is finally canceled. But you’re phone looks like a &lt;a href=&quot;https://twitter.com/cjgallo/status/474672908208701442/photo/1&quot;&gt;baby was using the keypad&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://img.svbtle.com/tdsbjcvitlkteg.png&quot;&gt;&lt;img src=&quot;https://d23f6h5jpj26xu.cloudfront.net/tdsbjcvitlkteg_small.png&quot; alt=&quot;timewarner.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d23f6h5jpj26xu.cloudfront.net/tdsbjcvitlkteg_small.png&quot; alt=&quot;timewarner.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Why not just let people cancel online? It’s a simple process. One that might bring them back again.&lt;/p&gt;
 
@@ -3359,7 +3352,7 @@ Be honest.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;##Unsubscribe&lt;/p&gt;
+&lt;h2 id=&quot;unsubscribe&quot;&gt;Unsubscribe&lt;/h2&gt;
 
 &lt;p&gt;It’s not a favorable word for anyone who is involved in email marketing. But it happens.&lt;/p&gt;
 
@@ -3375,7 +3368,7 @@ Be honest.&lt;/p&gt;
 
 &lt;p&gt;What if companies sent an email that looks like this?&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://img.svbtle.com/zjv363x13ayq.png&quot;&gt;&lt;img src=&quot;https://d23f6h5jpj26xu.cloudfront.net/zjv363x13ayq_small.png&quot; alt=&quot;unsubscribe-gmail.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d23f6h5jpj26xu.cloudfront.net/zjv363x13ayq_small.png&quot; alt=&quot;unsubscribe-gmail.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Sure lots of people will unsubscribe. But the ones that didn’t are probably you’re most valuable customers.&lt;/p&gt;
 
@@ -3387,7 +3380,7 @@ Be honest.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;##Credit Card Required&lt;/p&gt;
+&lt;h2 id=&quot;credit-card-required&quot;&gt;Credit Card Required&lt;/h2&gt;
 
 &lt;p&gt;Free trials. It’s common in software products. Like a drug dealer. You get a taste of the product for free.&lt;/p&gt;
 
@@ -3403,13 +3396,14 @@ Be honest.&lt;/p&gt;
 
 &lt;p&gt;Requiring a credit card lost &lt;a href=&quot;https://twitter.com/chrimack/status/474372874241716224&quot;&gt;them a sale&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://img.svbtle.com/p9uulhldllkza.png&quot;&gt;&lt;img src=&quot;https://d23f6h5jpj26xu.cloudfront.net/p9uulhldllkza_small.png&quot; alt=&quot;hookfeed.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d23f6h5jpj26xu.cloudfront.net/p9uulhldllkza_small.png&quot; alt=&quot;hookfeed.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Of course, you want people to pay for your product. But maybe, if you require a credit card upfront, you will trick them into buying it.&lt;/p&gt;
 
 &lt;p&gt;Or maybe you will never earn their business in the first place.&lt;/p&gt;
 
 &lt;hr /&gt;
+
 &lt;p&gt;Stop making the easy things hard for your customers.&lt;/p&gt;
 
 </description>
@@ -3674,7 +3668,8 @@ How did you do that?&lt;/p&gt;
 
 &lt;p&gt;Simple enough. But here’s how you can show someone how to do it using Quicktime and Wisita.&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;iframe src=”//fast.wistia.net/embed/iframe/ec700cc91q?videoFoam=true”” allowtransparency=”true” frameborder=”0” scrolling=”no” class=”wistia_embed” name=”wistia_embed” allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width=”640” height=”360”&amp;gt;&amp;lt;/iframe&amp;gt;&lt;script src=&quot;//fast.wistia.net/assets/external/iframe-api-v1.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;iframe src=&quot;//fast.wistia.net/embed/iframe/ec700cc91q?videoFoam=true&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; class=&quot;wistia_embed&quot; name=&quot;wistia_embed&quot; allowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot; width=&quot;640&quot; height=&quot;360&quot;&gt;&lt;/iframe&gt;
+&lt;script src=&quot;//fast.wistia.net/assets/external/iframe-api-v1.js&quot;&gt;&lt;/script&gt;
 
 &lt;hr /&gt;
 
@@ -3764,7 +3759,7 @@ How did you do that?&lt;/p&gt;
 
 &lt;p&gt;Lots of software companies fail to explain what they &lt;em&gt;actually&lt;/em&gt; do. In this example, just take a look at homepage of each company.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://img.svbtle.com/coxvusqpxcvxq.jpg&quot;&gt;&lt;img src=&quot;https://d23f6h5jpj26xu.cloudfront.net/coxvusqpxcvxq_small.jpg&quot; alt=&quot;mc-v-cc.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d23f6h5jpj26xu.cloudfront.net/coxvusqpxcvxq_small.jpg&quot; alt=&quot;mc-v-cc.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://mailchimp.com/&quot;&gt;MailChimp&lt;/a&gt; uses three words. &lt;em&gt;Send better email.&lt;/em&gt;&lt;/p&gt;
 
@@ -3812,7 +3807,11 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;People rarely tell you the truth. Big lies. Little lies. White lies. It happens all of the time.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;“Individuals are honest only to the extent that suits them, including their desire to please others.” - Dan Ariely, Predictably Irrational&lt;/p&gt;
+  &lt;p&gt;Individuals are honest only to the extent that suits them, including their desire to please others.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Dan Ariely, Predictably Irrational&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Think about all your daily interactions. It could be with a loved one, co-worker, client, customer, or the mailman. These conversations are built on assumptions and biases. In other words - lies.&lt;/p&gt;
@@ -3996,11 +3995,11 @@ How did you do that?&lt;/p&gt;
   &lt;p&gt;Steve Jobs&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;He’s Not Here could of changed. It was &lt;a href=&quot;http://www.indyweek.com/indyweek/storied-bar-hes-not-here-is-for-sale-a-remembrance/Content?oid=2743700&quot;&gt;for sale on Craigslist&lt;/a&gt; in 2012.&lt;/p&gt;
+&lt;p&gt;He’s Not Here could have changed. It was &lt;a href=&quot;http://www.indyweek.com/indyweek/storied-bar-hes-not-here-is-for-sale-a-remembrance/Content?oid=2743700&quot;&gt;for sale on Craigslist&lt;/a&gt; in 2012.&lt;/p&gt;
 
-&lt;p&gt;The bar could of added food. Undergone renovations to eliminate the smell. And started to deter the sketchy people who frequented it.&lt;/p&gt;
+&lt;p&gt;The bar could have added food. Undergone renovations to eliminate the smell. And started to deter the sketchy people who frequented it.&lt;/p&gt;
 
-&lt;p&gt;It could of got it’s liquor license. They even joked about it on &lt;a href=&quot;https://twitter.com/Hes_Not_Here/status/451160250201419776&quot;&gt;April Fools&lt;/a&gt; this year.&lt;/p&gt;
+&lt;p&gt;It could have got it’s liquor license. They even joked about it on &lt;a href=&quot;https://twitter.com/Hes_Not_Here/status/451160250201419776&quot;&gt;April Fools&lt;/a&gt; this year.&lt;/p&gt;
 
 &lt;p&gt;But it didn’t do any of these things. It’s never changed.&lt;/p&gt;
 
@@ -4171,11 +4170,11 @@ How did you do that?&lt;/p&gt;
       <item>
         <title>Characters of Competition</title>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;“Your competitor tomorrow may be completely different from your competitor today. It’s out of your control. What’s the point of worrying about things you can’t control?”&lt;/p&gt;
+  &lt;p&gt;Your competitor tomorrow may be completely different from your competitor today. It’s out of your control. What’s the point of worrying about things you can’t control?&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Jason Fried and David Hansson, &lt;a href=&quot;https://itun.es/us/4Lfgz.l&quot;&gt;Rework&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Jason Fried and David Heinemeier Hansson, &lt;a href=&quot;https://itun.es/us/4Lfgz.l&quot;&gt;Rework&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;hr /&gt;
@@ -4230,7 +4229,7 @@ How did you do that?&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;“Retention, the data said, was driven by emotional factors, such as whether the employees knew members’ names or said hello when they walked in.”&lt;/p&gt;
+  &lt;p&gt;Retention, the data said, was driven by emotional factors, such as whether the employees knew members’ names or said hello when they walked in.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
@@ -4250,7 +4249,7 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;Empathy is motivation. And as a listener, empathy is your &lt;a href=&quot;http://lewishowes.com/podcast/simon-sinek/&quot;&gt;greatest skill&lt;/a&gt;.  Because there are two ways to listen.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;“You can listen to what people say, sure. But you will be far more effective if you listen to what people do.”&lt;/p&gt;
+  &lt;p&gt;You can listen to what people say, sure. But you will be far more effective if you listen to what people do.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
@@ -4273,10 +4272,11 @@ How did you do that?&lt;/p&gt;
 &lt;hr /&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;“Statistics are used much like a drunk uses a lamppost - for support, not illumination.”&lt;/p&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Vin Scully&lt;/li&gt;
-  &lt;/ul&gt;
+  &lt;p&gt;Statistics are used much like a drunk uses a lamppost - for support, not illumination.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Vin Scully&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;There is no silver bullet metric.  One number never tells the whole story. Take a sports and business example.&lt;/p&gt;
@@ -4392,7 +4392,7 @@ How did you do that?&lt;/p&gt;
 
 &lt;h2 id=&quot;which-one-would-you-rather-read&quot;&gt;Which one would you rather read?&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://img.svbtle.com/b3jpcqmnvv46q.png&quot;&gt;&lt;img src=&quot;https://d23f6h5jpj26xu.cloudfront.net/b3jpcqmnvv46q_small.png&quot; alt=&quot;Cover_Letter_examples.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d23f6h5jpj26xu.cloudfront.net/b3jpcqmnvv46q_small.png&quot; alt=&quot;Cover_Letter_examples.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;First, yes that is Hulk Hogan on the right in an actual cover letter I submitted that got me a job. Second, how could you not choose the one on the right. It looks more interesting because it stands out.&lt;/p&gt;
 
@@ -4425,7 +4425,7 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;A text email converts better than html, but I believe in customizing the email. And it’s worked for me. Here’s 3 reasons why.&lt;/p&gt;
 
 &lt;h3 id=&quot;it-shows-your-skills&quot;&gt;1. It shows your skills&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;http://img.svbtle.com/ddssw4tb7wp4iw.png&quot;&gt;&lt;img src=&quot;https://d23f6h5jpj26xu.cloudfront.net/ddssw4tb7wp4iw_small.png&quot; alt=&quot;Cover Letter HTML Emails.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d23f6h5jpj26xu.cloudfront.net/ddssw4tb7wp4iw_small.png&quot; alt=&quot;Cover Letter HTML Emails.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I coded my email on my own and successfully used MailChimp to deliver it. This shows I know some level of HTML and CSS, plus I can competently use one of the most popular email marketing programs on the market. You don’t have to code your own, using a template in MailChimp or sending a brilliant text email is just as impressive.&lt;/p&gt;
 
@@ -4437,7 +4437,7 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;The last thing you want is for no one to read your cover letter. It’s a risk you take, but you can stop wondering if they opened it or not. This allows you to follow up in a smarter way than just blinding sending your resume again or mustering up the courage to call the employer.&lt;/p&gt;
 
 &lt;h3 id=&quot;answer-the-tough-questions-right-away&quot;&gt;3. Answer the tough questions right away&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;http://img.svbtle.com/iivaut1bsstfqw.png&quot;&gt;&lt;img src=&quot;https://d23f6h5jpj26xu.cloudfront.net/iivaut1bsstfqw_small.png&quot; alt=&quot;Cover Letter examples.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://d23f6h5jpj26xu.cloudfront.net/iivaut1bsstfqw_small.png&quot; alt=&quot;Cover Letter examples.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Chances are your resume will raise questions. It turns out when you lazily submit a cover letter, employers easily judge your resume and wonder if you’re right for the job. But if you take the time to answer the questions you know a company will ask in your cover letter, it saves time for all parties.&lt;/p&gt;
 
@@ -4499,8 +4499,6 @@ How did you do that?&lt;/p&gt;
 &lt;p&gt;Your body reacts the same when you’re nervous &lt;em&gt;and&lt;/em&gt; excited. It’s simple. If you’re nervous, tell yourself you are excited. And then use that excitement to perform.&lt;/p&gt;
 
 &lt;p&gt;Because Mom was right after all.&lt;/p&gt;
-
-&lt;hr /&gt;
 
 &lt;p&gt;Feeling nervous? It just means your alive.&lt;/p&gt;
 

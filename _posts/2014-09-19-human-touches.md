@@ -41,7 +41,7 @@ That makes me smile. Every single time. It never fails.
 
 The same is true for their mobile app. Here's the screen you see on your mobile device. 
 
-![hipmunk-mobile-mascot.jpg](https://draftin.com:443/images/21126?token=f_IFLKylXo6ndrwY-Fryjz8F2Vt0I4BU5N3ZAqGbdYJ58pRWwAAVlRbj2D_nektIi-qAVV8Q6i3CVTGm3wNXt20 =250x)) 
+![hipmunk-mobile-mascot.jpg](https://draftin.com:443/images/21126?token=f_IFLKylXo6ndrwY-Fryjz8F2Vt0I4BU5N3ZAqGbdYJ58pRWwAAVlRbj2D_nektIi-qAVV8Q6i3CVTGm3wNXt20) 
 
 The same mascot plus a proverb from Tzu. There's no boring progress bar that's like watching grass grow or paint dry. This mascot makes you feel human. 
 

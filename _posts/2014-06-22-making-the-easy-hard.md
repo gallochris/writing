@@ -20,7 +20,7 @@ Here's a [concrete example](http://youtu.be/bkjmzEEQUlE?t=1m43s).
 Now how it applies to customer service.
 
 * * * 
-##Cancel
+## Cancel
 
 Time Warner Cable. No one is fond of this company. And their is a laundry list of reasons. 
 
@@ -36,7 +36,7 @@ So you can bill online. You can shop online. Make an appointment online. But can
 
 After a 13 minute call with Time Warner Cable, you're re-routed several times before speaking to someone you can help. The account is finally canceled. But you're phone looks like a [baby was using the keypad](https://twitter.com/cjgallo/status/474672908208701442/photo/1). 
 
-[![timewarner.png](https://d23f6h5jpj26xu.cloudfront.net/tdsbjcvitlkteg_small.png)](http://img.svbtle.com/tdsbjcvitlkteg.png)
+![timewarner.png](https://d23f6h5jpj26xu.cloudfront.net/tdsbjcvitlkteg_small.png)
 
 Why not just let people cancel online? It's a simple process. One that might bring them back again. 
 
@@ -44,7 +44,7 @@ Of course, Time Warner Cable doesn't want customers to cancel. But maybe, if the
 
 * * * 
 
-##Unsubscribe
+## Unsubscribe
 
 It's not a favorable word for anyone who is involved in email marketing. But it happens. 
 
@@ -60,7 +60,7 @@ It's something so easy, yet companies make it so hard.
 
 What if companies sent an email that looks like this? 
 
-[![unsubscribe-gmail.png](https://d23f6h5jpj26xu.cloudfront.net/zjv363x13ayq_small.png)](http://img.svbtle.com/zjv363x13ayq.png)
+![unsubscribe-gmail.png](https://d23f6h5jpj26xu.cloudfront.net/zjv363x13ayq_small.png)
 
 Sure lots of people will unsubscribe. But the ones that didn't are probably you're most valuable customers. 
 
@@ -72,7 +72,7 @@ Or maybe they will never subscribe again.
 
 * * *  
 
-##Credit Card Required
+## Credit Card Required
  
 Free trials. It's common in software products. Like a drug dealer. You get a taste of the product for free. 
 
@@ -88,13 +88,14 @@ Hookfeed might be a phenomenal product (never used it). It delivers Stripe analy
 
 Requiring a credit card lost [them a sale](https://twitter.com/chrimack/status/474372874241716224). 
 
-[![hookfeed.png](https://d23f6h5jpj26xu.cloudfront.net/p9uulhldllkza_small.png)](http://img.svbtle.com/p9uulhldllkza.png)
+![hookfeed.png](https://d23f6h5jpj26xu.cloudfront.net/p9uulhldllkza_small.png)
 
 Of course, you want people to pay for your product. But maybe, if you require a credit card upfront, you will trick them into buying it. 
 
 Or maybe you will never earn their business in the first place.
 
 * * * 
+
 Stop making the easy things hard for your customers. 
 
 

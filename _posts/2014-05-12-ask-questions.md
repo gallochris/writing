@@ -14,7 +14,9 @@ The deal was in place, but then it vanished. You'll never believe the reason why
 
 People rarely tell you the truth. Big lies. Little lies. White lies. It happens all of the time. 
 
-> "Individuals are honest only to the extent that suits them, including their desire to please others." - Dan Ariely, Predictably Irrational 
+> Individuals are honest only to the extent that suits them, including their desire to please others. 
+
+> Dan Ariely, Predictably Irrational 
 
 Think about all your daily interactions. It could be with a loved one, co-worker, client, customer, or the mailman. These conversations are built on assumptions and biases. In other words - lies. 
 

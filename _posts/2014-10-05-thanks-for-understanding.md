@@ -9,7 +9,7 @@ redirect_from:
 
 Two stories to share. Compare and contrast. Both involve trips to a cafe. And how these places communicate with you.  
 
-##First Story: We're Not Open Yet 
+## First Story: We're Not Open Yet 
 
 It's 8:56 a.m. on a Saturday morning. Outside of South Block Cafe, a man is clearing tables and setting up chairs. 
 
@@ -29,7 +29,7 @@ We went to another coffee shop a block up the rode.
 
 * * *   
 
-##Second Story: Give me the Green Light 
+## Second Story: Give me the Green Light 
 
 About a week later, we grabbed some coffee and brunch with friends in Georgetown. We hit this spot called [Baked and Wired](http://bakedandwired.com/). You should check it out. 
 
@@ -39,7 +39,7 @@ They wrote out names on the coffee cup in their hands. And then instructed us wh
 
 But there is a message to set your expectation. 
 
-![baked-and-wired-understanding.jpg](https://draftin.com:443/images/21700?token=s6GLYwiNgWjydCnSv6RQrPTnO3r1inM6lw96cX76JApuwcAAmP1vFjBuk_gJQbBQfgWRxoWgljMmhH2MTcvqvYA =250x) 
+![baked-and-wired-understanding.jpg](https://draftin.com:443/images/21700?token=s6GLYwiNgWjydCnSv6RQrPTnO3r1inM6lw96cX76JApuwcAAmP1vFjBuk_gJQbBQfgWRxoWgljMmhH2MTcvqvYA) 
 
 These simple sentences let you know to hang tight. It's a clear message. And it reads to you as if a human is on the other end writing it. Because they are. 
 

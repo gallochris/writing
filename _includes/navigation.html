@@ -1,13 +1,6 @@
-<header class="content navigation" id="top" role="banner">
-  <a href="https://blog.hotdogsandeggs.com/" class="logo"><img src="/images/logo.png" alt="Hot dogs and eggs" /></a>
+<div>
+  <header>
+  <span>You’re reading <a href="https://blog.hotdogsandeggs.com/" >Hot dogs and eggs</a>, a blog by <a href="https://hotdogsandeggs.com/" >Chris Gallo</a> since 2014. Happy {{ site.time | date: '%A' }}!</span>
+    </div>
+  </header>
 
-  <nav class="navigation-links" role="navigation">
-    {% for link in site.navigation %}
-        {% assign current = nil %}
-        {% if page.url contains link.url %}
-            {% assign current = 'class="active"' %}
-        {% endif %}
-            <a href="{{ link.url }}" {{ current }}{% if forloop.last %}{% endif %}>{{ link.title }}</a>
-    {% endfor %}
-</nav>
-</header>
