@@ -68,4 +68,11 @@ blockquote {
   color: #999;
  }
 
+.foot {  
+ font-size: 12px; 
+}
+
+.nope { 
+  color: #acacac;
+ }
 
