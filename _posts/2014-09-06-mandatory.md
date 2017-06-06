@@ -26,7 +26,7 @@ How could a player who struck out 36 percent of the time make it major leagues?
 * * * 
 > Everyone knows as soon as you make something mandatory, it becomes the opposite of what you want to do for a living.
 
-> [Jessica Hische, Learn the Tools](https://people.hotdogsandeggs.com/jessica-hische/)
+> [Jessica Hische, Learn the Tools](https://people.hotdogsandeggs.com/jessica-hische)
 
 People do not like to be told what to do. 
 
@@ -40,13 +40,13 @@ Six months ago, I found myself watching a long interview with [Jason Fried](http
 
 So much that I found myself playing a few parts back. One specific part where Jason discusses the advice they received from Jeff Bezos. 
 
-A few minutes later, I started [transcribing](http://people.hotdogsandeggs.com/jason-fried/) what he was saying. This was a task I used to hate. But here I was transcribing an interview in my free time just because I could. 
+A few minutes later, I started [transcribing](http://people.hotdogsandeggs.com/jason-fried) what he was saying. This was a task I used to hate. But here I was transcribing an interview in my free time just because I could. 
 
-It was no longer mandatory. I found myself wanting to transcribe other talks like this [1997 Q&A with Steve Jobs](http://people.hotdogsandeggs.com/steve-jobs/). 
+It was no longer mandatory. I found myself wanting to transcribe other talks like this [1997 Q&A with Steve Jobs](http://people.hotdogsandeggs.com/steve-jobs). 
 
 Today, I transcribe about an interview a week. It started as me [hosting them](http://talks.withdraft.com) with my favorite web app [Draft](http://draftin.com). And now it's morphed into a side project on my personal site.  
 
-I've done 23 total and you can check out the full list at [people.hotdogsandeggs.com/list](https://people.hotdogsandeggs.com/). 
+I've done 23 total and you can check out the full list at [people.hotdogsandeggs.com/list](https://people.hotdogsandeggs.com). 
 
 ![abranch.jpg](https://draftin.com:443/images/20578?token=hFF1OUGZkqB7VniwEUC9YlyjK7KTuMdZRYQh66gRRbDGJ3MnzO1xnjXuaqieMjqNvVuZ7aQs09ZXZq5UbAFL24E) 
 

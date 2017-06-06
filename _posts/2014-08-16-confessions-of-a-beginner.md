@@ -18,7 +18,7 @@ I'm a beginner. And this is what I learned writing the code on my own.
 
 > HTML is just going around with a label maker and throwing labels on everything.
 
-> [Jessica Hische, Learn the Tools](https://people.hotdogsandeggs.com/jessica-hische/) 
+> [Jessica Hische, Learn the Tools](https://people.hotdogsandeggs.com/jessica-hische) 
 
 Jessica Hische is a designer. And she preaches how you must learn the tools to make the things you want to make. HTML is not scary or intimidating. You just throw a label on things. 
 
@@ -44,7 +44,7 @@ Thanks to Jim, I ripped off his typography on [Cloudal Partners](http://coudal.c
 
 ![cloudal-typography.png](https://draftin.com:443/images/19286?token=uh3D26Qw5h5bUTgiSRSecnsyPPSu4dBYvLiuwUrEKYuLSk7qTt8CFK5kv0q06V-rF9G_v42ydf1FJdOzgy6uBus) 
 
-The letter spacing is really what makes this typography so beautiful. It's easy to read and catches your eye. I've used it on the homepage, [my blog](http://blog.hotdogsandeggs.com/), and [another project](http://people.hotdogsandeggs.com/).
+The letter spacing is really what makes this typography so beautiful. It's easy to read and catches your eye. I've used it on the homepage, [my blog](http://blog.hotdogsandeggs.com/), and [another project](http://people.hotdogsandeggs.com).
 
 Another design I sought to rip off was from Frank Chimero. He uses a grid layout of to showcase his talks. The full-width squares or boxes was something that I really wanted to learn how to make. 
 

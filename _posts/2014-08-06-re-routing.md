@@ -36,7 +36,7 @@ Efficiency wins. That's what we were taught. Henry Ford once said, "efficient in
 
 > I would say companies that are just transactional, that are at this point just relying on things like efficiency, are probably going to be missing something in the future.
 
-> [Valerie Coulton](http://people.hotdogsandeggs.com/2014/07/30/valerie-coulton/) 
+> [Valerie Coulton](http://people.hotdogsandeggs.com/valerie-coulton) 
 
 Valerie Coulton is right. Coulton and Alistair Croll [explore the idea](http://tiltthewindmill.com/innovation-culture-and-design-valerie-coulton/) of servant leadership and how companies must disrupt themselves. Because efficiency is not the only thing that matters anymore. 
 

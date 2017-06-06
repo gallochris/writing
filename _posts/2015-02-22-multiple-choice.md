@@ -68,7 +68,7 @@ You ask questions. Lots of questions. But is it possible to ask too many questio
 
 Think of the last time you became anxious. What created that feeling for you? 
 
-Bob Moesta explores the feeling of anxiety in his [jobs-to-be-done](http://shapeandsound.com/a-beginners-guide-to-the-jobs-to-be-done-framework/) framework. He examines why people choose to buy a certain product or service, and details this through a tool titled the Forces of Progress.
+Bob Moesta explores the feeling of anxiety in his [jobs-to-be-done](http://www.shapeandsound.com/blog/2016/2/18/a-beginners-guide-to-the-jobs-to-be-done-framework) framework. He examines why people choose to buy a certain product or service, and details this through a tool titled the Forces of Progress.
 
 [Justin Jackson](http://justinjackson.ca/) created a [handy diagram](http://justinjackson.ca/wp-content/uploads/2014/10/jtbd-forces-diagram-1024x793.png) to illustrate the Forces of Progress. The gist is that making a decision is stressful. Because what if you make the wrong choice? 
 
@@ -76,7 +76,7 @@ In a conversation on the [Critical Path](http://5by5.tv/criticalpath/19) podcast
 
 Moesta is part of a home building company that sets to understand their customers. He describes all that goes into a decision of choosing a moving company. And how he and his home building company helped these people make choices by eliminating anxiety. 
 
-Here's an excerpt of [the conversation](https://people.hotdogsandeggs.com/bob-moesta/): 
+Here's an excerpt of [the conversation](https://people.hotdogsandeggs.com/bob-moesta): 
 
 > Because all of a sudden it's like will they be gentle? Are they insured? If they break something, what will happen?
 
@@ -86,7 +86,7 @@ Here's an excerpt of [the conversation](https://people.hotdogsandeggs.com/bob-mo
 
 > Over-choice actually creates more anxiety and non-consumption.
 
-> Bob Moesta, [Jobs-to-be-done](https://people.hotdogsandeggs.com/bob-moesta/)
+> Bob Moesta, [Jobs-to-be-done](https://people.hotdogsandeggs.com/bob-moesta)
 
 * * * 
 

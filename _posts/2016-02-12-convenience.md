@@ -27,7 +27,7 @@ IKEA has been around for over half a century. There are over 300 stores in almos
 
 Why are they so successful? 
 
-Clayton Christensen, author and Harvard Business professor, argues IKEA [focuses on the job](http://www.christenseninstitute.org/satisfying-the-patients-jobs-to-be-done/) of the customer. The job is to furnish your place tomorrow because the next day you have to show up at work. 
+Clayton Christensen, author and Harvard Business professor, argues IKEA [focuses on the job](https://www.christenseninstitute.org/blog/satisfying-the-patients-jobs-to-be-done/) of the customer. The job is to furnish your place tomorrow because the next day you have to show up at work. 
 
 That's certainly one reasons why they're successful. We bought a kitchen table, coffee table, and two chairs. It was put together in less than a day. With lots of curse words. 
 

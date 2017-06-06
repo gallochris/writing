@@ -43,7 +43,7 @@ Our generation believes in it. We are used to sharing everything. And we want th
 
 If there is a lack of information, we assume you're hiding something from us. We tell people what we think - good or bad. 
 
-It's starting to be adopted in business too. Buffer is a young company that is an open-book. Buffer shares [financials](https://buffer.baremetrics.io/dashboard), employee's [salaries](http://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/), and even their [sleep cycles](http://b.fastcompany.net/multisite_files/fastcompany/inline/2013/05/3009585-inline-inline-1-7-slightly-crazy-ways-to-build-a-happy-productive-and-transparent-company.jpg). 
+It's starting to be adopted in business too. Buffer is a young company that is an open-book. Buffer shares financials, employee's [salaries](http://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/), and even their [sleep cycles](http://b.fastcompany.net/multisite_files/fastcompany/inline/2013/05/3009585-inline-inline-1-7-slightly-crazy-ways-to-build-a-happy-productive-and-transparent-company.jpg). 
 
 Why? 
 
@@ -79,7 +79,7 @@ Sure, Buffer lost customers. But several people stuck with them because they tru
 
 People share their money with other people they trust. 
 
-Jason Fried and Jeffrey Zeldman explore this topic on [The Big Web Show Podcast](http://www.muleradio.net/thebigwebshow/106/). Jason shares a story about shopping for a car. He had a choice of where to buy the car. 
+Jason Fried and Jeffrey Zeldman explore this topic on [The Big Web Show Podcast](http://www.zeldman.com/2010/07/01/37signals-jason-fried-live-today-on-the-big-web-show/). Jason shares a story about shopping for a car. He had a choice of where to buy the car. 
 
 He could pick a local dealer that could give him the car instantly. But that dealer's salesman rubbed him the wrong way. He didn't treat him well. 
 
