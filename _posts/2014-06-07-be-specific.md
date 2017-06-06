@@ -31,7 +31,7 @@ Your day is filled with people trying to get you to do something. Whether it's y
 
 People demand action. Yet people fail to be specific. 
 
-You say please let us know if you have any questions. Instead of [asking a specific question](http://blog.hotdogsandeggs.com/2014/05/12/ask-questions/). 
+You say please let us know if you have any questions. Instead of [asking a specific question](https://blog.hotdogsandeggs.com/best-answer-question/). 
 
 Buy our product. Why? It's better. Really? Why is it better? Specifically, what makes it better? 
 

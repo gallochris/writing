@@ -43,7 +43,7 @@ Steve Wozniak and Steve Jobs built the first Apple computer. They could of went 
 
 Why? 
 
-Jobs explains why in his [1997 Apple Worldwide Developers Conference](http://people.hotdogsandeggs.com/2014/01/21/steve-jobs/). 
+Jobs explains why in his [1997 Apple Worldwide Developers Conference](https://people.hotdogsandeggs.com/steve-jobs/). 
 
 > Every good product I've seen in this industry is because a group of people cared deeply about making something wonderful that they and their friends wanted. You know? They wanted to use it themselves. That's how the Apple I came about, the Apple II, the Macintosh - that's how everything I know that's good has come about.
 

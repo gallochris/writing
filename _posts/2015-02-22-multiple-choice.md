@@ -76,7 +76,7 @@ In a conversation on the [Critical Path](http://5by5.tv/criticalpath/19) podcast
 
 Moesta is part of a home building company that sets to understand their customers. He describes all that goes into a decision of choosing a moving company. And how he and his home building company helped these people make choices by eliminating anxiety. 
 
-Here's an excerpt of [the conversation](http://people.hotdogsandeggs.com/2014/09/16/bob-moesta/): 
+Here's an excerpt of [the conversation](https://people.hotdogsandeggs.com/bob-moesta/): 
 
 > Because all of a sudden it's like will they be gentle? Are they insured? If they break something, what will happen?
 
@@ -86,7 +86,7 @@ Here's an excerpt of [the conversation](http://people.hotdogsandeggs.com/2014/09
 
 > Over-choice actually creates more anxiety and non-consumption.
 
-> Bob Moesta, [Jobs-to-be-done](http://people.hotdogsandeggs.com/2014/09/16/bob-moesta/)
+> Bob Moesta, [Jobs-to-be-done](https://people.hotdogsandeggs.com/bob-moesta/)
 
 * * * 
 

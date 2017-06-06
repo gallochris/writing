@@ -91,7 +91,7 @@ Jason explains how someone told him something that completely changed his perspe
 
 > Every dollar is a vote. And when you spend your dollars, you're voting for the things that you want to see more of. 
 
-> Jason Fried, [Two Jews Talking About Business](Two Jews Talking About Business) 
+> Jason Fried
 
 Jason waited 30 days and bought the car from the dealer in Chattanooga. Because he wants more people like that salesman in the world. He voted for him. 
 
