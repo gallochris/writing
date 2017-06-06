@@ -77,7 +77,7 @@ A friend replied, "Oh, that's to keep the ground sticky for the pit crew. Can't 
 
 Pit crews look for any advantage they can get. 11 seconds is not a long time. 
 
-They're resourceful. If they [need more traction](http://www.thenascarinsiders.com/2010/03/03/pit-stalls-a-sticky-situation/), they'll figure out a way. 
+They're resourceful. If they [need more traction](http://blackflag.jalopnik.com/nascars-pit-stalls-have-been-extra-slippery-tonight-1789196678), they'll figure out a way. 
 
 But I thought people only drink Coca-Cola? 
 
