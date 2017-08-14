@@ -34,7 +34,10 @@ header {
 footer { 
 text-align: center; 
 line-height: 2;
+} 
 
+footer a { 
+text-align: center; 
 } 
 
  .date {
@@ -65,7 +68,7 @@ img {
 
 blockquote { 
   font-style: italic;
-  color: #999;
+  font-weight: bolder;
  }
 
 .foot {  
@@ -74,5 +77,19 @@ blockquote {
 
 .nope { 
   color: #acacac;
+ }
+
+.please { 
+  text-align: center;
+ }
+
+.ohyella {
+  background-color: #faf785; 
+  padding: 0.25em; 
+  border-radius: 1em 0 1em 0;
+}
+
+.readtime { 
+ color:#d38956;
  }
 
