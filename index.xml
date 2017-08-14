@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | Chris Gallo on Chris Gallo | Blog</title>
-    <link>https://blog.hotdogsandeggs.com/</link>
+    <link>http://blog.hotdogsandeggs.com/</link>
     <description>Recent content in Blog | Chris Gallo on Chris Gallo | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.hotdogsandeggs.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.hotdogsandeggs.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bargain for Bugs</title>
-      <link>https://blog.hotdogsandeggs.com/bargain-for-bugs/</link>
+      <link>http://blog.hotdogsandeggs.com/bargain-for-bugs/</link>
       <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/bargain-for-bugs/</guid>
+      <guid>http://blog.hotdogsandeggs.com/bargain-for-bugs/</guid>
       <description>Comic from xkcd.com
 I found a bug &amp;hellip;
 When you receive an email from a customer that starts like this, what is your first reaction?
@@ -29,10 +29,10 @@ Because if you expected X, and got *Y *— that’s not a bug.</description>
     
     <item>
       <title>Do the opposite</title>
-      <link>https://blog.hotdogsandeggs.com/do-the-opposite/</link>
+      <link>http://blog.hotdogsandeggs.com/do-the-opposite/</link>
       <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/do-the-opposite/</guid>
+      <guid>http://blog.hotdogsandeggs.com/do-the-opposite/</guid>
       <description>When you ask people, ‘What’s the opposite of fragile?,’ they tend to say robust, resilient, adaptable, solid, strong. That’s not it. The opposite of fragile is something that gains from disorder. — Nassim Nicholas Taleb, Antifragile
  So much of our lives is follow the leader. We do the same things because other people do it. Copycat society. Same? Same.
 But I&amp;rsquo;ve found one of the most useful things you can do is the exact opposite sometimes.</description>
@@ -40,10 +40,10 @@ But I&amp;rsquo;ve found one of the most useful things you can do is the exact o
     
     <item>
       <title>Jousting with Jekyll</title>
-      <link>https://blog.hotdogsandeggs.com/jousting-with-jekyll/</link>
+      <link>http://blog.hotdogsandeggs.com/jousting-with-jekyll/</link>
       <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/jousting-with-jekyll/</guid>
+      <guid>http://blog.hotdogsandeggs.com/jousting-with-jekyll/</guid>
       <description>One responsibility of the support team here at Highrise is to maintain our Extras page.
 What’s the Extras page?
 It’s a list of all the 3rd party products that integrate with Highrise. Almost all were built by the 3rd party using the Highrise API.
@@ -52,10 +52,10 @@ This page is important for current and future customers because people use more 
     
     <item>
       <title>Data is man-made</title>
-      <link>https://blog.hotdogsandeggs.com/data-is-man-made/</link>
+      <link>http://blog.hotdogsandeggs.com/data-is-man-made/</link>
       <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/data-is-man-made/</guid>
+      <guid>http://blog.hotdogsandeggs.com/data-is-man-made/</guid>
       <description>Here&amp;rsquo;s a secret from the support team at Highrise. Customer support metrics make us feel icky.
 Our team doesn&amp;rsquo;t know our satisfaction score. We&amp;rsquo;ve never asked any of the people that use Highrise to try those types of surveys.
 We can&amp;rsquo;t give you an exact number for our average response time. It depends. Sometimes it&amp;rsquo;s 90 seconds, and other times it&amp;rsquo;s within 24 hours.
@@ -64,10 +64,10 @@ We can&amp;rsquo;t tell you our average handle time for an issue.</description>
     
     <item>
       <title>A Customer Can be You</title>
-      <link>https://blog.hotdogsandeggs.com/customer-can-be-you/</link>
+      <link>http://blog.hotdogsandeggs.com/customer-can-be-you/</link>
       <pubDate>Tue, 29 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/customer-can-be-you/</guid>
+      <guid>http://blog.hotdogsandeggs.com/customer-can-be-you/</guid>
       <description>Roger Vergé was a world-renowned chef. He won the Michelin star for his restaurant, Moulin de Mougins, three times and countless other awards.
 Shep Gordon, Vergé&amp;rsquo;s manager, described him as the first person he ever met that had true success. He was a master as his craft, and truly happy.
 Gordon shares a story with The Chiseler about going out to eat with Vergé. The long-time manager estimates that he ate roughly 1,000 meals with him.</description>
@@ -75,10 +75,10 @@ Gordon shares a story with The Chiseler about going out to eat with Vergé. The 
     
     <item>
       <title>The Curse of Knowledge</title>
-      <link>https://blog.hotdogsandeggs.com/the-curse-of-knowledge/</link>
+      <link>http://blog.hotdogsandeggs.com/the-curse-of-knowledge/</link>
       <pubDate>Mon, 12 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/the-curse-of-knowledge/</guid>
+      <guid>http://blog.hotdogsandeggs.com/the-curse-of-knowledge/</guid>
       <description>&amp;ldquo;Uh, it&amp;rsquo;s off Airport road. You should be able to get there from Umstead. I think or, or maybe go up to Estes?&amp;rdquo;
 I paused again. I was confusing the person asking me for directions more than I was confusing myself.
 What was a matter with me?
@@ -88,10 +88,10 @@ And when a stranger asked me for directions, I couldn&amp;rsquo;t tell them.</de
     
     <item>
       <title>Care Less</title>
-      <link>https://blog.hotdogsandeggs.com/care-less/</link>
+      <link>http://blog.hotdogsandeggs.com/care-less/</link>
       <pubDate>Sun, 31 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/care-less/</guid>
+      <guid>http://blog.hotdogsandeggs.com/care-less/</guid>
       <description>Relationships are weird.
 We have names to describe all sorts of the relationships we have with other humans.
 Friends. Acquaintances. A husband or wife. Brothers and sisters. Father. Son. Mother. Aunts and uncles. A cousin.
@@ -104,10 +104,10 @@ In all of these relationships, who is in control?</description>
     
     <item>
       <title>Useful or Entertaining</title>
-      <link>https://blog.hotdogsandeggs.com/useful-or-entertaining/</link>
+      <link>http://blog.hotdogsandeggs.com/useful-or-entertaining/</link>
       <pubDate>Thu, 02 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/useful-or-entertaining/</guid>
+      <guid>http://blog.hotdogsandeggs.com/useful-or-entertaining/</guid>
       <description>When you come up with a new idea, how do you know if it&amp;rsquo;s any good?
 Good means different things to different people. A good idea to one person might be a terrible idea to someone else.
 Instead of asking others if your idea is good or not, try asking yourself another question first.
@@ -116,10 +116,10 @@ The Internet is a curious and strange place. The last few months, I&amp;rsquo;ve
     
     <item>
       <title>If we had a Roadmap</title>
-      <link>https://blog.hotdogsandeggs.com/if-we-had-a-roadmap/</link>
+      <link>http://blog.hotdogsandeggs.com/if-we-had-a-roadmap/</link>
       <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/if-we-had-a-roadmap/</guid>
+      <guid>http://blog.hotdogsandeggs.com/if-we-had-a-roadmap/</guid>
       <description>Some examples of emails we get about our product roadmap at Highrise:
 Hope something like this is on the product roadmap.
 Is such development planned in your roadmap soon?
@@ -131,10 +131,10 @@ Our team doesn&amp;rsquo;t have a list of features with exact dates for release.
     
     <item>
       <title>Be the Plumber</title>
-      <link>https://blog.hotdogsandeggs.com/be-the-plumber/</link>
+      <link>http://blog.hotdogsandeggs.com/be-the-plumber/</link>
       <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/be-the-plumber/</guid>
+      <guid>http://blog.hotdogsandeggs.com/be-the-plumber/</guid>
       <description>A 30-something immigrant with no fancy education or consumer product experience started a company in 2003. The product was first sales came out of the trunks of cars.
 9 years later, the company&amp;rsquo;s products were being snagged by people checking out at Walmart and sales exceeded $1 billion.
 How the hell did that happen?
@@ -143,10 +143,10 @@ One of the hardest parts about supporting customers is seeing things from their 
     
     <item>
       <title>Convenience</title>
-      <link>https://blog.hotdogsandeggs.com/convenience/</link>
+      <link>http://blog.hotdogsandeggs.com/convenience/</link>
       <pubDate>Fri, 12 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/convenience/</guid>
+      <guid>http://blog.hotdogsandeggs.com/convenience/</guid>
       <description>&amp;ldquo;I can&amp;rsquo;t do this, no idea what this even means,&amp;rdquo; I confessed.
 &amp;ldquo;Just read the instructions!&amp;rdquo; she said.
 I was staring at the sheet of paper with 24 small wooden pegs in hand.
@@ -156,10 +156,10 @@ It was already a long day. We drove hours to our new condo, and we&amp;rsquo;re 
     
     <item>
       <title>How They Use It</title>
-      <link>https://blog.hotdogsandeggs.com/how-they-use-it/</link>
+      <link>http://blog.hotdogsandeggs.com/how-they-use-it/</link>
       <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/how-they-use-it/</guid>
+      <guid>http://blog.hotdogsandeggs.com/how-they-use-it/</guid>
       <description>How do people use Coca-Cola?
 I realize that this might be a wide-eyed question.
 They drink it, right?
@@ -173,10 +173,10 @@ Marketing is exhausting right now. The people who describe what a product does r
     
     <item>
       <title>Workarounds</title>
-      <link>https://blog.hotdogsandeggs.com/workarounds/</link>
+      <link>http://blog.hotdogsandeggs.com/workarounds/</link>
       <pubDate>Thu, 12 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/workarounds/</guid>
+      <guid>http://blog.hotdogsandeggs.com/workarounds/</guid>
       <description>You can&amp;rsquo;t do that.
 Why would you do that? That&amp;rsquo;s stupid.
 These were the thoughts running through my head as I was reading an email from a customer.
@@ -188,10 +188,10 @@ Imagine how it feels to be told you can&amp;rsquo;t do this or you can&amp;rsquo
     
     <item>
       <title>The Opposite of Blame</title>
-      <link>https://blog.hotdogsandeggs.com/blame/</link>
+      <link>http://blog.hotdogsandeggs.com/blame/</link>
       <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/blame/</guid>
+      <guid>http://blog.hotdogsandeggs.com/blame/</guid>
       <description>Yesterday I requested an Uber and got much more than a ride home. I learned something.
 Andy, my driver, was polite. We talked about his morning. How it was going. Small talk. The weather.
 I asked, &amp;ldquo;How do you like working for Uber?&amp;rdquo;
@@ -202,10 +202,10 @@ He dropped someone off, and they left trash directly behind his seat.</descripti
     
     <item>
       <title>Advice from the Future</title>
-      <link>https://blog.hotdogsandeggs.com/advice-from-the-future/</link>
+      <link>http://blog.hotdogsandeggs.com/advice-from-the-future/</link>
       <pubDate>Wed, 12 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/advice-from-the-future/</guid>
+      <guid>http://blog.hotdogsandeggs.com/advice-from-the-future/</guid>
       <description>Over the last six months, I slogged through one of the largest projects of my career. Our team built the new Highrise help site, a glorified, 105 article, user manual for our product. We redesigned everything. Rewrote every article. Reorganized every topic and question. Below is the advice I wish I had before we got started.
 Dear Chris,
 I&amp;rsquo;m writing this advice from the future. Several support emails and text snippets from where you&amp;rsquo;re standing now.</description>
@@ -213,10 +213,10 @@ I&amp;rsquo;m writing this advice from the future. Several support emails and te
     
     <item>
       <title>A Routine Puts You in Control</title>
-      <link>https://blog.hotdogsandeggs.com/routine/</link>
+      <link>http://blog.hotdogsandeggs.com/routine/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/routine/</guid>
+      <guid>http://blog.hotdogsandeggs.com/routine/</guid>
       <description>You work from home? How great is that?
 Do you watch TV all day and wear pajamas?
 Not exactly. The part about the pajamas might be true sometimes. But it is the opposite of what a lot of people think.
@@ -226,10 +226,10 @@ Sometimes a lot more.</description>
     
     <item>
       <title>Just Tell Them </title>
-      <link>https://blog.hotdogsandeggs.com/just-tell-them/</link>
+      <link>http://blog.hotdogsandeggs.com/just-tell-them/</link>
       <pubDate>Thu, 04 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/just-tell-them/</guid>
+      <guid>http://blog.hotdogsandeggs.com/just-tell-them/</guid>
       <description>Your product isn&amp;rsquo;t perfect. It has rough edges. Parts that take some time to understand. And things that aren&amp;rsquo;t easy on the first or second try.
 You know where your customers might struggle. The tasks that take more time than they should. The point where frustration sets in.
 You put together resources to help customers get acclimated to your product. Videos. Help articles. Text snippets.
@@ -238,10 +238,10 @@ But do you tell your customers where they&amp;rsquo;re going to struggle?</descr
     
     <item>
       <title>Multiple Choice</title>
-      <link>https://blog.hotdogsandeggs.com/multiple-choice/</link>
+      <link>http://blog.hotdogsandeggs.com/multiple-choice/</link>
       <pubDate>Sun, 22 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/multiple-choice/</guid>
+      <guid>http://blog.hotdogsandeggs.com/multiple-choice/</guid>
       <description>Which part of this sentence is grammatically incorrect?
 A? B? C? D? Or E &amp;ndash; no error at all?
 Imagine 50 identical questions like that. Each question with five choices. That&amp;rsquo;s 250 potential answers.
@@ -253,10 +253,10 @@ Now add another 50 questions just like that. Another 250 potential answers.
     
     <item>
       <title>Procrastination</title>
-      <link>https://blog.hotdogsandeggs.com/procrastination/</link>
+      <link>http://blog.hotdogsandeggs.com/procrastination/</link>
       <pubDate>Sat, 31 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/procrastination/</guid>
+      <guid>http://blog.hotdogsandeggs.com/procrastination/</guid>
       <description>We all procrastinate.
 Whether it&amp;rsquo;s watching another episode of Veronica Mars instead of cleaning the kitchen, or scrolling through Twitter instead of responding to that email, or grabbing lunch with a friend instead of working out.
 Procrastination is something we all do.
@@ -265,10 +265,10 @@ Dan Ariely, a professor of psychology and behavioral economics, describes procra
     
     <item>
       <title>Support Your Product Like a Customer</title>
-      <link>https://blog.hotdogsandeggs.com/support-like-a-customer/</link>
+      <link>http://blog.hotdogsandeggs.com/support-like-a-customer/</link>
       <pubDate>Tue, 11 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/support-like-a-customer/</guid>
+      <guid>http://blog.hotdogsandeggs.com/support-like-a-customer/</guid>
       <description>The housekeeper asks for confirmation, &amp;ldquo;you promise you won&amp;rsquo;t tell my boss?
 &amp;ldquo;I will not tell your boss,&amp;rdquo; the occupational psychologist nods in agreement.
 Jonathan Korman shares a story about policy violations. Korman details the dialogue between an occupational psychologist and a hotel housekeeper.
@@ -278,10 +278,10 @@ The housekeeper admits, &amp;ldquo;the last thing I do is lie on the bed.</descr
     
     <item>
       <title>Thanks for Understanding</title>
-      <link>https://blog.hotdogsandeggs.com/thanks-for-understanding/</link>
+      <link>http://blog.hotdogsandeggs.com/thanks-for-understanding/</link>
       <pubDate>Sun, 05 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/thanks-for-understanding/</guid>
+      <guid>http://blog.hotdogsandeggs.com/thanks-for-understanding/</guid>
       <description>Two stories to share. Compare and contrast. Both involve trips to a cafe. And how these places communicate with you.
 First Story: We&amp;rsquo;re Not Open Yet It&amp;rsquo;s 8:56 a.m. on a Saturday morning. Outside of South Block Cafe, a man is clearing tables and setting up chairs.
 The door to the cafe is propped open. There&amp;rsquo;s no sign on the door. No &amp;ldquo;open&amp;rdquo; or &amp;ldquo;closed&amp;rdquo; cues for people passing by.</description>
@@ -289,10 +289,10 @@ The door to the cafe is propped open. There&amp;rsquo;s no sign on the door. No 
     
     <item>
       <title>Other People&#39;s Shoes</title>
-      <link>https://blog.hotdogsandeggs.com/other-people-shoes/</link>
+      <link>http://blog.hotdogsandeggs.com/other-people-shoes/</link>
       <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/other-people-shoes/</guid>
+      <guid>http://blog.hotdogsandeggs.com/other-people-shoes/</guid>
       <description>Straight to voice mail&amp;hellip;
 10 minutes have passed. &amp;ldquo;Should I call again?&amp;rdquo;
 Karl is a busy man. He&amp;rsquo;s an entrepreneur. Karl founded his company two years ago and it&amp;rsquo;s finally turning a profit. He&amp;rsquo;s responsible for more than 20 employees and hundreds of customers.
@@ -302,10 +302,10 @@ Karl is late for our scheduled phone call.</description>
     
     <item>
       <title>Small Human Touches</title>
-      <link>https://blog.hotdogsandeggs.com/small-human-touches/</link>
+      <link>http://blog.hotdogsandeggs.com/small-human-touches/</link>
       <pubDate>Fri, 19 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/small-human-touches/</guid>
+      <guid>http://blog.hotdogsandeggs.com/small-human-touches/</guid>
       <description>Does anyone like waiting in line?
 There is someone in front you and someone behind you. You&amp;rsquo;re stuck.
 I remember standing in line at Time Warner Cable one Saturday morning to return equipment. I was there for an hour and a half with other brave souls.
@@ -315,10 +315,10 @@ A lot of us often forget to be human today.</description>
     
     <item>
       <title>No Longer Mandatory</title>
-      <link>https://blog.hotdogsandeggs.com/mandatory/</link>
+      <link>http://blog.hotdogsandeggs.com/mandatory/</link>
       <pubDate>Sat, 06 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/mandatory/</guid>
+      <guid>http://blog.hotdogsandeggs.com/mandatory/</guid>
       <description>Home run.
 It was his professional at-bat. And he catapulted the ball over the fence.
 His name was Tim Wakefield. A lanky first baseman for the Single A Watertown Pirates.
@@ -328,10 +328,10 @@ He threw it so much, the manager, Stan Clinburn had to urge him to stop and thro
     
     <item>
       <title>A Few Words About Transparency</title>
-      <link>https://blog.hotdogsandeggs.com/transparency/</link>
+      <link>http://blog.hotdogsandeggs.com/transparency/</link>
       <pubDate>Sun, 31 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/transparency/</guid>
+      <guid>http://blog.hotdogsandeggs.com/transparency/</guid>
       <description>&amp;ldquo;This isn&amp;rsquo;t even the rental application,&amp;rdquo; she confessed.
 I contended, &amp;ldquo;40 minutes late, and didn&amp;rsquo;t even give us the right information. Wow.&amp;rdquo;
 &amp;ldquo;The place is perfect, though. It&amp;rsquo;s exactly what we both want.&amp;rdquo;
@@ -342,10 +342,10 @@ An hour earlier, we saw a basement apartment.</description>
     
     <item>
       <title>What is Time? </title>
-      <link>https://blog.hotdogsandeggs.com/what-is-time/</link>
+      <link>http://blog.hotdogsandeggs.com/what-is-time/</link>
       <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/what-is-time/</guid>
+      <guid>http://blog.hotdogsandeggs.com/what-is-time/</guid>
       <description>What is time?
 Time is money. There are timelines and timetables.
 Overtime. Uptime. Downtime.
@@ -360,10 +360,10 @@ Draft Nathan Kontny has a simple theory about how to get business ideas.
     
     <item>
       <title>Confessions of a Beginner</title>
-      <link>https://blog.hotdogsandeggs.com/beginner-confessions/</link>
+      <link>http://blog.hotdogsandeggs.com/beginner-confessions/</link>
       <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/beginner-confessions/</guid>
+      <guid>http://blog.hotdogsandeggs.com/beginner-confessions/</guid>
       <description>This week I put a new coat of paint on my personal website - hotdogsandeggs.com.
 I wrote the code from scratch for the first time. It&amp;rsquo;s effective not elegant. I&amp;rsquo;m sure there are things I could simplify or improve. If you recognize something that could be better, please let me know @cjgallo.
 I&amp;rsquo;m a beginner. And this is what I learned writing the code on my own.
@@ -372,10 +372,10 @@ It&amp;rsquo;s Not Scary  HTML is just going around with a label maker and throw
     
     <item>
       <title>You Can&#39;t Rely on Efficiency Alone</title>
-      <link>https://blog.hotdogsandeggs.com/efficiency-alone/</link>
+      <link>http://blog.hotdogsandeggs.com/efficiency-alone/</link>
       <pubDate>Wed, 06 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/efficiency-alone/</guid>
+      <guid>http://blog.hotdogsandeggs.com/efficiency-alone/</guid>
       <description>Re-routing.
 That&amp;rsquo;s what I heard traveling home from the mountains. I knew where I was going. I just got off the interstate and was headed home.
 Rather than turn off the Google Maps app, I left it on. And it didn&amp;rsquo;t agree with me.
@@ -385,10 +385,10 @@ It&amp;rsquo;s as if the lady wanted to jump through the phone and say, &amp;ldq
     
     <item>
       <title>Expecting Expectations </title>
-      <link>https://blog.hotdogsandeggs.com/expectations/</link>
+      <link>http://blog.hotdogsandeggs.com/expectations/</link>
       <pubDate>Wed, 23 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/expectations/</guid>
+      <guid>http://blog.hotdogsandeggs.com/expectations/</guid>
       <description>Cold.
 It&amp;rsquo;s 6:45 a.m. on a brisk February morning. You just got out of the pool. And it feels like you jumped through a glass window. Cold.
 You shuffle as fast as you can to the locker room. It&amp;rsquo;s time for a long, hot shower. You go to turn the shower knob and you wait.
@@ -398,10 +398,10 @@ What&amp;rsquo;s worse - setting the wrong expectation or not setting one at all
     
     <item>
       <title>The Language You Use</title>
-      <link>https://blog.hotdogsandeggs.com/langauge-you-use/</link>
+      <link>http://blog.hotdogsandeggs.com/langauge-you-use/</link>
       <pubDate>Wed, 16 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/langauge-you-use/</guid>
+      <guid>http://blog.hotdogsandeggs.com/langauge-you-use/</guid>
       <description>My father will forget more baseball than I will ever know.
 He was a coach for decades. He taught me how to play the game. And specifically how to hit a baseball.
 The mechanics of hitting are the opposite of exciting. It&amp;rsquo;s a science.
@@ -411,10 +411,10 @@ But coaches tried to teach the mechanics. All that jargon is overwhelming and bo
     
     <item>
       <title>Medium &gt; Message</title>
-      <link>https://blog.hotdogsandeggs.com/medium-message/</link>
+      <link>http://blog.hotdogsandeggs.com/medium-message/</link>
       <pubDate>Tue, 08 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/medium-message/</guid>
+      <guid>http://blog.hotdogsandeggs.com/medium-message/</guid>
       <description>You have an amazing amount of ways to communicate.
 Phone call. Email. Face-to-face. Text message. Video. Tweet. Snapchat. Skype. Vine. Instagram. And so on.
 These are all mediums to send your message. But is the medium becoming more important than the message?
@@ -423,10 +423,10 @@ These are all mediums to send your message. But is the medium becoming more impo
     
     <item>
       <title>Don&#39;t Be a Robot, Create Conversations</title>
-      <link>https://blog.hotdogsandeggs.com/create-conversations/</link>
+      <link>http://blog.hotdogsandeggs.com/create-conversations/</link>
       <pubDate>Tue, 24 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/create-conversations/</guid>
+      <guid>http://blog.hotdogsandeggs.com/create-conversations/</guid>
       <description>This is a guest post published on SupportOps.
 The tour guide wipes his brow. And wonders how to respond.
 A chubby teenager, my eyelashes batted a few times. Blank stares colored the faces of everyone.
@@ -437,10 +437,10 @@ What was it? </description>
     
     <item>
       <title>Of Course, But Maybe</title>
-      <link>https://blog.hotdogsandeggs.com/of-course-but-maybe/</link>
+      <link>http://blog.hotdogsandeggs.com/of-course-but-maybe/</link>
       <pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/of-course-but-maybe/</guid>
+      <guid>http://blog.hotdogsandeggs.com/of-course-but-maybe/</guid>
       <description>Of course. But maybe.
 Louis CK has a fantastic theory. It goes like this:
  Everybody has a competition in their brain of good thoughts and bad thoughts. Hopefully, the good thoughts win. For me, I always have both. I have like, the thing, I believe the good thing, that’s the thing I believe and than there is this thing. And I don’t believe it, but it is there. It’s always this thing and then this thing.</description>
@@ -448,10 +448,10 @@ Louis CK has a fantastic theory. It goes like this:
     
     <item>
       <title>Unlikely Experience</title>
-      <link>https://blog.hotdogsandeggs.com/unlikely-experience/</link>
+      <link>http://blog.hotdogsandeggs.com/unlikely-experience/</link>
       <pubDate>Fri, 13 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/unlikely-experience/</guid>
+      <guid>http://blog.hotdogsandeggs.com/unlikely-experience/</guid>
       <description>Ma&amp;rsquo;m, how do you want your steak cooked? Oh, well-done. I would recommend medium-well.
 No. Make it well-done. Thanks.
 That&amp;rsquo;s not a fun conversation. You take the order, but the person wants their food cooked in a way that the chef doesn&amp;rsquo;t believe in.
@@ -461,10 +461,10 @@ If you&amp;rsquo;ve never been in a restaurant kitchen before, let me describe i
     
     <item>
       <title>Be Specific</title>
-      <link>https://blog.hotdogsandeggs.com/be-specific/</link>
+      <link>http://blog.hotdogsandeggs.com/be-specific/</link>
       <pubDate>Sat, 07 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/be-specific/</guid>
+      <guid>http://blog.hotdogsandeggs.com/be-specific/</guid>
       <description>Stop.
 Singing at the top of his lungs, windows down, a careless teenager approaches a stop sign. But he doesn&amp;rsquo;t halt.
 He slows down. And rolls right through it.
@@ -474,10 +474,10 @@ The cop accelerates forward and flips his car around in a complete 180. And the 
     
     <item>
       <title>Breaking and Learning</title>
-      <link>https://blog.hotdogsandeggs.com/break-and-learn/</link>
+      <link>http://blog.hotdogsandeggs.com/break-and-learn/</link>
       <pubDate>Mon, 26 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/break-and-learn/</guid>
+      <guid>http://blog.hotdogsandeggs.com/break-and-learn/</guid>
       <description>The late James Yancey is one of the greatest music producers of all-time. Known as J Dilla, you&amp;rsquo;ve heard his creations over legendary songs from - Tribe Called Quest, Janet Jackson, De la Soul, and many more.
 Fellow producer, Madlib, compares him to jazz legend John Coltrane. Because everyone took something from J Dilla.
 J Dilla used lots of equipment like the MPC to make his music. But you&amp;rsquo;ll never guess how he learned.</description>
@@ -485,10 +485,10 @@ J Dilla used lots of equipment like the MPC to make his music. But you&amp;rsquo
     
     <item>
       <title>The Best Answer is a Question</title>
-      <link>https://blog.hotdogsandeggs.com/best-answer-question/</link>
+      <link>http://blog.hotdogsandeggs.com/best-answer-question/</link>
       <pubDate>Mon, 12 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/best-answer-question/</guid>
+      <guid>http://blog.hotdogsandeggs.com/best-answer-question/</guid>
       <description>A family friend of mine is trying to sell his house. He went through the long process of updating the home and putting it on the market. And he finally got an offer from a couple.
 The deal was in place, but then it vanished. You&amp;rsquo;ll never believe the reason why.
 People rarely tell you the truth. Big lies. Little lies. White lies. It happens all of the time.
@@ -497,10 +497,10 @@ People rarely tell you the truth. Big lies. Little lies. White lies. It happens 
     
     <item>
       <title>Transcribe &amp; Publish with Draft</title>
-      <link>https://blog.hotdogsandeggs.com/transcribe-draft/</link>
+      <link>http://blog.hotdogsandeggs.com/transcribe-draft/</link>
       <pubDate>Wed, 07 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/transcribe-draft/</guid>
+      <guid>http://blog.hotdogsandeggs.com/transcribe-draft/</guid>
       <description>As a student intern with sports information, I used to have to transcribe coaches and players quotes for the media. I used an old recorder to rewind the tape.
 It was full of frustration. But part of me misses transcribing those quotes. You can miss something even if you didn&amp;rsquo;t like it.
 So when I learned Draft lets you transcribe any media inside its simple online word processor - I wanted to give it a try.</description>
@@ -508,10 +508,10 @@ So when I learned Draft lets you transcribe any media inside its simple online w
     
     <item>
       <title>Why Grow?</title>
-      <link>https://blog.hotdogsandeggs.com/why-grow/</link>
+      <link>http://blog.hotdogsandeggs.com/why-grow/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/why-grow/</guid>
+      <guid>http://blog.hotdogsandeggs.com/why-grow/</guid>
       <description>The line was out the door. And stretched down the steps through the parking lot. A bizarre sight. A long line extending outside a small building in the middle of the country on a farm.
 Maple View Farm has been in operation for over 50 years. You can get milk and butter fresh from the farm. And they happen to make delicious ice cream.
 Which is the reason all these people, me included, stood in line for over 40 minutes.</description>
@@ -519,10 +519,10 @@ Which is the reason all these people, me included, stood in line for over 40 min
     
     <item>
       <title>Focus is Saying No</title>
-      <link>https://blog.hotdogsandeggs.com/focus/</link>
+      <link>http://blog.hotdogsandeggs.com/focus/</link>
       <pubDate>Fri, 25 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/focus/</guid>
+      <guid>http://blog.hotdogsandeggs.com/focus/</guid>
       <description>People describe it as sketchy. Ghetto. Lame because you can&amp;rsquo;t even get a mixed drink. The bathrooms are gross. And it smells like urinal cakes inside.
 This is a bar in my hometown. And I love it.
 He&amp;rsquo;s Not Here is the definition of a dive bar. It&amp;rsquo;s the oldest bar in Chapel Hill, NC for one reason.
@@ -532,10 +532,10 @@ The bar has its own beer garden. It&amp;rsquo;s fantastic on a warm spring day.<
     
     <item>
       <title>Name Calling </title>
-      <link>https://blog.hotdogsandeggs.com/name-calling/</link>
+      <link>http://blog.hotdogsandeggs.com/name-calling/</link>
       <pubDate>Tue, 15 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/name-calling/</guid>
+      <guid>http://blog.hotdogsandeggs.com/name-calling/</guid>
       <description>Users. Clients. Customers. Subscribers. Leads.
 Have you ever been called one of these?
 Your startup doesn&amp;rsquo;t have users. Your agency doesn&amp;rsquo;t have clients. Your store doesn&amp;rsquo;t have customers. Your blog doesn&amp;rsquo;t have subscribers. And your website doesn&amp;rsquo;t have leads.
@@ -546,10 +546,10 @@ Because people don&amp;rsquo;t care about how much you know, until they first kn
     
     <item>
       <title>Do Less</title>
-      <link>https://blog.hotdogsandeggs.com/do-less/</link>
+      <link>http://blog.hotdogsandeggs.com/do-less/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/do-less/</guid>
+      <guid>http://blog.hotdogsandeggs.com/do-less/</guid>
       <description>We live in a copycat world. We use the internet as a crutch for any problem we try to solve. And the result is lots and lots of noise.
 Instead of trying to be original, we resort to what others have done before. For example, new companies describe what they do with hollow explanations:
  We&amp;rsquo;re the Wikipedia for Alcoholics We handcraft brand experiences to enable brand advocates &amp;amp; consumers.</description>
@@ -557,10 +557,10 @@ Instead of trying to be original, we resort to what others have done before. For
     
     <item>
       <title>Rankings are Book Covers</title>
-      <link>https://blog.hotdogsandeggs.com/rankings/</link>
+      <link>http://blog.hotdogsandeggs.com/rankings/</link>
       <pubDate>Sun, 06 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/rankings/</guid>
+      <guid>http://blog.hotdogsandeggs.com/rankings/</guid>
       <description>In high school, I remember wrapping my textbooks with a paper bag. The covers protected the books, so schools didn&amp;rsquo;t have to buy new ones every year.
 From the outside you couldn&amp;rsquo;t even tell what was inside the book. Geometry or physics or spanish. Rarely did you write the subject on the cover. You decorated it. Left it blank. Or covered it in comics.
 The cover was more interesting than the contents.</description>
@@ -568,10 +568,10 @@ The cover was more interesting than the contents.</description>
     
     <item>
       <title>Characters of Competition</title>
-      <link>https://blog.hotdogsandeggs.com/chracters-of-competition/</link>
+      <link>http://blog.hotdogsandeggs.com/chracters-of-competition/</link>
       <pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/chracters-of-competition/</guid>
+      <guid>http://blog.hotdogsandeggs.com/chracters-of-competition/</guid>
       <description>Your competitor tomorrow may be completely different from your competitor today. It’s out of your control. What’s the point of worrying about things you can’t control?
 Jason Fried and David Heinemeier Hansson, Rework
  Competition is all around you. A competitor might be a company in your industry, your favorite sports team&amp;rsquo;s rival, or the candidate that applies from the same job as you. But there are far more characters of competition than competitors.</description>
@@ -579,20 +579,20 @@ Jason Fried and David Heinemeier Hansson, Rework
     
     <item>
       <title>Listening to What People Do</title>
-      <link>https://blog.hotdogsandeggs.com/listen-to-what-people-do/</link>
+      <link>http://blog.hotdogsandeggs.com/listen-to-what-people-do/</link>
       <pubDate>Mon, 24 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/listen-to-what-people-do/</guid>
+      <guid>http://blog.hotdogsandeggs.com/listen-to-what-people-do/</guid>
       <description>Almost every weekday morning this past summer, I went to my local YMCA to exercise. When entering the gym, you stop to grab a key from the YMCA staff to put your things in a locker.
 There are hundreds of different locker keys. Like most people, I am a creature of habit and I want to choose the exact same locker every time. Locker key 161. After two days of choosing locker number 161 - the YMCA staff member started to listen to my habit.</description>
     </item>
     
     <item>
       <title>Is One Number Enough?</title>
-      <link>https://blog.hotdogsandeggs.com/one-metric/</link>
+      <link>http://blog.hotdogsandeggs.com/one-metric/</link>
       <pubDate>Mon, 17 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/one-metric/</guid>
+      <guid>http://blog.hotdogsandeggs.com/one-metric/</guid>
       <description>I have the privilege of speaking with several business owners and marketers each week. These are people devoted to selling more online. One of the most popular questions I receive -
 What&amp;rsquo;s a good conversion rate?
 A tough question to answer. It&amp;rsquo;s like asking what&amp;rsquo;s a healthy weight? There is no one size fits all answer. A healthy weight for Shaquille O&amp;rsquo;Neal and Tina Fey is no where near similar. The same is true for business.</description>
@@ -600,10 +600,10 @@ A tough question to answer. It&amp;rsquo;s like asking what&amp;rsquo;s a health
     
     <item>
       <title>Not Good Enough</title>
-      <link>https://blog.hotdogsandeggs.com/not-good-enough/</link>
+      <link>http://blog.hotdogsandeggs.com/not-good-enough/</link>
       <pubDate>Sat, 08 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/not-good-enough/</guid>
+      <guid>http://blog.hotdogsandeggs.com/not-good-enough/</guid>
       <description>I wanted to help. In one of my old jobs, we needed a designer. As a small company, we were spread thin. And I took the reigns on the design project.
 The problem?
 I&amp;rsquo;m not a designer. Not even close. I worked hard, stayed up late, and tried to effort my way through the work. It flat out stunk. It wasn&amp;rsquo;t good enough.
@@ -612,10 +612,10 @@ This is when I learned a valuable lesson.</description>
     
     <item>
       <title>Write a Cover Letter that gets You an Interview</title>
-      <link>https://blog.hotdogsandeggs.com/cover-letter/</link>
+      <link>http://blog.hotdogsandeggs.com/cover-letter/</link>
       <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/cover-letter/</guid>
+      <guid>http://blog.hotdogsandeggs.com/cover-letter/</guid>
       <description>“Never confuse movement with action.” - Ernest Hemingway
  One of the greatest writers of all-time points out the difference between faking it and living it. As millennials, we switch jobs like we switch between mobile devices. And the first step to finding a new gig is a cover letter.
 The job market has never been more competitive. With the adoption of social media, we all have living and breathing resumes.</description>
@@ -623,10 +623,10 @@ The job market has never been more competitive. With the adoption of social medi
     
     <item>
       <title>Nervous Means Alive</title>
-      <link>https://blog.hotdogsandeggs.com/nervous/</link>
+      <link>http://blog.hotdogsandeggs.com/nervous/</link>
       <pubDate>Sun, 23 Feb 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/nervous/</guid>
+      <guid>http://blog.hotdogsandeggs.com/nervous/</guid>
       <description>&amp;ldquo;It&amp;rsquo;s okay to be nervous, it means your alive.&amp;rdquo;
  The advice you receive from your parents is endless. Be safe. Take care of yourself. Sit up straight.
 You&amp;rsquo;re rarely ready to learn at the same time your parents are ready to teach you. The advice falls on deaf ears. You don&amp;rsquo;t even hear it.
@@ -636,10 +636,10 @@ I used to get terribly nervous before rec league basketball games.</description>
     
     <item>
       <title>Experience </title>
-      <link>https://blog.hotdogsandeggs.com/experience/</link>
+      <link>http://blog.hotdogsandeggs.com/experience/</link>
       <pubDate>Sun, 16 Feb 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/experience/</guid>
+      <guid>http://blog.hotdogsandeggs.com/experience/</guid>
       <description>Experience separates the old from the young. The good from the bad. The disciplined from the reckless.
 But how do you get experience?
 I remember asking myself this question. Like a lot of my peers, I lost out on several jobs because of one thing. Experience.
@@ -649,10 +649,10 @@ The truth is experience is all around you.</description>
     
     <item>
       <title>Drunk on Data</title>
-      <link>https://blog.hotdogsandeggs.com/drunk-on-data/</link>
+      <link>http://blog.hotdogsandeggs.com/drunk-on-data/</link>
       <pubDate>Sun, 09 Feb 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/drunk-on-data/</guid>
+      <guid>http://blog.hotdogsandeggs.com/drunk-on-data/</guid>
       <description>You can make numbers say whatever you want.
 In 2010, I kept score of almost 100 baseball games. As a sports information director at UNC and a press officer for USA Baseball, I saw my fair share of statistics. It&amp;rsquo;s here I learned an important lesson.
  &amp;ldquo;Statistics are like a bikini. They show a lot, but still cover up some very vital information.&amp;rdquo;
@@ -661,10 +661,10 @@ In 2010, I kept score of almost 100 baseball games. As a sports information dire
     
     <item>
       <title>Time</title>
-      <link>https://blog.hotdogsandeggs.com/time/</link>
+      <link>http://blog.hotdogsandeggs.com/time/</link>
       <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/time/</guid>
+      <guid>http://blog.hotdogsandeggs.com/time/</guid>
       <description>Time is money. Billable or non-billable. Timelines and timetables. Measured by timecards and timesheets.
 There is overtime and downtime. Daytime and nighttime. Dinnertime and lunchtime.
 Sometimes you waste time. If you don&amp;rsquo;t have time, make time. Your pastime might be playtime. In the springtime or summertime or wintertime.
@@ -674,10 +674,10 @@ Time is sensitive.</description>
     
     <item>
       <title></title>
-      <link>https://blog.hotdogsandeggs.com/posts/2014-05-19-cut-it-in-half/</link>
+      <link>http://blog.hotdogsandeggs.com/posts/2014-05-19-cut-it-in-half/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/posts/2014-05-19-cut-it-in-half/</guid>
+      <guid>http://blog.hotdogsandeggs.com/posts/2014-05-19-cut-it-in-half/</guid>
       <description>title: &amp;ldquo;Cut it in Half&amp;rdquo; slug: &amp;ldquo;cut-it-in-half&amp;rdquo; date: &amp;ldquo;2014-05-19&amp;rdquo;
 type: &amp;ldquo;post&amp;rdquo; This week my workout was cut in half. Instead of 32 laps in the pool, it&amp;rsquo;s now just 16.
 It&amp;rsquo;s a major adjustment. One that is feels twice as hard. It&amp;rsquo;s funny - how can you cut something in half and it be twice as hard?
@@ -686,10 +686,10 @@ As humans, we&amp;rsquo;re not afraid to use words. Jargon. Buzzwords. Run-on se
     
     <item>
       <title></title>
-      <link>https://blog.hotdogsandeggs.com/posts/2014-06-01-show-and-tell/</link>
+      <link>http://blog.hotdogsandeggs.com/posts/2014-06-01-show-and-tell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hotdogsandeggs.com/posts/2014-06-01-show-and-tell/</guid>
+      <guid>http://blog.hotdogsandeggs.com/posts/2014-06-01-show-and-tell/</guid>
       <description>title: &amp;ldquo;Show, Don&amp;rsquo;t Tell&amp;rdquo; slug: &amp;ldquo;show-dont-tell&amp;rdquo; date: &amp;ldquo;2014-06-01&amp;rdquo;
 type: &amp;ldquo;post&amp;rdquo; Show. Don&amp;rsquo;t tell.
 When you were in school you didn&amp;rsquo;t talk about your pet rock in front of your classmates. You showed it to them.
