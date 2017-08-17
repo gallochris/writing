@@ -1,0 +1,33 @@
+{{ partial "header.html" . }}
+{{ partial "tippy.html" . }}
+	<main>
+
+      <div>
+        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+        <header>
+        {{.Content}}
+</header>
+
+{{ range (where .Site.Pages "Type" "post").GroupByDate "2006" }}
+  <ul class="bmo">
+    <h2 class="readtime">{{ .Key }}</h2>
+    {{ range .Pages }}
+    <li>
+      <div>
+        <span class="date">{{.Date.Format "January 02"}} </span>
+        <br>
+        <a href="{{.Permalink}}">{{.Title}}</a>
+      </div>
+  </li>
+    {{ end }}
+  </ul>
+  {{ end }}
+
+      </div>
+    </main>
+{{ partial "bottom.html" . }}
+{{ partial "footer.html" . }}
+
+
+
+

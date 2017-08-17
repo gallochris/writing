@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+{{ partial "tippy.html" . }}
+	<main>
+			<div>
+		<a id="top"></a>
+  <header>
+  <h1>{{ .Title }}</h1>
+  <p class="jangell">This post will take you about <span class="readtime">{{$rt := .ReadingTime}}
+{{ $rt }} minute{{if gt $rt 1}}s{{end}}</span> to read.</p>
+  <hr class="tothetop">
+  </header>
+				{{ .Content }}
+
+<hr>
+{{ partial "share.html" . }}
+<hr>
+{{ partial "bottom.html" . }}
+			</div>
+	</main>
+{{ partial "footer.html" . }}

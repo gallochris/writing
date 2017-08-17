@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+
+{{ partial "tippy.html" . }}
+	<main>
+	<div class="please">
+		{{ .Content }}
+		</div>
+
+		{{ $paginator := .Paginate (where .Site.Pages "Type" "learn") }}
+		{{ range $paginator.Pages }}
+			{{ partial "summary.html" . }}
+		{{ end }}
+	</main>
+{{ partial "footer.html" . }}

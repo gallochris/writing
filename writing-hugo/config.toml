@@ -1,0 +1,14 @@
+baseURL = "https://blog.hotdogsandeggs.com/"
+languageCode = "en-us"
+title = "Chris Gallo | Blog"
+[permalinks]
+    posts = ":slug"
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+
+    author = "Chris Gallo"
+    description = "Chris Gallo lives in Charlotte and works at Highrise, where he makes customers feel important."
+    twitter_username = "cjgallo"
