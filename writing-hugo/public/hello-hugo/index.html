@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Hello Hugo</title>
+	<meta name="description" content="Chris Gallo lives in Charlotte and works at Highrise, where he makes customers feel important.">
+	<meta name="author" content="Chris Gallo">
+	
+	<link rel="stylesheet" href="https://blog.hotdogsandeggs.com/css/archie.css">
+    
+    
+     <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-52956118-1', 'auto');
+    ga('send', 'pageview');
+
+    </script>
+    
+    <link rel="icon" type="image/x-icon" href="https://blog.hotdogsandeggs.com/images/favicon.ico">
+    
+    <meta content="L-ZoUji3D4K6CNyxdq-cLivhr8XI0ybkaBQb6lV3LG0" name="google-site-verification">
+
+    <meta name="google-site-verification" content="n-mul2Oky0NnGKK9E6OWAOfm76i008AWrhJzyzDxFq0" />
+	
+	<meta name="generator" content="Hugo 0.25.1" />
+</head>
+<body>
+
+
+<div class="please">
+  <header>
+  <span>You’re reading <a href="/">Hot dogs and eggs</a>, a blog by <a href="https://hotdogsandeggs.com" >Chris Gallo</a> since 2014.</span>
+    </div>
+  </header>
+	<main>
+			<div>
+		<a id="top"></a>
+  <header>
+  <h1>Hello Hugo</h1>
+  <p class="jangell">This post will take you about <span class="readtime">
+8 minutes</span> to read.</p>
+  <hr class="tothetop">
+  </header>
+				
+
+<p><script src="https://fast.wistia.com/embed/medias/c27i0wnbg2.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:62.5% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_c27i0wnbg2 videoFoam=true" style="height:100%;width:100%">&nbsp;</div></div></div></p>
+
+<hr />
+
+<h2 id="switching-from-jekyll-to-hugo">Switching from Jekyll to Hugo</h2>
+
+<p><em>This is the transcription from the video above explaining why and how I switched from Jekyll to Hugo to generate my website.</em></p>
+
+<p>Hey hey! Today I want to walk through why I chose to switch my personal website to being built in <a href="https://jekyllrb.com/"><a href="https://jekyllrb.com/">Jekyll</a></a> to now using another static site generator called <a href="https://gohugo.io/"><a href="https://gohugo.io/">Hugo</a></a>.</p>
+
+<p>I want to walk through why I made this switch, some details about how I made this switch, and if it was worth it.</p>
+
+<p>This is my personal website, it&rsquo;s <a href="https://hotdogsandeggs.com/">hotdogsandeggs.com</a>. I have a couple subdomains as well. I&rsquo;ve also built some side projects and all I&rsquo;ve used in the past is <a href="https://jekyllrb.com/"><a href="https://jekyllrb.com/">Jekyll</a></a>.</p>
+
+<p><a href="https://jekyllrb.com/"><a href="https://jekyllrb.com/">Jekyll</a></a> is a static site generator built in the programming language Ruby. It&rsquo;s pretty straightforward to use. A big reason why I chose to use <a href="https://jekyllrb.com/"><a href="https://jekyllrb.com/">Jekyll</a></a> in the first place was it had free hosting with <a href="https://pages.github.com/">GitHub Pages</a>. That was a big selling point for me. I host most of my projects on GitHub Pages, so that integration was a big reason why I chose to use <a href="https://jekyllrb.com/">Jekyll</a>.</p>
+
+<p>I&rsquo;m in pretty deep with <a href="https://jekyllrb.com/">Jekyll</a>, so why would I choose to switch? A big reason why is <strong>curiosity</strong>. <a href="https://gohugo.io/"><a href="https://gohugo.io/">Hugo</a></a> is another static site generator built in the programming language <a href="https://golang.org/">Go</a>.</p>
+
+<p>I have some teammates at <a href="https://highrisehq.com/] that built some things for the product using Go.  They had positive things to say, and they also mentioned how [Hugo](https://gohugo.io/) was really, really fast. That's probably the one thing you'll always hear about [Hugo](https://gohugo.io/">Highrise</a>.</p>
+
+<p>So I was really curious about giving this a shot. I wanted to learn more and see if I could convert a site that was on <a href="https://jekyllrb.com/">Jekyll</a> to <a href="https://gohugo.io/">Hugo</a> easily.</p>
+
+<p>I&rsquo;m going to walk you through this on a side project on mine. It&rsquo;s a subdomain, <a href="https://people.hotdogsandeggs.com/">people.hotdogsandeggs.com</a>.</p>
+
+<p>First, this project is whenever I hear an interesting interview/talk/podcast, every once in awhile I transcribe it. It&rsquo;s a pretty weird habit, however, it helps me retain information and learn new things. I would much rather listen to something and type it up rather than read 40 pages on a subject.</p>
+
+<p>I&rsquo;ve done about 50 transcriptions. Here is one I did from <a href="https://people.hotdogsandeggs.com/merlinn-mann/">Merlin Mann</a>. It&rsquo;s pretty long, a talk he gave at a conference. I type of things from the talk that I find interesting and can take away from. It&rsquo;s my internal notes, but I just publish them.</p>
+
+<p>Again, done about 50 of these. I want to show you how I made the switch from <a href="https://jekyllrb.com/">Jekyll</a> to <a href="https://gohugo.io/">Hugo</a> with this particular project because I found <a href="https://gohugo.io/">Hugo</a> to be a little easier to put this site together. And then main reason why was because of these categories. I have four categories, philosophy, for example.</p>
+
+<p>So, to get started with <a href="https://gohugo.io/">Hugo</a>, you have to install it on your machine. The <a href="https://gohugo.io/">Hugo</a> site and docs are really well done. If you&rsquo;re familiar with <a href="https://jekyllrb.com/">Jekyll</a>, you&rsquo;ll have a big advantage because installing <a href="https://gohugo.io/">Hugo</a> is similar. You can install it quickly and create a new site fast.</p>
+
+<p>A big selling point or differentiator with <a href="https://gohugo.io/">Hugo</a> is that <a href="https://gohugo.io/">Hugo</a> has a lot of themes that are easy to access. Where <a href="https://jekyllrb.com/">Jekyll</a> has themes, but I think they&rsquo;re somewhat harder to install.</p>
+
+<p>There are tons of <a href="https://gohugo.io/themes/">themes with Hugo</a>. I think it&rsquo;s really important when you&rsquo;re trying to learn something new to start with a finished product example. I think it&rsquo;s a great way to learn to see it done the right way. The themes are a really good way to do that.</p>
+
+<p>The flip side to that is if you start with a complex theme, you find you really don&rsquo;t need half of what&rsquo;s there. So it&rsquo;s kind of a catch-22.</p>
+
+<p>The theme I started with was the <a href="https://themes.gohugo.io/blank/">Blank theme</a>. It was perfect for me to see the structure of a <a href="https://gohugo.io/">Hugo</a> site versus a <a href="https://jekyllrb.com/">Jekyll</a> site.</p>
+
+<p>The <a href="https://gohugo.io/documentation/">Hugo docs</a> will also help you along the way. There is also the <a href="https://discourse.gohugo.io/">discussion forums</a> that are really handy as well.</p>
+
+<p>I&rsquo;ll show you both sites locally on my machine. The structure is similar. Both have a config file. There is a layouts folder in both. Posts exist in <a href="https://jekyllrb.com/">Jekyll</a> in the <code>_posts</code> folder. In <a href="https://gohugo.io/">Hugo</a>, posts exist in the <code>content</code> folder and there is a <code>posts</code> folder there.</p>
+
+<p>So one thing I did have to do with this transition that was tedious was I had to reformat the <a href="https://gohugo.io/content-management/front-matter/">front matter</a>. It was somewhat tedious, but everything else was pretty straightforward.</p>
+
+<p>A big advantage with <a href="https://gohugo.io/">Hugo</a>, this is my index page. It&rsquo;s really bare bones. In <a href="https://jekyllrb.com/">Jekyll</a> my index page is in HTML. A big advantage in <a href="https://gohugo.io/">Hugo</a> was the layouts folder. You can do a lot with it, and it was probably the toughest thing to grasp for me. But it&rsquo;s super powerful.</p>
+
+<p>It&rsquo;s how I created categories pages, and the index layout. I can just have a markdown file, use a layout, and create a page super fast.</p>
+
+<p>There are some similarities. <a href="https://gohugo.io/templates/partials/#readout">Partials</a> in <a href="https://gohugo.io/">Hugo</a> are very similar to the <a href="https://jekyllrb.com/docs/includes/">includes folder</a> in <a href="https://jekyllrb.com/">Jekyll</a>. This is where you would put things like a footer, or something that is going to be used over and over again.</p>
+
+<p><a href="https://gohugo.io/content-management/shortcodes/#readout">Shortcodes</a> are a useful perk of <a href="https://gohugo.io/">Hugo</a>. There are a lot of built in ones. Think if you need to create a Twitter post, there is a shortcode for that. You can create custom short codes, which I did with a highlight on the home page.</p>
+
+<p>The big advantage of this switch. First, I&rsquo;ll serve both of these sites locally on my machine. I want to illustrate how much faster <a href="https://gohugo.io/">Hugo</a> is on my machine.</p>
+
+<p><a href="https://jekyllrb.com/">Jekyll</a> is not super slow, but <a href="https://gohugo.io/">Hugo</a> is <em>just faster</em>. Bottom line, it&rsquo;s faster. 75 ms to over 1 second. It&rsquo;s just faster.</p>
+
+<p>On <a href="https://jekyllrb.com/">Jekyll</a>, I have these categories and I&rsquo;m using a JavaScript solution. There is a different page for the business category, design, music, and philosophy. So there are four pages.</p>
+
+<p>In <a href="https://gohugo.io/">Hugo</a>, I don&rsquo;t have any of those pages. I&rsquo;m using the front matter and a layout in the default folder, the list template. It calls on the categories and generates the page. All these are built using the list template.</p>
+
+<p>It took me quite awhile to figure this out. A really good resource that I&rsquo;ll share is <a href="https://bookdown.org/yihui/blogdown/templates.html">bookdown.org</a>. They walk through how to build these minimal examples. This is the exact template info or code that I needed.</p>
+
+<p>I would highly recommend this site. It walks through building a site using R, the programming statistics language. They also mention another <a href="https://gohugo.io/">Hugo</a> theme too, <a href="https://themes.gohugo.io/[Hugo](https://gohugo.io/)-xmin/">X-min</a>.</p>
+
+<p>Here are the two sites. Both similar, structure is different and I found <a href="https://gohugo.io/">Hugo</a> to be easier for it.</p>
+
+<p>One big pitfall was hosting on GitHub. When you&rsquo;re ready to publish with <a href="https://gohugo.io/">Hugo</a>, you run a command and everything gets put out in the public folder. With <a href="https://jekyllrb.com/">Jekyll</a>, you can upload what you have to GitHub Pages and it&rsquo;s just going to work.</p>
+
+<p>But with <a href="https://gohugo.io/">Hugo</a>, you really need to <a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/">upload the public folder</a>. I made that mistake and found out the public folder is what you really need. So that&rsquo;s a little bit of a drawback with <a href="https://gohugo.io/">Hugo</a>, not a huge one though.</p>
+
+<p>If you go to GitHub, in the people repo, you can see it&rsquo;s hosted through the GitHub Pages branch. In the [<a href="https://github.com/gallochris/people/tree/hugo_source">Hugo source branch</a>, you can see what I&rsquo;ve used to generate the site.</p>
+
+<p>So was it worth it to make this switch? For me, 100% yes. I learned something new. I was pleased with myself to make this transition, and plus, I just have a better understanding of how things work. I&rsquo;m really pleased with how it turned it out with my <a href="https://hotdogsandeggs.com/">home page</a>, the <a href="https://blog.hotdogsandeggs.com/">blog</a>, and <a href="https://people.hotdogsandeggs.com/">this project</a>.</p>
+
+<p>It was tough. Static site generators there are a lot of them. If you want to go with Ruby, probably go with <a href="https://jekyllrb.com/">Jekyll</a>. If you&rsquo;re familiar with Go, <a href="https://gohugo.io/">Hugo</a> is a good option. There is <a href="https://middlemanapp.com/">Middleman</a> out there. When it comes to static site generators out there, you have a lot of tools. It&rsquo;s not really about the tool, it&rsquo;s your personal preference.</p>
+
+<p>I&rsquo;m kind of anti-Wordpress. I don&rsquo;t want to use a clunky solution. I want to learn a bit more technically. For me, with <a href="https://gohugo.io/">Hugo</a>, I felt like I wasn&rsquo;t repeating myself as much as I was with <a href="https://jekyllrb.com/">Jekyll</a>.</p>
+
+<p>That being said, switching is a pain in the ass. There are no bones about. There are pros and cons to everything, so figure out what you want.</p>
+
+<p>I thought I&rsquo;d end this on a useful piece of advice from <a href="https://twitter.com/gshotwell">Gordon</a>. If you want to learn to code, that&rsquo;s not a really good goal. Because there is always going to be more to learn. Focus on <a href="https://twitter.com/gshotwell/status/897800169839898625">improving your understanding</a> in manageable ways a bit every day.</p>
+
+<p>I think that kind of advice is critical for anything. I wouldn&rsquo;t go out and try to master <a href="https://gohugo.io/">Hugo</a>. It&rsquo;s about what <a href="https://gohugo.io/">Hugo</a> can enable me to do, which is put together a personal site quickly and be proud of how it looks.</p>
+
+<p>I&rsquo;ve just scratched the surface with <a href="https://gohugo.io/">Hugo</a>. I have another site, <a href="https://dadgumboxscores.com/">dadgumboxscores.com</a> that I really want to try <a href="https://gohugo.io/">Hugo</a> on because I think the speed benefit can help. There is a ton of information here.</p>
+
+<p>And I haven&rsquo;t really explored <a href="https://gohugo.io/templates/data-templates/#the-data-folder">data files</a> with <a href="https://gohugo.io/">Hugo</a>. <a href="https://jekyllrb.com/">Jekyll</a> has it, and I know there it&rsquo;s there with <a href="https://gohugo.io/">Hugo</a>. I&rsquo;m going to give that a shot soon, and there is always more to learn.</p>
+
+<p>I hope this gives you a glimpse on how it was to switch and maybe it changes your perspective on creating a static site and what generator to use.</p>
+
+<p>Thanks!</p>
+
+
+<hr>
+<footer class="footer" role="contentinfo">
+	<p>Thanks for reading! Enjoy this post? Please share it, let me know, or <a href="https://blog.hotdogsandeggs.com/" >read more posts</a>.</p>
+	<section>
+	<a href="https://twitter.com/intent/tweet?text=Hello%20Hugo&url=https://blog.hotdogsandeggs.com/%2fhello-hugo%2f&via=cjgallo&related=cjgallo" rel="nofollow" target="_blank" title="Share on Twitter" class="twitter-share-button">Twitter</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+	</section>
+</footer>
+
+
+
+<hr>
+<p class="please">Find me on <b>Twitter</b> <a href="https://twitter.com/cjgallo">@cjgallo</a> or <b>GitHub</b> <a href="https://github.com/gallochris" >@gallochris</a> or <b>Instagram</b> <a href="https://instagram.com/heygallo">@heygallo</a>. </p>
+
+			</div>
+	</main>
+	<footer class="footer" role="contentinfo">
+	<span><a href="/hello-hugo/#top">Go back to top</a></span>
+	<br>
+	<span class="date"> Last updated Aug 18, 2017</span>
+		<br>
+		<span>&copy; 2014 - 2017</span>
+	</footer>
+</body>
+</html>
