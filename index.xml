@@ -6,10 +6,22 @@
     <description>Recent content in Blog | Chris Gallo on Chris Gallo | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.hotdogsandeggs.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello Hugo</title>
+      <link>https://blog.hotdogsandeggs.com/hello-hugo/</link>
+      <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.hotdogsandeggs.com/hello-hugo/</guid>
+      <description>&amp;nbsp;
+Switching from Jekyll to Hugo This is the transcription from the video above explaining why and how I switched from Jekyll to Hugo to generate my website.
+Hey hey! Today I want to walk through why I chose to switch my personal website to being built in Jekyll to now using another static site generator called Hugo.
+I want to walk through why I made this switch, some details about how I made this switch, and if it was worth it.</description>
+    </item>
     
     <item>
       <title>Bargain for Bugs</title>
