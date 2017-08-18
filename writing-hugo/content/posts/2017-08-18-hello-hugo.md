@@ -77,7 +77,7 @@ One big pitfall was hosting on GitHub. When you're ready to publish with [Hugo](
 
 But with [Hugo](https://gohugo.io/), you really need to [upload the public folder](https://gohugo.io/hosting-and-deployment/hosting-on-github/). I made that mistake and found out the public folder is what you really need. So that's a little bit of a drawback with [Hugo](https://gohugo.io/), not a huge one though. 
 
-If you go to GitHub, in the people repo, you can see it's hosted through the GitHub Pages branch. In the [[Hugo source branch](https://github.com/gallochris/people/tree/hugo_source), you can see what I've used to generate the site. 
+If you go to GitHub, in the people repo, you can see it's hosted through the GitHub Pages branch. In the [Hugo source branch](https://github.com/gallochris/people/tree/hugo_source), you can see what I've used to generate the site. 
 
 So was it worth it to make this switch? For me, 100% yes. I learned something new. I was pleased with myself to make this transition, and plus, I just have a better understanding of how things work. I'm really pleased with how it turned it out with my [home page](https://hotdogsandeggs.com/), the [blog](https://blog.hotdogsandeggs.com/), and [this project](https://people.hotdogsandeggs.com/).  
 
