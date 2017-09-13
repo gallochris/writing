@@ -30,6 +30,7 @@ Temkin's business experience prior to building a best-selling board game? A summ
 > [Max Temkin, Creative Mornings Talk](http://creativemornings.com/talks/max-temkin)
 
 * * *
+
 ## Connect the dots. 
 
 Gary Vaynerchuk is a salesman. He's built a multi-million dollar wine business, wrote best-selling books, and now runs a successful creative agency. Before all that, he came from zero. 

@@ -36,6 +36,7 @@ John is the brother in-law of the hiring manager. John is familiar, and it's why
 You weren't competing against John. You were competing against familiarity. This character of competition is undefeated. Because it's not what you know, it's who you know. 
 
 * * * 
+
 Notice in these 3 examples - all could obsess over the competitor. But it's never worth it. 
 
 Because the characters of competition change everyday. Your competitor tomorrow is not your competitor today. 

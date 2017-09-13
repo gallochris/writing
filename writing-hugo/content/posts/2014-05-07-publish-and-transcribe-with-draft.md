@@ -23,6 +23,7 @@ Check out this short screencast below. There is no audio, but follow the steps o
 
 
 ## Transcribing Tricks 
+
 Draft lets you loop the actual audio or video. This example is only 16 seconds, but you get the idea. This is extremely helpful because it eliminates the step of having to pause the video, type, restart the video, pause again, and continuing typing. 
 
 ## Publish the folder

@@ -27,7 +27,9 @@ In baseball, people measure everything. If you can record it, then there is a st
 But Parrish only threw 6.2 innings. That's all of 20 outs. In comparison, there are 540 outs in 20 games and over 1900 outs in 71 games. While he pitched in 28% of the team's games, he only had a hand in less than 1% of the team's outs. 
 
 Because Parrish is a left-handed specialist and often just threw to one batter at a time. The "appearances" statistic is misleading on its own, but when you added in innings pitched - we can all see clearly now. 
+
 * * * 
+
 Two popular online businesses - let's call them Sam's Sandals Shop and Gary's Golf Store. 
 
 Sam's Sandals Shop has a 10% conversion rate. For every 100 visitors, 10 make a purchase. Gary's Golf Store has a 3% conversion rate. For every 100 visitors, 3 make a purchase. 
@@ -39,6 +41,7 @@ The average order on Sam's Sandals Shop is $5. In this example, he makes $50 off
 Gary's Golf Store generates 500% more revenue than Sam's Sandals Shop, despite have a conversion rate less than 7%. Conversion rate on its own is not just misleading, it's careless. Because everyone would choose Gary's Golf Store in this scenario. 
 
 * * * 
+
 So, what's a good conversion rate? The best answer is a question. Because you can never judge anything off just one metric. 
 
 One is the loneliest statistic. 

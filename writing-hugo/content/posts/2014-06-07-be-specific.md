@@ -48,7 +48,7 @@ Specific is clear. It builds trust. And it makes it personal.
 
 This is the difference in being respected and ignored. 
 
-##What Happens when you're not specific
+## What Happens when you're not specific
 
 General Motors is in a crisis. The bureaucratic company is recalling more cars than it's selling - that's a problem. 
 
@@ -60,7 +60,7 @@ General Motors even went out of their way trying not to be specific - banning ov
 
 Not being specific costs General Motors the trust of its customers. 
 
-##What Specific Can do for you
+## What Specific Can do for you
 
 The restaurant serves one type of dish. It seats 10 people. The price of food starts at $300. And it's sold out every night. 
 

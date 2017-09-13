@@ -14,7 +14,9 @@ I'm not a designer. Not even close. I worked hard, stayed up late, and tried to 
 This is when I learned a valuable lesson. You can't be good at everything. It's a humbling process to discover the skills you're not good at doing. But it's necessary.  
 
 So what do you do when you're not good enough? 
+
 * * *
+
 <iframe width="480" height="360" src="http://www.youtube.com/embed/3ResTHKVxf4" frameborder="0"> </iframe>
 
 We all strive to do good work. When you're not good enough, don't hide it. Accept it. 
