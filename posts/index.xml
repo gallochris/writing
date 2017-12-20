@@ -6,10 +6,24 @@
     <description>Recent content in Posts on Chris Gallo | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.hotdogsandeggs.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Seventeen</title>
+      <link>https://blog.hotdogsandeggs.com/seventeen/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.hotdogsandeggs.com/seventeen/</guid>
+      <description>As 2017 comes to a close, here are 17 things I learned in the year 2017.
+ Time only moves faster as you get older.
+ If something isn&amp;rsquo;t working, do the opposite of whatever you&amp;rsquo;re trying.
+ Best answer is a question.
+ Physical gifts are often silly. You would rather be given time.
+ Happiness comes down to you need something to do, someone to love, and something to look forward to.</description>
+    </item>
     
     <item>
       <title>Hello Hugo</title>

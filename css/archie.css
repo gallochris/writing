@@ -1,11 +1,12 @@
 body { 
-  font-family: "Helvetica", "Arial", sans-serif;
+  font-family: Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
   font-size: 14px;
   line-height: 1.5;
   padding: 1em;
   margin: 0 auto;
   max-width: 50em;
   color: #14191d; 
+  background-color: #EBEFF3;
 }
 
 h1 {
@@ -22,7 +23,7 @@ h3 {
 }
 
 a { 
-    border-bottom: 3px solid #56a0d3;
+    border-bottom: 2px solid #56a0d3;
     text-decoration: none;
     color: inherit;
   }
@@ -85,7 +86,7 @@ blockquote {
 
 .ohyella {
   background-color: #faf785; 
-  padding: 0.25em; 
+  padding: 0.03em;  
   border-radius: 1em 0 1em 0;
 }
 
