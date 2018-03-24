@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.hotdogsandeggs.com/how-what/</loc>
+    <lastmod>2018-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.hotdogsandeggs.com/seventeen/</loc>
     <lastmod>2017-12-20T00:00:00+00:00</lastmod>
   </url>
@@ -282,12 +287,12 @@
   
   <url>
     <loc>https://blog.hotdogsandeggs.com/</loc>
-    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.hotdogsandeggs.com/posts/</loc>
-    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
