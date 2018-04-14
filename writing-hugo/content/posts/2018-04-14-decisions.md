@@ -1,0 +1,201 @@
+---
+title: "Decisions"
+slug: "decisions"
+date: "2018-04-14"
+type: "post"
+---
+
+How do you make a decision? 
+
+Little ones. Big decisions. 
+
+Do you trust your gut? Ask for advice? 
+
+There are countless theories and heuristics to help you make decisions. For example, one popular rule in decision theory is known as [minimax](https://en.wikipedia.org/wiki/Minimax).
+
+Minimax is conservative. The rule says to pick the option that assures you the highest minimum utility. 
+
+[Brian Burke](https://twitter.com/bburkeESPN) gives a [perfect explanation in this article](http://archive.advancedfootballanalytics.com/2009/08/decision-theory-in-football.html) describing coaching decisions in the NFL. 
+
+> Let's say you have the choice between going on a picnic and going bowling. You'd really rather go on the picnic, but it might rain. Your payoff matrix would look like this:
+
+![minimax.png](https://draftin.com:443/images/56866?token=s6K74RlO5h6x68UURjSx1SJltSBs9cRyOAfOh9W1hPjHwCLgzBCWz0jliwkztFjfNkKjkww7_i6ExprnpKGhEFI) 
+
+> If it doesn't rain, the picnic pays off, but if it rains you've lost the afternoon. Bowling is not as much fun as the picnic, but it wouldn't matter if it rains. Minimax says go bowling because 1 is its minimum payoff while 0 is the minimum payoff for the picnic. 
+
+Burke continues in his article to describe more theories and heuristics to help you make decisions, including: 
+
+- [minimax regret](https://en.wikipedia.org/wiki/Regret_(decision_theory)#Minimax_regret): choosing the *best* worst-case scenario 
+- [expected utility](https://en.wikipedia.org/wiki/Expected_utility_hypothesis): weight the average of the possible payoffs
+- [prospect theory](https://en.wikipedia.org/wiki/Prospect_theory): people fear losses more than they value equivalent gains
+
+All the theories can lead to different recommendations. There isn't a magic bullet. 
+
+As [Kwame Appiah](https://en.wikipedia.org/wiki/Kwame_Anthony_Appiah) eloquently explains:  
+
+> It's not how well you play the game, it's deciding what game you want to play. 
+
+* * * 
+
+## An Example 
+ 
+The University of Maryland, Baltimore County (UMBC) [defeated Virginia](https://www.nytimes.com/2018/03/17/sports/virginia-upset.html) 74-54 in the first round of the 2018 NCAA Tournament. This was significant. Why? 
+
+Because it was the first time in 136 tries that a No. 16 seed had beaten a No. 1 seed in the NCAA Tournament. 33 years. It's history. 
+
+Virginia earned the top overall seed in the 2018 NCAA Tournament. Tony Bennett's club dismantled the ACC en route to a 17-1 league record, and 31-2 mark overall. 
+
+Life was beautiful for the Cavaliers until it UMBC met them in Charlotte. Virginia was 20.5 point favorite, given a near 97 percent chance of beating UMBC and advancing to the second round.
+
+The opposite happened. The Retrievers won by 20 points. No buzzer beater needed. It wasn't even close. An absolute ass-kicking. 
+
+*How the hell did that happen?* 
+
+Virginia's style of play is unique. The Wahoos choose to play less basketball. This is meant to be taken literally. 
+
+The Cavaliers play a slow tempo. Their average possession length of 21 seconds was slowest amongst all 351 Division-I basketball teams this season. Virginia wants to play fewer possessions. Less basketball.
+
+Whether you agree with that style or not, it made Virginia quite effective. It forces opponents to play patient, demanding long defensive possessions, and tricks opponents into beating themselves by taking poor offensive shots. 
+
+Tony Bennett employs the Pack Line defense just like his father did at Wisconsin. This style of defense is effective at limiting close-range shots in the post, but it's susceptible to teams that can make shots from distance (or beyond the "pack-line"). 
+
+The score was 21-21 at the half. UMBC hung around long enough, and held the Cavaliers to their lowest first-half point total all season long. 
+
+On the surface, traditional counting statistics show Virginia shot 39.1 percent from the field and UMBC just 35 percent in the first half. Virginia would pick it up in the second half, right? 
+
+Right?
+
+But those traditional statistics ignored one thing. 
+
+The three-point shot.
+
+Because of the three-point shot UMBC was more effective shooting the ball in the first half. Effective field goal percentage accounts for a three-pointer being worth more than two-pointer. 
+
+<pre>
+eFG% = (.5 * 3FGM + FGM) / FGA * 100
+</pre>
+
+The Retrievers attempted 20 shots, made seven shots, but five of those 20 shots were made three-pointers. An eFG% of 47.5. 
+
+While Virginia attempted 23 shots, made nine shots, and only one of those 23 shots was a made three-pointer. An eFG% of 41.3. 
+
+The three-point shot was already showing its variance and difference in the first half. UMBC spread out the Pack Line defense. It was clear drive-and-kick was going to be the Retrievers' strategy. 
+
+Watch how the Retrievers move the ball here. Daniel Akin slips the screen, and leaves Jack Salt trying to recover as Mamadi Diakite goes to help towards the basket. 
+
+Akin knows Arkel Lamar is now open and somehow gets the ball to Akin, who drives into the paint, collapsing the defense even more and leaving Jairus Lyles a clean look from three. 
+
+<div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/AdoredLeadingEthiopianwolf?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
+
+The effective shooting wasn't the only reason Virginia found itself tied with UMBC at the half. Fouls and injuries played a role early. 
+
+Virginia's Devon Hall and Isaiah Wilkins each committed a pair of fouls in the first half, and the two starters played just a combined 19 minutes. As a comparison, the duo played a combined 34 minutes in the first half of the ACC Championship game against North Carolina a week prior. 
+
+Freshman DeAndre Hunter broke his left wrist after playing in all 32 games prior to the NCAA Tournament. Hunter was named the Sixth Man of the Year in the ACC for a reason. His absence limited Virginia, and especially in the second half. 
+
+**Second Half: Four minutes and eight seconds**
+
+While the second half lasted 20 minutes, it really only lasted four minutes and eight seconds. 
+
+Paul Guttman, of the Streaking Lawn, was absolutely prophetic in his [preview of this matchup](https://www.streakingthelawn.com/2018/3/14/17120296/march-madness-2018-preview-umbc-retrievers-virginia-cavaliers-first-round-picks-odds-time-channel). Guttman poses that spreading out the Hoos will leave driving lanes open, and the injury to DeAndre Hunter poses a matchup problem.
+
+>  Can Isaiah Wilkins stay with one of the bigger wings on the perimeter? 
+
+Joe Sherburne answered this question on the first possession of the second half. Sherburne beat Wilkins off the dribble and got fouled to give UMBC a three-point lead. 
+
+<div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/SimplisticGoldenAmphiuma?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
+
+Virginia missed yet another three-point shot on the next possession, and UMBC went for broke. Sherburne sunk an open three at the top of the key with 25 seconds left on the shot clock to give the Retrievers a six-point lead. 
+
+After UVA went one-of-two from the foul line, a couple minutes later, KJ Maura found a driving lane and got a layup with 22 seconds left on the shot clock. 
+
+*UMBC leads 29-22.* 
+
+The average possession length of each team was around 17 or 18 seconds in first half. In seven of their first eleven second half possessions, UMBC attempted a shot with **20 or more seconds left on the shot clock**. Ryan Odom and the Retrievers were done being patient, and it paid off. 
+
+Virginia started to trade two points for three points as Ty Jerome got a tough bucket in the post, and Jared Lyles came down to nail another three-point shot. Jerome tried to match Lyles, but missed a three and it started to snowball. 
+
+The Retrievers only scored three second chance points in the second half, however, the timing of those three points proved massive. After Sherburne missed a three, Arkel Lamar pulled down the rebound and threw it right back to Sherburne for another clean look from long-range. 
+
+This time is fell, and now UMBC has a double-digit lead. 
+
+<div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/SpiritedSpryLeveret?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
+
+The Wahoos trailed by 11, and then threw the ball away on the next possession with this costly turnover between Ty Jerome and Devon Hall. 
+
+<div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/SmoothDecimalAmericanwirehair?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
+
+And to compound problems, Virginia's Devon Hall fouled Jared Lyles attempting a long three-point shot and it was time for the media timeout with 15:52 left. 
+
+<div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/DiscreteGoodBettong?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
+
+A game tied at 21 at the half was suddenly out of reach for Virginia. UMBC scored 14 points in just over four minutes, and led by 11. 
+
+Lyles made all three foul shots after the break, and the score was 38-24 with 15:52 left in the game. Four minutes and eight seconds. 
+
+Virginia never recovered. 
+
+UMBC exploded in the second half scoring 1.51 points per possession. The 53 second half points were more than UVA gave up in 15 games this season. 
+
+*But how the hell else did this happen?*
+
+Virginia trusted their style of play. Tony Bennett believes in it, and he believed the Cavaliers would get some stops and start making some shots to combat the Retrievers run in the second half. 
+
+But it was too late. 
+
+Virginia's style of play has more of a slender margin of error than you would expect from a team with a 31-2 record. Because the Cavaliers choose to play slow, it improves the opponents chances of getting lucky and leaves them more exposed to an upset. 
+
+*What does that mean?*
+
+Basketball is a game of possessions. Team A gets the ball, and then Team B gets the ball, Team A gets the ball, Team B gets the ball. The more possessions there are in the game gives the better team a chance to win. 
+
+It's why the NBA playoffs involve seven-games series. Not one. 
+
+Anything can happen in one game. 
+
+The first four minutes and eight seconds of the second half showed how anything can happen. UMBC built a 14-point led, and Virginia never caught up. 
+
+The Wahoos never pressed UMBC. They failed to make them uncomfortable. UMBC was in full control.
+
+Watch how UMBC brings the ball up after this made Virginia basket. There is a little over five minutes to go, and the Retrievers are up 12 points. 
+
+KJ Maura lets the ball bounce taking a few seconds off the clock before the 30-second shot clock starts. UVA applies zero pressure and Kyle Guy picks up Maura at half-court. 
+
+<div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/YellowFixedGelding?autoplay=0' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
+
+Once UMBC had a lead, it used Virginia's decision to play slow against them. And it worked. 
+
+There are a couple outstanding Twitter threads that shed some light into how this game unfolded too. 
+
+[Brett Koremenos](https://twitter.com/BKoremenos/) details the success of UMBC and Marshall in the first round of the tournament [in this thread](https://twitter.com/BKoremenos/status/975055489867202560).
+
+{{< tweet 975070094085693440 >}}
+
+UMBC spread the floor and took advantage of the Pack Line defense. UVA wants to draw you into the paint, and make it tough to get a shot. The Retrievers were happy to drive into the paint because they were able to kick it out for three-point shots. And they made those shots. 
+
+[Adam Stanco](https://twitter.com/NaismithLives/) explains how Ryan Odom made the ballsy call to speed UVA up in the second half, and the Cavaliers got uncomfortable. 
+
+{{< tweet 974890170553049088 >}}
+
+*So, does this mean Virginia can't win in March or win a National Championship?*
+
+The hot takes about Virginia's style of play and winning in the postseason are spicy. The Wahoos have only made it as far as the Elite Eight under Tony Bennett despite several high-seeds in the post-season. 
+
+But wondering if this style of play can work in March is like asking the minimax theory question: would you rather go on a picnic or bowling? 
+
+Two of Virginia's players were limited in the first half do to foul trouble. A major contributor to its team got hurt right before the tournament. A lot of three-point variance happened because UMBC shot above-average and Virginia below-average. UMBC got a big lead, and Virginia plays slow, so it had a hard time catching up. 
+
+Sometimes it rains when you choose to go on a picnic. 
+
+Because it's not how well you play the game, it's deciding what game you want to play.
+
+
+
+
+
+
+
+
+
+
+

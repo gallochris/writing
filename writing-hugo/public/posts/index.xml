@@ -6,10 +6,24 @@
     <description>Recent content in Posts on Chris Gallo | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.hotdogsandeggs.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Decisions</title>
+      <link>https://blog.hotdogsandeggs.com/decisions/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.hotdogsandeggs.com/decisions/</guid>
+      <description>How do you make a decision?
+Little ones. Big decisions.
+Do you trust your gut? Ask for advice?
+There are countless theories and heuristics to help you make decisions. For example, one popular rule in decision theory is known as minimax.
+Minimax is conservative. The rule says to pick the option that assures you the highest minimum utility.
+Brian Burke gives a perfect explanation in this article describing coaching decisions in the NFL.</description>
+    </item>
     
     <item>
       <title>How &gt; What</title>
