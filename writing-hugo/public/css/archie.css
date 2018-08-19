@@ -34,7 +34,7 @@ header {
 
 footer { 
 text-align: center; 
-font-size: 12px;
+font-size: 14px;
 line-height: 2;
 } 
 
@@ -83,7 +83,7 @@ blockquote {
 
 .please { 
  text-align: center;
- font-size: 12px;
+ font-size: 14px;
  }
 
 .ohyella {
@@ -95,4 +95,15 @@ blockquote {
 .readtime { 
  color:#d38956;
  }
+
+ @media screen and (max-width: 650px) {
+  .please { 
+ font-size: 12px;
+ }
+
+ footer { 
+ font-size: 12px;
+  }
+
+}
 
