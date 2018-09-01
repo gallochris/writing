@@ -1,20 +1,42 @@
+.topper { 
+display: inline-block; 
+vertical-align: middle;  
+margin: 0; 
+padding: 1em; 
+width: 100%;
+height: 100%; 
+text-align: center; 
+font-weight: bolder; 
+background-color: #fff; 
+color: #14191d;
+ }
+
+.topper a { 
+color: #14191d;
+  }
+
+
 body { 
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.7;
+  margin: 0 auto;
+  color: #fff; 
+  background-color: #14191d;
+}
+
+.heyo { 
   padding: 1em;
   margin: 0 auto;
-  max-width: 50em;
-  color: #14191d; 
-  background-color: rgb(235, 239, 243);
-}
+  max-width: 600px;
+  line-height: 1.5em;
+  color: #fff; 
+ }
 
 h1 {
   font-size: 28px;
 }
-b { 
-  color: #0c0f12;
- }
+
 h2 {
   font-size: 24px;
 }
@@ -86,11 +108,7 @@ blockquote {
  font-size: 14px;
  }
 
-.ohyella {
-  background-color: #faf785; 
-  padding: 0.03em;  
-  border-radius: 1em 0 1em 0;
-}
+
 
 .readtime { 
  color:#d38956;
