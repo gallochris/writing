@@ -17,8 +17,7 @@ body {
   font-size: 16px;
   line-height: 1.7;
   margin: 0 auto;
-  color: #fff; 
-  background-color: #14191d;
+  background-color: #d8e9ef;
 }
 
 .heyo { 
@@ -26,7 +25,7 @@ body {
   margin: 0 auto;
   max-width: 600px;
   line-height: 1.5em;
-  color: #fff; 
+  color: #454552;
  }
 
 h1 {
@@ -41,9 +40,10 @@ h3 {
 }
 
 a { 
-    border-bottom: 2px solid #56a0d3;
+    border-bottom: 2px solid #4ea1d3; 
     text-decoration: none;
-    color: inherit;
+    font-weight: bold;
+    color: #454552; 
   }
 
 header { 
@@ -104,6 +104,10 @@ blockquote {
  font-size: 14px;
  }
 
+.ohyella {
+  background-color: #faf785; 
+  padding: 0.03em; 
+}
 
 
 .readtime { 
