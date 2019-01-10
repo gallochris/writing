@@ -1,9 +1,9 @@
----
-title: "Breaking and Learning"
-slug: "break-and-learn"
-date: "2014-05-26"
-type: "post"
----
++++
+title = "Breaking and Learning"
+slug = "break-and-learn"
+date = "2014-05-26"
+type = "post"
++++ 
 
 The late James Yancey is one of the greatest music producers of all-time. Known as J Dilla, you've heard his creations over legendary songs from - Tribe Called Quest, Janet Jackson, De la Soul, and many more. 
 

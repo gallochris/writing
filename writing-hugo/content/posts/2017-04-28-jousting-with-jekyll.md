@@ -1,9 +1,9 @@
----
-title: "Jousting with Jekyll"
-slug: "jousting-with-jekyll"
-date: "2017-04-28"
-type: "post"
----
++++
+title = "Jousting with Jekyll"
+slug = "jousting-with-jekyll"
+date = "2017-04-28"
+type = "post"
++++ 
 
 One responsibility of the support team here at [Highrise](https://highrisehq.com/) is to maintain our Extras page.
 

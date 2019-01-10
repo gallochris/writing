@@ -1,9 +1,9 @@
----
-title: "Just Tell Them "
-slug: "just-tell-them"
-date: "2015-06-04"
-type: "post"
----
++++
+title = "Just Tell Them"
+slug = "just-tell-them"
+date = "2015-06-04"
+type = "post"
++++ 
 
 Your product isn't perfect. It has rough edges. Parts that take some time to understand. And things that aren't easy on the first or second try. 
 

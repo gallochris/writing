@@ -1,9 +1,9 @@
----
-title: "Don't Be a Robot, Create Conversations"
-slug: "create-conversations"
-date: "2014-06-24"
-type: "post"
----
++++
+title = "Don't Be a Robot, Create Conversations"
+slug =  "create-conversations"
+date = "2014-06-24"
+type = "post"
++++ 
 
 *This is a guest post published on [SupportOps](http://supportops.co/).*
 

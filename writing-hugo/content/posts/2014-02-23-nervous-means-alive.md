@@ -1,9 +1,9 @@
----
-title: "Nervous Means Alive"
-date: "2014-02-23"
-slug: "nervous"
-type: "post"
----
++++
+title = "Nervous Means Alive"
+slug = "nervous"
+date = "2014-02-23"
+type = "post"
++++ 
 
 > "It's okay to be nervous, it means your alive."
 

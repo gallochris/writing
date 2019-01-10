@@ -1,9 +1,9 @@
----
-title: "How They Use It"
-slug: "how-they-use-it"
-date: "2016-01-13"
-type: "post"
----
++++
+title = "How They Use It"
+slug = "how-they-use-it"
+date = "2016-01-13"
+type = "post"
++++ 
 
 How do people use Coca-Cola? 
 

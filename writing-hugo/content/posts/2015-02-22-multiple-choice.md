@@ -1,9 +1,9 @@
----
-title: "Multiple Choice"
-slug: "multiple-choice"
-date: "2015-02-22"
-type: "post"
----
++++
+title = "Multiple Choice"
+slug = "multiple-choice"
+date = "2015-02-22"
+type = "post"
++++ 
 
 
 Which part of this sentence is grammatically incorrect? 

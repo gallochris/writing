@@ -1,9 +1,9 @@
----
-title: "Data is man-made"
-slug: "data-is-man-made"
-date: "2016-12-16"
-type: "post"
----
++++
+title = "Data is man-made"
+slug = "data-is-man-made"
+date = "2016-12-16"
+type = "post"
++++ 
 
 Here's a secret from the support team at Highrise. Customer support metrics make us feel icky. 
 

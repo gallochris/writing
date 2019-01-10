@@ -1,9 +1,9 @@
-----
-title: "Show, Don't Tell"
-slug: "show-dont-tell"
-date: "2014-06-01"
-type: "post"
----
++++
+title = "Show, Don't Tell"
+slug = "show-dont-tell"
+date = "2014-06-01"
+type = "post"
++++ 
 
 Show. Don't tell. 
 

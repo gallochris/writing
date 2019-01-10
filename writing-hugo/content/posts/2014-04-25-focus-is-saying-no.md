@@ -1,9 +1,9 @@
----
-title: "Focus is Saying No"
-slug: "focus"
-date: "2014-04-25"
-type: "post"
----
++++
+title = "Focus is Saying No"
+slug = "focus"
+date = "2014-04-25"
+type = "post"
++++ 
 
 People describe it as sketchy. Ghetto. Lame because you can't even get a mixed drink. The bathrooms are gross. And it smells like urinal cakes inside. 
 

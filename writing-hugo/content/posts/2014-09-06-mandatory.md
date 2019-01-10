@@ -1,9 +1,9 @@
----
-title: "No Longer Mandatory"
-slug: "mandatory"
-date: "2014-09-06"
-type: "post"
----
++++
+title = "No Longer Mandatory"
+slug = "mandatory"
+date = "2014-09-06"
+type = "post"
++++ 
 
 Home run. 
 

@@ -1,9 +1,9 @@
----
-title: "Experience "
-date: "2014-02-16"
-slug: "experience"
-type: "post"
----
++++
+title = "Experience"
+slug = "experience"
+date = "2014-02-16"
+type = "post"
++++ 
 
 Experience separates the old from the young. The good from the bad. The disciplined from the reckless. 
 

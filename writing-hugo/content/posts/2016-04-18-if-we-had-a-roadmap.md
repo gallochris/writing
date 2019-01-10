@@ -1,9 +1,9 @@
----
-title: "If we had a Roadmap"
-slug: "if-we-had-a-roadmap"
-date: "2016-04-18"
-type: "post"
----
++++
+title = "If we had a Roadmap"
+slug = "if-we-had-a-roadmap"
+date = "2016-04-18"
+type = "post"
++++ 
 
 ![uber-ride-small.png](https://cdn-images-1.medium.com/max/1600/1*rBlz6ZQgoErkl7NTsDNCQg.png)
 

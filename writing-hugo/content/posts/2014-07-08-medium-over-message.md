@@ -1,9 +1,9 @@
----
-title: "Medium > Message"
-slug: "medium-message"
-date: "2014-07-08"
-type: "post"
----
++++
+title = "Medium > Message"
+slug = "medium-message"
+date = "2014-07-08"
+type = "post"
++++ 
 
 You have an amazing amount of ways to communicate.
 

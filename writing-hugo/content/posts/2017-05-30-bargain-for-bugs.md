@@ -1,9 +1,9 @@
----
-title: "Bargain for Bugs"
-slug: "bargain-for-bugs"
-date: "2017-05-30"
-type: "post"
----
++++
+title = "Bargain for Bugs"
+slug = "bargain-for-bugs"
+date = "2017-05-30"
+type = "post"
++++ 
 
 ![](https://cdn-images-1.medium.com/max/1600/1*zjcT_Fy9Gh1BpsWfAMQ0PQ.png)
 
@@ -25,7 +25,7 @@ Because sometimes what you think is a bug isn’t a bug at all. It’s an
 We’re firm believers that the [best answer is a
 question](https://medium.com/@cjgallo/the-best-answer-is-a-question-a5484265cc70).
 
-Because if you expected *X*, and got *Y *— that’s not a bug. It’s an
+Because if you expected *X*, and got *Y*— that’s not a bug. It’s an
 expectation. What did you expect to happen is a powerful question.
 
 *****

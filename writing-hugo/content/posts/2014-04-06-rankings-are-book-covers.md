@@ -1,9 +1,9 @@
----
-title: "Rankings are Book Covers"
-slug: "rankings"
-date: "2014-04-06"
-type: "post"
----
++++
+title = "Rankings are Book Covers"
+slug = "rankings"
+date = "2014-04-06"
+type = "post"
++++ 
 
 In high school, I remember wrapping my textbooks with a paper bag. The covers protected the books, so schools didn't have to buy new ones every year. 
 

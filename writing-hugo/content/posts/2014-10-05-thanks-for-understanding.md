@@ -1,9 +1,9 @@
----
-title: "Thanks for Understanding"
-slug: "thanks-for-understanding"
-date: "2014-10-05"
-type: "post"
----
++++
+title = "Thanks for Understanding"
+slug = "thanks-for-understanding"
+date = "2014-10-05"
+type = "post"
++++ 
 
 Two stories to share. Compare and contrast. Both involve trips to a cafe. And how these places communicate with you.  
 

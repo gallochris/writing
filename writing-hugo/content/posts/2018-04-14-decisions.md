@@ -1,9 +1,9 @@
----
-title: "Decisions"
-slug: "decisions"
-date: "2018-04-14"
-type: "post"
----
++++
+title = "Decisions"
+slug = "decisions"
+date = "2018-04-14"
+type = "post"
++++ 
 
 How do you make a decision? 
 

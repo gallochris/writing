@@ -1,9 +1,9 @@
----
-title: "What is Time? "
-slug: "what-is-time"
-date: "2014-08-26"
-type: "post"
----
++++
+title = "What is Time?"
+slug = "what-is-time"
+date = "2014-08-26"
+type = "post"
++++ 
 
 What is time? 
 

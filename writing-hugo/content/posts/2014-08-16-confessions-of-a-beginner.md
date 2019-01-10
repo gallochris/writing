@@ -1,9 +1,9 @@
----
-title: "Confessions of a Beginner"
-slug: "beginner-confessions"
-date: "2014-08-16"
-type: "post"
----
++++
+title = "Confessions of a Beginner"
+slug = "beginner-confessions"
+date = "2014-08-16"
+type = "post"
++++ 
 
 
 This week I put a new coat of paint on my personal website - [hotdogsandeggs.com](http://hotdogsandeggs.com). 

@@ -1,15 +1,10 @@
----
-title: "Characters of Competition"
-slug: "chracters-of-competition"
-date: "2014-03-31"
-type: "post"
----
++++
+title = "Characters of Competition"
+slug = "chracters-of-competition"
+date = "2014-03-31"
+type = "post"
++++ 
 
-> Your competitor tomorrow may be completely different from your competitor today. It’s out of your control. What’s the point of worrying about things you can’t control?
-
-> Jason Fried and David Heinemeier Hansson, [Rework](https://itun.es/us/4Lfgz.l)
-
-* * * 
 
 Competition is all around you. A competitor might be a company in your industry, your favorite sports team's rival, or the candidate that applies from the same job as you. But there are far more characters of competition than competitors. 
 

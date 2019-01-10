@@ -1,9 +1,9 @@
----
-title: "Workarounds"
-slug: "workarounds"
-date: "2015-11-12"
-type: "post"
----
++++
+title = "Workarounds"
+slug = "workarounds"
+date = "2015-11-12"
+type = "post"
++++ 
 
 You can't do that. 
 

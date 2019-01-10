@@ -1,9 +1,9 @@
----
-title: "A Few Words About Transparency"
-slug: "transparency"
-date: "2014-08-31"
-type: "post"
----
++++
+title = "A Few Words About Transparency"
+slug = "transparency"
+date = "2014-08-31"
+type = "post"
++++ 
 
 "This isn't even the rental application," she confessed.  
 

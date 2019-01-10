@@ -1,9 +1,9 @@
----
-title: "Write a Cover Letter that gets You an Interview"
-date: "2014-03-01"
-slug: "cover-letter"
-type: "post"
----
++++
+title = "Write a Cover Letter that gets You an Interview"
+slug = "cover-letter"
+date = "2014-03-01"
+type = "post"
++++ 
 
 > “Never confuse movement with action.” - Ernest Hemingway
 

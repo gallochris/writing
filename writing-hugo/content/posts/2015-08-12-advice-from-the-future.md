@@ -1,9 +1,9 @@
----
-title: "Advice from the Future"
-slug: "advice-from-the-future"
-date: "2015-08-12"
-type: "post"
----
++++
+title = "Advice from the Future"
+slug = "advice-from-the-future"
+date = "2015-08-12"
+type = "post"
++++ 
 
 *Over the last six months, I slogged through one of the largest projects of my career. Our team built the new [Highrise help site](https://help.highrisehq.com/), a glorified, 105 article, user manual for [our product](https://highrisehq.com/). We redesigned everything. Rewrote every article. Reorganized every topic and question. Below is the advice I wish I had before we got started.*
 

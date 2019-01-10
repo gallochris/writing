@@ -1,9 +1,9 @@
----
-title: "Be the Plumber"
-slug: "be-the-plumber"
-date: "2016-03-09"
-type: "post"
----
++++
+title = "Be the Plumber"
+slug = "be-the-plumber"
+date = "2016-03-09"
+type = "post"
++++ 
 
 
 A 30-something immigrant with no fancy education or consumer product experience started a company in 2003. The product was first sales came out of the trunks of cars. 

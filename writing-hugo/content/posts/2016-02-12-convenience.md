@@ -1,9 +1,9 @@
----
-title: "Convenience"
-slug: "convenience"
-date: "2016-02-12"
-type: "post"
----
++++
+title = "Convenience"
+slug = "convenience"
+date = "2016-02-12"
+type = "post"
++++ 
 
 "I can't do this, no idea what this even means," I confessed. 
 

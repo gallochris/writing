@@ -1,9 +1,9 @@
----
-title: "Unlikely Experience"
-slug: "unlikely-experience"
-date: "2014-06-13"
-type: "post"
----
++++
+title = "Unlikely Experience"
+slug = "unlikely-experience"
+date = "2014-06-13"
+type = "post"
++++ 
 
 
 Ma'm, how do you want your steak cooked? Oh, well-done. I would recommend medium-well. 

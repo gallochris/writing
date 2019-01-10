@@ -1,9 +1,9 @@
----
-title: "Transcribe & Publish with Draft"
-slug: "transcribe-draft"
-date: "2014-05-07"
-type: "post"
----
++++
+title = "Transcribe & Publish with Draft"
+slug = "transcribe-draft"
+date = "2014-05-07"
+type = "post"
++++ 
 
 As a student intern with sports information, I used to have to transcribe coaches and players quotes for the media. I used an old recorder to rewind the tape.
 

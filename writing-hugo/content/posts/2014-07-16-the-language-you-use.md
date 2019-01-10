@@ -1,9 +1,9 @@
----
-title: "The Language You Use"
-slug: "langauge-you-use"
-date: "2014-07-16"
-type: "post"
----
++++
+title = "The Language You Use"
+slug = "langauge-you-use"
+date = "2014-07-16"
+type = "post"
++++ 
 
 
 My father will forget more baseball than I will ever know. 

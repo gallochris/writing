@@ -1,9 +1,9 @@
----
-title: "Do the opposite"
-slug: "do-the-opposite"
-date: "2017-05-04"
-type: "post"
----
++++
+title = "Do the opposite"
+slug = "do-the-opposite"
+date = "2017-05-04"
+type = "post"
++++ 
 
 > When you ask people, ‘What’s the opposite of fragile?,’ they tend to say robust, resilient, adaptable, solid, strong. That’s not it. The opposite of fragile is something that gains from disorder. —  Nassim Nicholas Taleb, [Antifragile](http://people.hotdogsandeggs.com/nassim-nicholas-taleb)
 

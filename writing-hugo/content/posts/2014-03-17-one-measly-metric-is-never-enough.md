@@ -1,9 +1,9 @@
----
-title: "Is One Number Enough?"
-date: "2014-03-17"
-slug: "one-metric"
-type: "post"
----
++++
+title = "Is One Number Enough?"
+slug = "one-metric"
+date = "2014-03-17"
+type = "post"
++++ 
 
 I have the privilege of speaking with several business owners and marketers each week. These are people devoted to selling more online. One of the most popular questions I receive -  
 

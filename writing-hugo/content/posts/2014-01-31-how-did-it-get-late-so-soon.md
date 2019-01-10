@@ -1,9 +1,9 @@
----
-title: "Time"
-slug: "time"
-date: "2014-01-31"
-type: "post"
----
++++
+title = "Time"
+slug = "time"
+date = "2014-01-31"
+type = "post"
++++ 
 
 Time is money.  Billable or non-billable. Timelines and timetables. Measured by timecards and timesheets.
 

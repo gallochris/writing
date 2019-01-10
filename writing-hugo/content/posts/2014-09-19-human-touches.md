@@ -1,9 +1,9 @@
----
-title: "Small Human Touches"
-slug: "small-human-touches"
-date: "2014-09-19"
-type: "post"
----
++++
+title = "Small Human Touches"
+slug = "small-human-touches"
+date = "2014-09-19"
+type = "post"
++++ 
 
 Does anyone like waiting in line? 
 

@@ -1,9 +1,9 @@
----
-title: "Not Good Enough"
-date: "2014-03-08"
-slug: "not-good-enough"
-type: "post"
----
++++
+title = "Not Good Enough"
+slug = "not-good-enough"
+date = "2014-03-08"
+type = "post"
++++ 
 
 I wanted to help. In one of my old jobs, we needed a designer. As a small company, we were spread thin. And I took the reigns on the design project. 
 

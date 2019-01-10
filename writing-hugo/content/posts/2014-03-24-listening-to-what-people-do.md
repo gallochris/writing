@@ -1,9 +1,9 @@
----
-title: "Listening to What People Do"
-date: "2014-03-24"
-slug: "listen-to-what-people-do"
-type: "post"
----
++++
+title = "Listening to What People Do"
+slug = "listen-to-what-people-do"
+date = "2014-03-24"
+type = "post"
++++ 
 
 Almost every weekday morning this past summer, I went to my local YMCA to exercise. When entering the gym, you stop to grab a key from the YMCA staff to put your things in a locker. 
 

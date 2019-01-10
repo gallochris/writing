@@ -1,9 +1,9 @@
----
-title: "Procrastination"
-slug: "procrastination"
-date: "2015-01-31"
-type: "post"
----
++++
+title = "Procrastination"
+slug = "procrastination"
+date = "2015-01-31"
+type = "post"
++++ 
 
 We all procrastinate. 
 

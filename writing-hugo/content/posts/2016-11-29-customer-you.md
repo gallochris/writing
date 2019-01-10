@@ -1,9 +1,9 @@
----
-title: "A Customer Can be You"
-slug: "customer-can-be-you"
-date: "2016-11-29"
-type: "post"
----
++++
+title = "A Customer Can be You"
+slug = "customer-can-be-you"
+date = "2016-11-29"
+type = "post"
++++ 
 
 [Roger Vergé](http://www.eater.com/2015/6/8/8745361/chef-roger-verge-died) was a world-renowned chef. He won the Michelin star for his restaurant, Moulin de Mougins, three times and countless other awards. 
 

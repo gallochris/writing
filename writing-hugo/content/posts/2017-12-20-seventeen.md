@@ -1,9 +1,9 @@
----
-title: "Seventeen"
-slug: "seventeen"
-date: "2017-12-20"
-type: "post"
----
++++
+title = "Seventeen"
+slug = "seventeen"
+date = "2017-12-20"
+type = "post"
++++ 
 
 As 2017 comes to a close, here are 17 things I learned in the year 2017.  
 

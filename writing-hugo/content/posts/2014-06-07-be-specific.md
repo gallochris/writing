@@ -1,9 +1,9 @@
----
-title: "Be Specific"
-slug: "be-specific"
-date: "2014-06-07"
-type: "post"
----
++++
+title = "Be Specific"
+slug = "be-specific"
+date = "2014-06-07"
+type = "post"
++++ 
 
 Stop. 
 

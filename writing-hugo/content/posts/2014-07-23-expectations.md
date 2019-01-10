@@ -1,9 +1,9 @@
----
-title: "Expecting Expectations "
-slug: "expectations"
-date: "2014-07-23"
-type: "post"
----
++++
+title = "Expecting Expectations"
+slug = "expectations"
+date = "2014-07-23"
+type = "post"
++++ 
 
 Cold. 
 

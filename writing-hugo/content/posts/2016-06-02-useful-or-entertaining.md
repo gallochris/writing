@@ -1,9 +1,9 @@
----
-title: "Useful or Entertaining"
-slug: "useful-or-entertaining"
-date: "2016-06-02"
-type: "post"
----
++++
+title = "Useful or Entertaining"
+slug = "useful-or-entertaining"
+date = "2016-06-02"
+type = "post"
++++ 
 
 When you come up with a new idea, how do you know if it's any *good*? 
 

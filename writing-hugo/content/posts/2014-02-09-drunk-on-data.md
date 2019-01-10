@@ -1,9 +1,9 @@
----
-title: "Drunk on Data"
-date: "2014-02-09"
-slug: "drunk-on-data"
-type: "post"
----
++++
+title = "Drunk on Data"
+slug = "drunk-on-date"
+date = "2014-02-09"
+type = "post"
++++ 
 
 
 You can make numbers say whatever you want. 

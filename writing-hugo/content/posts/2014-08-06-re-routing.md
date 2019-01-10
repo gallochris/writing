@@ -1,9 +1,9 @@
----
-title: "You Can't Rely on Efficiency Alone"
-slug: "efficiency-alone"
-date: "2014-08-06"
-type: "post"
----
++++
+title = "You Can't Rely on Efficiency Alone"
+slug = "efficiency-alone"
+date = "2014-08-06"
+type = "post"
++++ 
 
 
 Re-routing. 

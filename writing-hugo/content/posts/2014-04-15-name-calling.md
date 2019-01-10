@@ -1,9 +1,9 @@
----
-title: "Name Calling "
-slug: "name-calling"
-date: "2014-04-15"
-type: "post"
----
++++
+title = "Name Calling"
+slug = "name-calling"
+date = "2014-04-15"
+type = "post"
++++ 
 
 Users. Clients. Customers. Subscribers. Leads.  
 

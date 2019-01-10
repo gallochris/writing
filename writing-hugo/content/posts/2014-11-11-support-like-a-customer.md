@@ -1,9 +1,9 @@
----
-title: "Support Your Product Like a Customer"
-slug: "support-like-a-customer"
-date: "2014-11-11"
-type: "post"
----
++++
+title = "Support Your Product Like a Customer"
+slug = "support-like-a-customer"
+date = "2014-11-11"
+type = "post"
++++ 
 
 The housekeeper asks for confirmation, "you promise you won't tell my boss? 
 

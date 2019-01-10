@@ -1,9 +1,9 @@
-----
-title: "Cut it in Half"
-slug: "cut-it-in-half"
-date: "2014-05-19"
-type: "post"
----
++++
+title = "Cut it in Half"
+slug = "cut-it-in-half"
+date = "2014-05-19"
+type = "post"
++++ 
 
 This week my workout was cut in half. Instead of 32 laps in the pool, it's now just 16. 
 
