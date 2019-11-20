@@ -6,10 +6,24 @@
     <description>Recent content in Blog | Chris Gallo on Chris Gallo | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.hotdogsandeggs.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Jump Rope</title>
+      <link>https://blog.hotdogsandeggs.com/jump-rope/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.hotdogsandeggs.com/jump-rope/</guid>
+      <description>How do you get good at jumping rope?
+No one is born knowing how to jump rope.
+So, how do you get good at it?
+ Knowing how to do something and doing it are two different things.
+ Not to go all Yoda, but there is so much truth in that quote. Whenever learning something new, you have to do and not just know or say.
+In the past several months, I&amp;rsquo;ve built a tiny web application using the statistical programming language R.</description>
+    </item>
     
     <item>
       <title>Get a Goat</title>
