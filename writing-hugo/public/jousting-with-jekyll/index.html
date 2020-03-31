@@ -28,7 +28,7 @@
 
     <meta name="google-site-verification" content="n-mul2Oky0NnGKK9E6OWAOfm76i008AWrhJzyzDxFq0" />
 	
-	<meta name="generator" content="Hugo 0.55.5" />
+	<meta name="generator" content="Hugo 0.64.1" />
 </head>
 
 <div class="topper">
@@ -44,96 +44,51 @@
   <header>
   <h1>Jousting with Jekyll</h1>
   <p class="jangell">This post will take you about <span class="readtime">
-3 minutes</span> to read.</p>
+2 minutes</span> to read.</p>
   <hr class="tothetop">
   </header>
-				
-
-<p>One responsibility of the support team here at <a href="https://highrisehq.com/">Highrise</a> is to maintain our Extras page.</p>
-
+				<p>One responsibility of the support team here at <a href="https://highrisehq.com/">Highrise</a> is to maintain our Extras page.</p>
 <p>What’s the <a href="https://highrisehq.com/extras/">Extras page</a>?</p>
-
 <p>It’s a list of all the 3rd party products that integrate with Highrise. Almost
 all were built by the 3rd party using the <a href="https://github.com/basecamp/highrise-api">Highrise API</a>.</p>
-
 <p>This page is important for current and future customers because people use more
 than one product to get their work done. And these integrations can often save
 people tons of time.</p>
-
 <p>But it became an absolute pain to manage for us.</p>
-
 <p>Why?</p>
-
 <p>There are a whopping 63 different listings on the Extras page right now. Requests to add new listings, update current listings, and remove old listings started to add up.</p>
-
 <p>The Highrise marketing site is maintained using the static-site generator <a href="https://jekyllrb.com/">Jekyll</a>. It gives our team control over our content, it works fast, and it’s not a feature heavy dynamic CMS like Wordpress.</p>
-
-<p>Jekyll is simple. And powerful &hellip; if you know how to use that power.</p>
-
+<p>Jekyll is simple. And powerful . . . if you know how to use that power.</p>
 <p>The Extras page was just a giant HTML page in Jekyll. All listings were written in HTML, and if you needed to update a listing, you had to edit the repetitive
 HTML file and find exactly what line needed to be updated.</p>
-
 <p>This led to manual errors. Typos in HTML. Incorrect links. A lot of wasted time to make tiny changes.</p>
-
 <p>Enter <a href="https://jekyllrb.com/docs/datafiles/">Jekyll data files</a>.</p>
-
 <p>Data files give a middle finger to repetition. You can set custom options and load custom data to make your life much easier.</p>
-
 <h3 id="here-is-a-short-video-of-why-we-made-this-change-with-an-example">Here is a short video of why we made this change with an example:</h3>
-
-<p><br></p>
-
-<p><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="https://fast.wistia.net/embed/iframe/mfurfld6bh?videoFoam=true" title="Wistia video player" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe></div></div>
-<script src="https://fast.wistia.net/assets/external/E-v1.js" async></script></p>
-
-<p><br></p>
-
-<h3 id="how-to-use-data-files-in-jekyll">How to use data files in Jekyll</h3>
-
-<p><br>
-First, create a folder in your repo titled <code>_data</code> and save it. This is where you’re going to store your files.</p>
-
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 <p>Files can be in <code>.yml, .yaml, .json, or .csv</code> format. We’re using <code>.yml</code> in our example.</p>
-
 <p>Now, create a file you want to store in the <code>_data</code> folder. We’ve created the <code>highrises.yml</code> file.</p>
-
 <p>Here is an example of one of our data files in format:</p>
-
-<pre>
-    - name: Highrise iPhone App
-      link: https://highrisehq.com/apps/ios
-      image: extras/img_iphone_app.png
-      description: Collaborate on contacts, notes, and tasks all from your iPhone.
-    - name: Android
-      link: https://highrisehq.com/apps/android
-      image: extras/img_android_app.png
-      description: Collaborate on contacts, notes, and tasks all from your Android.
-      </pre>
-
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 <p>The data can now be accessed using in our HTML. The filename <code>highrises.yml</code> determines the
 variable name.</p>
-
 <p>This information can now be used in your templates or HTML files.</p>
-
 <p>For example:</p>
-
-<script type="application/javascript" src="//gist.github.com/gallochris/a583994674eee7426896040e98de74d2.js"></script>
+<script type="application/javascript" src="https://gist.github.com/gallochris/a583994674eee7426896040e98de74d2.js"></script>
 
 <p>Using  in our file, Jekyll will insert the information from the data file.</p>
-
-<p><img src="https://cdn-images-1.medium.com/max/800/1*7u5mIbo41YC9u_zwvBjSew.png" alt="Jekyll Example" /></p>
-
+<p><img src="https://cdn-images-1.medium.com/max/800/1*7u5mIbo41YC9u_zwvBjSew.png" alt="Jekyll Example"></p>
 <p>Data files have saved us lots of time here at Highrise. Other examples of where
 you might use them:</p>
-
 <ul>
 <li>accessing different authors’ bios of your blog</li>
 <li>posting store hours for your brick-and-mortar shop</li>
 <li>ordering any list of products you’re selling</li>
 </ul>
-
 <p>If you’re interested in learning Jekyll, we recommend checking out the <a href="http://jekyllrb.com/tutorials/home/">tutorials here</a> and the <a href="https://talk.jekyllrb.com/">community here</a>.</p>
-
 <p><em>This post was orginally published on Basecamp&rsquo;s <a href="https://m.signalvnoise.com/jousting-with-jekyll-20687ceea042">Signal v Noise</a>.</em></p>
 
 
@@ -145,9 +100,9 @@ you might use them:</p>
 	<footer class="footer" role="contentinfo">
 	<span><a href="/jousting-with-jekyll/#top">Go back to top</a></span>
 	<br>
-	<span class="date"> Last updated Dec 17, 2019</span>
+	<span class="date"> Last updated Mar 31, 2020</span>
 		<br>
-		<span>&copy; 2014 - 2019</span>
+		<span>&copy; 2014 - 2020</span>
 	</footer>
 </body>
 </html>
