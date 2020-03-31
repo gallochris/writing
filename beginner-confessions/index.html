@@ -28,7 +28,7 @@
 
     <meta name="google-site-verification" content="n-mul2Oky0NnGKK9E6OWAOfm76i008AWrhJzyzDxFq0" />
 	
-	<meta name="generator" content="Hugo 0.55.5" />
+	<meta name="generator" content="Hugo 0.64.1" />
 </head>
 
 <div class="topper">
@@ -47,110 +47,93 @@
 4 minutes</span> to read.</p>
   <hr class="tothetop">
   </header>
-				
-
-<p>This week I put a new coat of paint on my personal website - <a href="http://hotdogsandeggs.com">hotdogsandeggs.com</a>.</p>
-
+				<p>This week I put a new coat of paint on my personal website - <a href="http://hotdogsandeggs.com">hotdogsandeggs.com</a>.</p>
 <p>I wrote the code from scratch for the first time. It&rsquo;s effective not elegant. I&rsquo;m sure there are things I could simplify or improve. If you recognize something that could be better, please let me know <a href="https://twitter.com/cjagllo">@cjgallo</a>.</p>
-
 <p>I&rsquo;m a beginner. And this is what I learned writing the code on my own.</p>
-
-<hr />
-
-<h2 id="it-s-not-scary">It&rsquo;s Not Scary</h2>
-
+<hr>
+<h2 id="its-not-scary">It&rsquo;s Not Scary</h2>
 <blockquote>
 <p>HTML is just going around with a label maker and throwing labels on everything.</p>
-
+</blockquote>
+<blockquote>
 <p><a href="https://people.hotdogsandeggs.com/jessica-hische">Jessica Hische, Learn the Tools</a></p>
 </blockquote>
-
 <p>Jessica Hische is a designer. And she preaches how you must learn the tools to make the things you want to make. HTML is not scary or intimidating. You just throw a label on things.</p>
-
 <p>It&rsquo;s true.</p>
-
-<p><img src="https://draftin.com:443/images/19285?token=bvXoOlz6HkSUab8ZTklLvMXKnGdAw4JbCbsjaEfvSTVgCcoNwe6phRCuqUqgInUQKDw0FEU9lwLbkQ2yL_OrGDM" alt="funny-css.png" /></p>
-
+<p><img src="https://draftin.com:443/images/19285?token=bvXoOlz6HkSUab8ZTklLvMXKnGdAw4JbCbsjaEfvSTVgCcoNwe6phRCuqUqgInUQKDw0FEU9lwLbkQ2yL_OrGDM" alt="funny-css.png"></p>
 <p>Rasheed Wallace. Shaq. Muggsy Bogues. Randolph Childress. These are not just great basketball players. But the labels I used when creating the site. They live in a CSS file titled, you guessed it, Tim Duncan.</p>
-
 <p>This is proof that you just throw labels on everything. This makes it easier for me to understand how CSS and HTML work together. Plus, it creates a comfortable feeling because you can name things what you want.</p>
-
 <p>It&rsquo;s not scary.</p>
-
-<hr />
-
+<hr>
 <h2 id="rip-something-off">Rip Something Off</h2>
-
 <p><a href="http://humblepied.com/jim-coudal/">Jim Cloudal believes</a> you should find something you like and rip it off.</p>
-
 <p>This is unorthodox advice. But it teaches you how things you like that are made and how you can re-create them.</p>
-
 <p>Thanks to Jim, I ripped off his typography on <a href="http://coudal.com/">Cloudal Partners</a>. The headlines and sub-headings have an old-school feel of a newspaper. With thousands of fonts available today, it&rsquo;s refreshing what you can do with times new roman.</p>
-
-<p><img src="https://draftin.com:443/images/19286?token=uh3D26Qw5h5bUTgiSRSecnsyPPSu4dBYvLiuwUrEKYuLSk7qTt8CFK5kv0q06V-rF9G_v42ydf1FJdOzgy6uBus" alt="cloudal-typography.png" /></p>
-
+<p><img src="https://draftin.com:443/images/19286?token=uh3D26Qw5h5bUTgiSRSecnsyPPSu4dBYvLiuwUrEKYuLSk7qTt8CFK5kv0q06V-rF9G_v42ydf1FJdOzgy6uBus" alt="cloudal-typography.png"></p>
 <p>The letter spacing is really what makes this typography so beautiful. It&rsquo;s easy to read and catches your eye. I&rsquo;ve used it on the homepage, <a href="http://blog.hotdogsandeggs.com/">my blog</a>, and <a href="http://people.hotdogsandeggs.com">another project</a>.</p>
-
 <p>Another design I sought to rip off was from Frank Chimero. He uses a grid layout of to showcase his talks. The full-width squares or boxes was something that I really wanted to learn how to make.</p>
-
 <p>After toying with re-creating Frank&rsquo;s design, I realized the squares were not something that was necessary for me. I have four things I want someone to know when they visit <a href="http://hotdogsandeggs.com">hotdogsandeggs.com</a>.</p>
-
 <ol>
 <li>What hot dogs and eggs is</li>
 <li>I share what I know on my blog - <a href="http://blog.hotdogsandeggs.com">blog.hotdogsandeggs.com</a></li>
 <li>They can find inspiration from my project - <a href="http://people.hotdogsandeggs.com">people.hotdogsandeggs.com</a></li>
 <li>And who I am - a short bio</li>
 </ol>
+<p>Instead of squares I split the site into these four sections using the full-width design that mirrors Frank&rsquo;s design. It&rsquo;s a class titled <em>shaq</em> that includes these styles:</p>
+<pre><code class="language-max-width:" data-lang="max-width:">  margin: 0;
+  padding: 0;```
 
-<p>Instead of squares I split the site into these four sections using the full-width design that mirrors Frank&rsquo;s design. It&rsquo;s a class titled <em>shaq</em> that includes these styles:
-<code>max-width: none;
-  margin: 0;
-  padding: 0;</code></p>
+There is nothing wrong with ripping something off to help you learn. As Frank states on his site, &quot;Be nice. Give credit. Share, don't steal.&quot; 
 
-<p>There is nothing wrong with ripping something off to help you learn. As Frank states on his site, &ldquo;Be nice. Give credit. Share, don&rsquo;t steal.&rdquo;</p>
+* * * 
 
-<hr />
+## Email is a Great Way to Learn
 
-<h2 id="email-is-a-great-way-to-learn">Email is a Great Way to Learn</h2>
+Lots of people want to kill email or declare it's dying. It's simply not true. As [Alex Madrigal describes](http://www.theatlantic.com/technology/archive/2014/08/why-email-will-never-die/375973/), email is &quot;the cockroach of the Internet.&quot; 
 
-<p>Lots of people want to kill email or declare it&rsquo;s dying. It&rsquo;s simply not true. As <a href="http://www.theatlantic.com/technology/archive/2014/08/why-email-will-never-die/375973/">Alex Madrigal describes</a>, email is &ldquo;the cockroach of the Internet.&rdquo;</p>
+It's not going anywhere. 
 
-<p>It&rsquo;s not going anywhere.</p>
+Writing an HTML email is different. It's based on a lot of old standards and there is a lot that you cannot do. But you can use  inline styles. This means the CSS is written in combination with the HTML. 
 
-<p>Writing an HTML email is different. It&rsquo;s based on a lot of old standards and there is a lot that you cannot do. But you can use  inline styles. This means the CSS is written in combination with the HTML.</p>
+It can be exhausting, but I find it to be a great way to learn. 
 
-<p>It can be exhausting, but I find it to be a great way to learn.</p>
+[Jason Rodriguez](https://twitter.com/RodriguezCommaJ) delivers a [great explanation](http://alistapart.com/article/can-email-be-responsive) of how to write and design an HTML email. He describes why HTML sucks: 
 
-<p><a href="https://twitter.com/RodriguezCommaJ">Jason Rodriguez</a> delivers a <a href="http://alistapart.com/article/can-email-be-responsive">great explanation</a> of how to write and design an HTML email. He describes why HTML sucks:</p>
+&gt; It’s like getting into a time machine and stepping out into a hellish ’90s world of table-based layouts, inline styles, non-semantic markup, and client-specific hacks.
 
-<blockquote>
-<p>It’s like getting into a time machine and stepping out into a hellish ’90s world of table-based layouts, inline styles, non-semantic markup, and client-specific hacks.</p>
+&gt; [Jason Rodriguez, Can Email be Responsive?](http://alistapart.com/article/can-email-be-responsive)
 
-<p><a href="http://alistapart.com/article/can-email-be-responsive">Jason Rodriguez, Can Email be Responsive?</a></p>
-</blockquote>
+With the annoyances of writing code for email comes lots of opportunity to learn. For example, using [Salted](https://github.com/rodriguezcommaj/salted) - a responsive template from Jason and [Litmus](https://litmus.com/) - I discovered ways to build bulletproof buttons. 
 
-<p>With the annoyances of writing code for email comes lots of opportunity to learn. For example, using <a href="https://github.com/rodriguezcommaj/salted">Salted</a> - a responsive template from Jason and <a href="https://litmus.com/">Litmus</a> - I discovered ways to build bulletproof buttons.</p>
+As a beginner, I thought a fancy button must always be an image. Since lots of email clients strip images, the bulletproof button approach makes a lot of sense when writing an HTML email. 
 
-<p>As a beginner, I thought a fancy button must always be an image. Since lots of email clients strip images, the bulletproof button approach makes a lot of sense when writing an HTML email.</p>
+![people-hotdogsandeggs.png](https://draftin.com:443/images/19287?token=ZLMu3XAnhOedYifGvcAeCLI-BF8R0F3idZ1UODSHFh3txg6vSoiZCpYX1e0u5Sp18CNMCkRLZldYuuzRjHIx-gU) 
 
-<p><img src="https://draftin.com:443/images/19287?token=ZLMu3XAnhOedYifGvcAeCLI-BF8R0F3idZ1UODSHFh3txg6vSoiZCpYX1e0u5Sp18CNMCkRLZldYuuzRjHIx-gU" alt="people-hotdogsandeggs.png" /></p>
+Using CSS instead, I discovered how to make beautiful buttons without using an image. You will find the same types of buttons on my site that you will in the Salted email template. 
 
-<p>Using CSS instead, I discovered how to make beautiful buttons without using an image. You will find the same types of buttons on my site that you will in the Salted email template.</p>
+After reading through [an example](http://www.pinterest.com/pin/553802085401758894/) of the Salted template, you also find it's easy to digest information too. This design inspired me to re-create something similar for my site. Four sections with clear calls to action and easy to digest language. 
 
-<p>After reading through <a href="http://www.pinterest.com/pin/553802085401758894/">an example</a> of the Salted template, you also find it&rsquo;s easy to digest information too. This design inspired me to re-create something similar for my site. Four sections with clear calls to action and easy to digest language.</p>
+Yes, writing an HTML email is a pain. But it forces you to understand how code works and why you should use specific approaches in certain situations. 
 
-<p>Yes, writing an HTML email is a pain. But it forces you to understand how code works and why you should use specific approaches in certain situations.</p>
+It's an awesome way to learn. 
 
-<p>It&rsquo;s an awesome way to learn.</p>
+* * * 
 
-<hr />
+## So What's Next? 
 
-<h2 id="so-what-s-next">So What&rsquo;s Next?</h2>
+Learning to code is not easy. But it's so rewarding when you build something that makes you proud. 
 
-<p>Learning to code is not easy. But it&rsquo;s so rewarding when you build something that makes you proud.</p>
+There's a ton more for me to learn. And I can't wait. 
 
-<p>There&rsquo;s a ton more for me to learn. And I can&rsquo;t wait.</p>
 
+
+
+
+
+
+
+
+</code></pre>
 
 <hr>
 <p class="please">Find me on <b>Twitter</b> <a href="https://twitter.com/thischrisgallo">@thischrisgallo</a> or <b>GitHub</b> <a href="https://github.com/gallochris" >@gallochris</a> or <b>Instagram</b> <a href="https://instagram.com/heygallo">@heygallo</a>. </p>
@@ -160,9 +143,9 @@
 	<footer class="footer" role="contentinfo">
 	<span><a href="/beginner-confessions/#top">Go back to top</a></span>
 	<br>
-	<span class="date"> Last updated Dec 17, 2019</span>
+	<span class="date"> Last updated Mar 31, 2020</span>
 		<br>
-		<span>&copy; 2014 - 2019</span>
+		<span>&copy; 2014 - 2020</span>
 	</footer>
 </body>
 </html>
