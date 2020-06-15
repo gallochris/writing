@@ -1,7 +1,7 @@
 +++
 title = "Marginal Thinking"
 slug = "marginal-thinking"
-date = "2020-06-08"
+date = "2020-06-15"
 type = "post"
 +++ 
 
