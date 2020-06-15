@@ -39,20 +39,7 @@ He went from selling baseball cards to selling wine. Because he connected the do
 
 > "Frank Thomas, Ken Griffey Jr., Wayne Gretzky. Silver Oak, Caymus, Chateau Lafite. Same shit." 
 
-> [Gary Vaynerchuk, The Cain Conversation](http://www.youtube.com/watch?
-v=lsqaqRBTj_s&feature=youtu.be&t=6m7s)
-
- * * *
-
-## Put in the time.
-
-Louis C.K. started doing standup in 1984. As a writer on the Conan O'Brien Show, he once played a tree in a sketch. He didn't all of sudden become great. 
-
-It took patience and persistence to win Emmys. It took doing things for free. It took experience.
-
-> "A 55 year old garbage man is a million times smarter than a 28 year old with 3 PHDs. Especially smarter than him. The garbage man is 55. He has *experience*. Things have happened to him."
-
-> [Louis C.K., Older is Smarter](http://youtu.be/rXcWeFn-YYM?t=1m46s)
+> [Gary Vaynerchuk, The Cain Conversation](http://www.youtube.com/watch?v=lsqaqRBTj_s&feature=youtu.be&t=6m7s)
 
 * * *
 

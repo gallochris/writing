@@ -44,8 +44,6 @@ Ads are not going to help here. The page features tons of links and a search bar
 
 The medium of an animated gif entertains you. This makes you smile. You almost want to refresh the page to see the next blunder. It's a brilliant way to deliver a simple message. 
 
-![mlb-404.gif](https://draftin.com:443/images/17017?token=0WocXh1Y1FnVck5kZ1VXNo8-Y3-a5aCoPZQ6jwKtGl7H-F6xPBsNYpjBqta-phN0R-AhjeRiUWeF_5yYKcyQAoY) 
-
 * * * 
 
 Steve Jobs' answer was about Apple's advertising. If you continue to [watch the video](https://www.youtube.com/watch?v=3LEXae1j6EY&feature=youtu.be&t=46m50s), you will hear Jobs explain why Apple should avoid television or commercials this year (1997). 

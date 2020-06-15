@@ -54,7 +54,6 @@ George Foote, a telecommunications lawyer, says fast lane and slow lane is not t
 
 Oliver calls bullshit on this boring explanation. He says it won't be Usain Bolt and Usain Bolt on a motor-bike. It will be Usian Bolt and Usian Bolt-ed to an anchor. Colorful language that's easy to understand.  
 
-![last-week-tonight-usian-bolt.png](https://draftin.com:443/images/17753?token=lW4JuuYBf9wqIY21u_XbolHeEPkauYHulcOTkYlMV9XQeoK9MHjihkUlnfpojwDS_8J2fm3eKkXEdqHond1_g0U) 
 
 ## A dingo as a babysitter. 
 
@@ -62,9 +61,9 @@ President Obama tabbed John Wheeler, a former top lobbyist for cable and telecom
 
 All boring language. That's why Oliver explains it as the equivalent of needing a babysitter and hiring a dingo. You can get how ridiculous that is because Oliver chooses words you can understand. 
 
-![last-week-tonight-dingo-babysitter.png](https://draftin.com:443/images/17755?token=uWyy8XOhRi5rarecSJ3AOCNLZhbDrfyetYgY2GesWPhA9Gn6WkX_S2JQag6CJknT74t-9-dJH0Uk4JMclkUX4jA) 
 
-## Preventing cable company f*ckery. 
+
+## Preventing cable company fuckery. 
 
 Oliver shares a clip, where the government uses the following language: *it seeks comment on ways to construe additional language in section 706, and even suggests using section 230B to broaden the scope of the commissions authority*. That's the problem. 
 
@@ -74,9 +73,8 @@ Oliver shares a clip, where the government uses the following language: *it seek
 
 Oliver makes the amazing example that Apple could put the entire text of Mein Kampf in the user agreement and you would just click agree. This leads Oliver to abandon the term Net Neutrality. 
 
-Just call it preventing cable company f*ckery. That's not boring. And it tells the whole story. 
+Just call it preventing cable company fuckery. That's not boring. And it tells the whole story. 
 
-![last-week-tonight-net-neutrality.png](https://draftin.com:443/images/17757?token=_ta9E08D_0TIGT7nesGMT9TTLq4MucOYbYypMA-XOIDeHOTadDbMjEzGOfAx_akxc_-9EMWtkKIMw28VPSbS8vc) 
 
 Make sure you [watch the whole clip here](https://www.youtube.com/watch?v=fpbOEoRrHyU&feature=kp). 
 

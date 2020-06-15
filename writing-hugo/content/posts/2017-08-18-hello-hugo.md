@@ -5,25 +5,23 @@ date = "2017-08-18"
 type = "post"
 +++ 
 
-<script src="https://fast.wistia.com/embed/medias/c27i0wnbg2.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:62.5% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_c27i0wnbg2 videoFoam=true" style="height:100%;width:100%">&nbsp;</div></div></div>
-
 * * * 
 
 ## Switching from Jekyll to Hugo
 
 *This is the transcription from the video above explaining why and how I switched from Jekyll to Hugo to generate my website.*
 
-Hey hey! Today I want to walk through why I chose to switch my personal website to being built in [[Jekyll](https://jekyllrb.com/)](https://jekyllrb.com/) to now using another static site generator called [[Hugo](https://gohugo.io/)](https://gohugo.io/). 
+Hey hey! Today I want to walk through why I chose to switch my personal website to being built in [Jekyll](https://jekyllrb.com/) to now using another static site generator called [Hugo](https://gohugo.io/). 
 
 I want to walk through why I made this switch, some details about how I made this switch, and if it was worth it.  
 
-This is my personal website, it's [hotdogsandeggs.com](https://hotdogsandeggs.com/). I have a couple subdomains as well. I've also built some side projects and all I've used in the past is [[Jekyll](https://jekyllrb.com/)](https://jekyllrb.com/). 
+This is my personal website, it's [hotdogsandeggs.com](https://hotdogsandeggs.com/). I have a couple subdomains as well. I've also built some side projects and all I've used in the past is [Jekyll](https://jekyllrb.com/). 
 
-[[Jekyll](https://jekyllrb.com/)](https://jekyllrb.com/) is a static site generator built in the programming language Ruby. It's pretty straightforward to use. A big reason why I chose to use [[Jekyll](https://jekyllrb.com/)](https://jekyllrb.com/) in the first place was it had free hosting with [GitHub Pages](https://pages.github.com/). That was a big selling point for me. I host most of my projects on GitHub Pages, so that integration was a big reason why I chose to use [Jekyll](https://jekyllrb.com/). 
+[Jekyll](https://jekyllrb.com/)](https://jekyllrb.com/) is a static site generator built in the programming language Ruby. It's pretty straightforward to use. A big reason why I chose to use [Jekyll](https://jekyllrb.com/) in the first place was it had free hosting with [GitHub Pages](https://pages.github.com/). That was a big selling point for me. I host most of my projects on GitHub Pages, so that integration was a big reason why I chose to use [Jekyll](https://jekyllrb.com/). 
 
-I'm in pretty deep with [Jekyll](https://jekyllrb.com/), so why would I choose to switch? A big reason why is **curiosity**. [[Hugo](https://gohugo.io/)](https://gohugo.io/) is another static site generator built in the programming language [Go](https://golang.org/).
+I'm in pretty deep with [Jekyll](https://jekyllrb.com/), so why would I choose to switch? A big reason why is **curiosity**. [Hugo](https://gohugo.io/) is another static site generator built in the programming language [Go](https://golang.org/).
 
-I have some teammates at [Highrise](https://highrisehq.com/] that built some things for the product using Go.  They had positive things to say, and they also mentioned how [Hugo](https://gohugo.io/) was really, really fast. That's probably the one thing you'll always hear about [Hugo](https://gohugo.io/). 
+I have some teammates at [Highrise](https://highrisehq.com/) that built some things for the product using Go. They had positive things to say, and they also mentioned how [Hugo](https://gohugo.io/) was really, really fast. That's probably the one thing you'll always hear about [Hugo](https://gohugo.io/). 
 
 So I was really curious about giving this a shot. I wanted to learn more and see if I could convert a site that was on [Jekyll](https://jekyllrb.com/) to [Hugo](https://gohugo.io/) easily. 
 
@@ -98,14 +96,4 @@ And I haven't really explored [data files](https://gohugo.io/templates/data-temp
 I hope this gives you a glimpse on how it was to switch and maybe it changes your perspective on creating a static site and what generator to use. 
 
 Thanks! 
-
-
-
-
-
-
-
-
-
- 
 

@@ -56,8 +56,6 @@ You can try the service for one month free of charge. Why not? Upon signing up f
 
 The choices were dead simple. 
 
-![amazon-efficient.png](https://draftin.com:443/images/18685?token=8J6Fd-hTBkidDDJLvZls_QJA9X_e_CL1IrxQjQ73ds588H70s_ZSzxmoOn5nolrSyELT4syx7p5-flJuMy1Xeec)  
-
 Read for free. Buy with 1-Click. Give as a gift. 
 
 Efficient. 
@@ -76,15 +74,11 @@ Re-routing.
 
 I headed over to twitter and searched "how to cancel Kindle Unlimited". And I found this tweet from [@TheInternetPatrol](https://twitter.com/InternetPatrol). 
 
-![cancel-kindle-unlimited.png](https://draftin.com:443/images/18687?token=uDIi07KqM9uG_GiNyfkGuoq8Y8Iyh5F6SkZRWpadAeL4W2nNAmPmrS0BJkbevKmFisfQj3VzA2bdmYHEMyIgED0) 
-
 There is a [step-by-step guide](http://www.theinternetpatrol.com/how-to-cancel-the-kindle-unlimited-service-on-amazon/?utm_source=dlvr.it&utm_medium=twitter) to cancel this free trial. That's absurd. A company that turns complicated into simple fails to make it easy to cancel. 
 
 I know, that's Amazon doing their job. But bullshit. If Amazon can make me buy something in one click and deliver something to me via a drone, why does it take a six step guide to cancel a service? 
 
 It feels like Jeff Bezos is just laughing at me. And I'm not the only one. Just take a look at the comments of [The Internet Patrol guide](http://www.theinternetpatrol.com/how-to-cancel-the-kindle-unlimited-service-on-amazon/?utm_source=dlvr.it&utm_medium=twitter). 
-
-![internet-patrol-comments.png](https://draftin.com:443/images/18689?token=rnW4Q6fD1M-6nLwj2DDoXi_kaiYkmhMw0MCNmZSaERKk7Up7FasRMMFoGOL2JgrCDHRCIlFrYfGer0LLefieU1w) 
 
 Amazon is not taking any interest in our comfort. It's transactional. Efficient. 
 

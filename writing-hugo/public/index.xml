@@ -6,10 +6,24 @@
     <description>Recent content in Blog | Chris Gallo on Chris Gallo | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.hotdogsandeggs.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Marginal Thinking</title>
+      <link>https://blog.hotdogsandeggs.com/marginal-thinking/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.hotdogsandeggs.com/marginal-thinking/</guid>
+      <description>The consequence of action. Every decision has consequences.
+Bad decision. Worse consequences.
+Good decision. Better consequences.
+The tricky part is most of the time the consequences are hidden.
+If you run a red light, and nothing happens, you don&amp;rsquo;t always feel like you made a poor choice.
+  If you give in to “just this once,” based on a marginal-cost analysis, you’ll regret where you end up. That’s the lesson I learned: It’s easier to hold to your principles 100% of the time than it is to hold to them 98% of the time.</description>
+    </item>
     
     <item>
       <title>Nothing is the Same</title>
@@ -169,7 +183,7 @@ It&amp;rsquo;s the conclusion.</description>
       
       <guid>https://blog.hotdogsandeggs.com/hello-hugo/</guid>
       <description>Switching from Jekyll to Hugo This is the transcription from the video above explaining why and how I switched from Jekyll to Hugo to generate my website.
-Hey hey! Today I want to walk through why I chose to switch my personal website to being built in [Jekyll](https://jekyllrb.com/) to now using another static site generator called [Hugo](https://gohugo.io/).
+Hey hey! Today I want to walk through why I chose to switch my personal website to being built in Jekyll to now using another static site generator called Hugo.
 I want to walk through why I made this switch, some details about how I made this switch, and if it was worth it.</description>
     </item>
     
@@ -593,7 +607,8 @@ These are all mediums to send your message. But is the medium becoming more impo
 The tour guide wipes his brow. And wonders how to respond.
 A chubby teenager, my eyelashes batted a few times. Blank stares colored the faces of everyone.
 What just happened?
-San Antonio. A tour of the Alamo. You&amp;rsquo;ll never guess the question this guy asked.</description>
+San Antonio. A tour of the Alamo. You&amp;rsquo;ll never guess the question this guy asked.
+What was it?</description>
     </item>
     
     <item>

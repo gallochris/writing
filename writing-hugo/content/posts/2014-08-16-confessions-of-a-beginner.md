@@ -24,8 +24,6 @@ Jessica Hische is a designer. And she preaches how you must learn the tools to m
 
 It's true. 
 
-![funny-css.png](https://draftin.com:443/images/19285?token=bvXoOlz6HkSUab8ZTklLvMXKnGdAw4JbCbsjaEfvSTVgCcoNwe6phRCuqUqgInUQKDw0FEU9lwLbkQ2yL_OrGDM) 
-
 Rasheed Wallace. Shaq. Muggsy Bogues. Randolph Childress. These are not just great basketball players. But the labels I used when creating the site. They live in a CSS file titled, you guessed it, Tim Duncan. 
 
 This is proof that you just throw labels on everything. This makes it easier for me to understand how CSS and HTML work together. Plus, it creates a comfortable feeling because you can name things what you want. 
@@ -42,8 +40,6 @@ This is unorthodox advice. But it teaches you how things you like that are made 
 
 Thanks to Jim, I ripped off his typography on [Cloudal Partners](http://coudal.com/). The headlines and sub-headings have an old-school feel of a newspaper. With thousands of fonts available today, it's refreshing what you can do with times new roman. 
 
-![cloudal-typography.png](https://draftin.com:443/images/19286?token=uh3D26Qw5h5bUTgiSRSecnsyPPSu4dBYvLiuwUrEKYuLSk7qTt8CFK5kv0q06V-rF9G_v42ydf1FJdOzgy6uBus) 
-
 The letter spacing is really what makes this typography so beautiful. It's easy to read and catches your eye. I've used it on the homepage, [my blog](http://blog.hotdogsandeggs.com/), and [another project](http://people.hotdogsandeggs.com).
 
 Another design I sought to rip off was from Frank Chimero. He uses a grid layout of to showcase his talks. The full-width squares or boxes was something that I really wanted to learn how to make. 
@@ -56,9 +52,12 @@ After toying with re-creating Frank's design, I realized the squares were not so
 4. And who I am - a short bio 
 
 Instead of squares I split the site into these four sections using the full-width design that mirrors Frank's design. It's a class titled *shaq* that includes these styles: 
-```max-width: none;
+
+```
+max-width: none;
   margin: 0;
-  padding: 0;```
+  padding: 0;
+```
 
 There is nothing wrong with ripping something off to help you learn. As Frank states on his site, "Be nice. Give credit. Share, don't steal." 
 
@@ -84,7 +83,6 @@ With the annoyances of writing code for email comes lots of opportunity to learn
 
 As a beginner, I thought a fancy button must always be an image. Since lots of email clients strip images, the bulletproof button approach makes a lot of sense when writing an HTML email. 
 
-![people-hotdogsandeggs.png](https://draftin.com:443/images/19287?token=ZLMu3XAnhOedYifGvcAeCLI-BF8R0F3idZ1UODSHFh3txg6vSoiZCpYX1e0u5Sp18CNMCkRLZldYuuzRjHIx-gU) 
 
 Using CSS instead, I discovered how to make beautiful buttons without using an image. You will find the same types of buttons on my site that you will in the Salted email template. 
 
@@ -101,12 +99,3 @@ It's an awesome way to learn.
 Learning to code is not easy. But it's so rewarding when you build something that makes you proud. 
 
 There's a ton more for me to learn. And I can't wait. 
-
-
-
-
-
-
-
-
-

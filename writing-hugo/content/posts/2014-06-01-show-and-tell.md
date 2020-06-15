@@ -31,7 +31,6 @@ Seems easy enough - right?
 
 Now let me show you with Skitch. 
 
-![skitch-example.png](https://draftin.com:443/images/15701?token=nq7-bkjYTjnSiuAcLIX-Dt5LQ8zE5-X3ZqaI-BnET2252NublJyIk-bJIvhmxDkBaotPFeawZMHmd0qXYdO82TA) 
 
 *Which one is easier to understand?*
 
@@ -51,7 +50,6 @@ To do this you need open Google Chrome as your browser. Then scroll down underne
 
 [LICEcap shows you](http://www.cockos.com/licecap/). And it takes all of 2 minutes to put together. The image automatically saves to your computer as a gif. 
 
-![example-licecap.gif](http://img.svbtle.com/liega0ebgsjtlq.gif)
 
 * * * 
 
@@ -64,8 +62,6 @@ Quicktime is built into MAC OS X and Wistia is free for up to 3 vidoes and 5 MB 
 Let's stick with the same example, but now we want to adjust the text for our twitter call to action at the end of each post.  Replace the text with - *Did you enjoy this post? Let me know on twitter?* - using inspect element in Google Chrome. 
 
 Simple enough. But here's how you can show someone how to do it using Quicktime and Wisita. 
-
-<iframe src="//fast.wistia.net/embed/iframe/ec700cc91q?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="640" height="360"></iframe><script src="//fast.wistia.net/assets/external/iframe-api-v1.js"></script>
 
 * * * 
 

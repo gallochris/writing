@@ -29,7 +29,7 @@ Expectations. These are the fuzzy feelings you have about things. If she will sa
 
 * * * 
 
-## <s>Customer</s> People Expectations
+## People's Expectations
 
 Expectations are everything when communicating with customers. Customers always have an expectation in mind - because customers are people. And businesses get choose how to deal with these expectations. 
 
@@ -37,7 +37,6 @@ Set the right expectations and you might have a customer for life. Fail to meet 
 
 ## Hiding Price
 
-![no-price.jpg](https://draftin.com:443/images/18047?token=10c4-I7p7FZJRw3wa7QIA8J_gxjCn1PF4JfAIKChJNUX8dhJqVlGAQLXKaq3nGy9iOf9vf1AQThwW9x6BIINm1w) 
 
 The beautiful business model of selling software. No physical product. A subscription-based service. Cancel at any time. Thousands of startups tinker with this business model every day. 
 
@@ -55,11 +54,9 @@ Without an expectation set on price, this young business is failing to understan
 
 ## CD Baby's Shipping Policy 
 
-![Screen Shot 2014-07-23 at 2.23.10 PM.png](https://draftin.com:443/images/18050?token=2gvYMLXGzLf-iiHW9CXSAq2b3g1GtfxDhNVk0j5sclSszLdCP_rMmVmRFwms2TXUxefyrOP25nwqfVHO44aGK1A) 
-
 Derek Sivers loves to experiment. The founder of CD Baby, Sivers shares lots of his experiments in his book *[Anything You Want](http://sivers.org/a)*. His [casual approach](http://members.cdbaby.com/shipping-confirmation.aspx) after someone submits an order and his [customer service philosophy](http://sivers.org/cs) are celebrated. 
 
-Because Derek understands the expectations of <s>customers</s> people. He's honest. He sees things from the other person's point of view. And that helped him build a multi-million dollar business. 
+Because Derek understands the expectations of people. He's honest. He sees things from the other person's point of view. And that helped him build a multi-million dollar business. 
 
 In his book, Derek recalls how customers would call and ask, "What time is it there? Do I still have time to get it sent today?" CD Baby would ship FedEx each day at 5 p.m. 
 
@@ -69,9 +66,9 @@ Customers wanted to know when they could expect their order to be delivered. And
 
 > Derek Sivers, [Anything You Want](http://sivers.org/a)
 
-Derek shares that <s>customers</s> people loved this. It's easy to see why. CD Baby set an expectation and met that expectation. 
+Derek shares that people loved this. It's easy to see why. CD Baby set an expectation and met that expectation. 
 
-When businesses set expectations and met those expectations, <s>customers</s> people are happy. 
+When businesses set expectations and met those expectations, people are happy. 
 
 * * * 
 

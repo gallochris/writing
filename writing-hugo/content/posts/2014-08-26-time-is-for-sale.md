@@ -41,7 +41,6 @@ He describes how he would send his wife blog posts for her to edit and he realiz
 
 Kontny eliminates several steps. He built Draft to send a link to his wife and she could edit it within the browser. He could then accept the changes he wanted or reject those he did not want. And that's it. 
 
-![Draft-share-link-app.png](https://draftin.com:443/images/19974?token=3a8utu0GnmQ23ZDm6Cv-4iZWrkuXuCrKUkdj9Fx8k-cMVmB3ID8uTarsHIU616WxqU2htW-oRPv72lL4JpfBUVk) 
 
 By eliminating steps Kontny has solved his own problem and one that was a major pain for other people too. Draft gives you a little bit of time back. 
 
@@ -62,8 +61,6 @@ Instead I packed up my things and pulled up Uber on my phone. I live in a reside
 Before I could take the second scoop from the bowl, the driver had already arrived at my apartment. He was backed into the driveway and ready to take me to Union Station. It cost just $15 and I arrived with 30 minutes to spare. 
 
 My favorite part about Uber is how you pay the driver. Let's compare the payment process with a taxi and Uber.
-
-![uber-image.jpg](https://draftin.com:443/images/19975?token=4T2lcfeYuu0_lBdLUqt8nZYekJLFJ2_lUdANhPdFJChwkiCfPDDsiHQyb7oj98R0DVKfP4zsHlhIg315o8Lx37I) 
 
 It's not always that bad. But it can be. There is not a standard rate for taxis. Some only take cash. Others can't take certain cards. Inconvenient. 
 
@@ -92,8 +89,6 @@ Shawn Fanning, Sean Parker, and the rest of the Napster crew obliterated that pr
 1. Open your computer and the Napster app. 
 2. Search for the artist's music. 
 3. Click download and play the music. 
-
-<iframe width="480" height="360" src="http://www.youtube.com/embed/KMzAetFgx2I" frameborder="0"> </iframe>
 
 You could do this all from your dorm room. Millions of people did. Because Napster would save you lots of time. 
 
