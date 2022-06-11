@@ -37,7 +37,7 @@ Learnings with this goal:
 
 I tried finishing [The Build Trap](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/), a book about product management. A lot of interesting concepts, but it was exhausting to read after being overwhelmed from a work day. I found myself not wanting to read _about work_ when _not working_. I really lacked motivation and just stopped reading the book. 
 
-I like documentaries, biographies, and history. I like the truth. I like reading about how accomplished people are simply just human beings with flaws like all of us. Dilla Time was a great book because it incorporated almost all of those things, and it reminded me of music I first listend to years ago. 
+I like documentaries, biographies, and history. I like the truth. I like reading about how accomplished people are simply just human beings with flaws like all of us. Dilla Time was a great book because it incorporated almost all of those things, and it reminded me of music I first listened to years ago. 
 
 I may experiment with listening to audio books as an alternative way to reach this goal. 
 
